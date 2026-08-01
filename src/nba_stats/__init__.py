@@ -1,5 +1,7 @@
 """NBA data utilities built on top of the nba_api package."""
 
+import nba_stats._ssl  # noqa: F401  # OS cert store before any HTTPS
+
 from nba_stats.boxscores import (
     get_boxscore,
     get_daily_player_boxscores,

@@ -6,6 +6,8 @@ import argparse
 from datetime import date
 from pathlib import Path
 
+import nba_stats._ssl  # noqa: F401  # OS cert store before any HTTPS
+
 from nba_stats import (
     get_boxscore,
     get_game_inactives,
