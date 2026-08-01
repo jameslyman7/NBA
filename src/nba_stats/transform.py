@@ -44,6 +44,7 @@ TEAM_BOXSCORE_COLUMNS = [
     "W/L",
     "Min",
     "Pts",
+    "Opp Pts",
     "FGM",
     "FGA",
     "FG%",
@@ -167,6 +168,21 @@ def player_logs_to_boxscores(df: pd.DataFrame) -> pd.DataFrame:
     return out[PLAYER_BOXSCORE_COLUMNS]
 
 
+def _opponent_pts(df: pd.DataFrame) -> pd.Series:
+    """Opponent points for each team row, paired by GAME_ID when available."""
+    if "GAME_ID" in df.columns and "PTS" in df.columns and not df["GAME_ID"].isna().all():
+        game_totals = df.groupby("GAME_ID", sort=False)["PTS"].transform("sum")
+        return game_totals - df["PTS"]
+
+    # Fallback: Pts - (+/-) when both sides of a game are not in the frame.
+    if "PTS" in df.columns and "PLUS_MINUS" in df.columns:
+        pts = pd.to_numeric(df["PTS"], errors="coerce")
+        plus_minus = pd.to_numeric(df["PLUS_MINUS"], errors="coerce")
+        return pts - plus_minus
+
+    return pd.Series([""] * len(df), index=df.index)
+
+
 def team_logs_to_boxscores(df: pd.DataFrame) -> pd.DataFrame:
     """Map LeagueGameLog team rows to the legacy team_boxscores.csv schema."""
     if df.empty:
@@ -180,6 +196,7 @@ def team_logs_to_boxscores(df: pd.DataFrame) -> pd.DataFrame:
             "W/L": df.get("WL", ""),
             "Min": df.get("MIN", ""),
             "Pts": df.get("PTS", ""),
+            "Opp Pts": _opponent_pts(df),
             "FGM": df.get("FGM", ""),
             "FGA": df.get("FGA", ""),
             "FG%": df.get("FG_PCT", "").map(_pct),

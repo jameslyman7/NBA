@@ -27,7 +27,7 @@ Output goes to `data/exports/YYYY-MM-DD/`:
 | File | Legacy equivalent | Columns |
 |------|-------------------|---------|
 | `boxscores.csv` | `NBA/Boxscores/boxscores.csv` | Player, Team, Match up, Date, W/L, Min, Pts, ... FP |
-| `team_boxscores.csv` | `NBA/Boxscores/team_boxscores.csv` | Team, Match up, Date, W/L, Min, Pts, ... +/- |
+| `team_boxscores.csv` | `NBA/Boxscores/team_boxscores.csv` | Team, Match up, Date, W/L, Min, Pts, Opp Pts, ... +/- |
 | `combined_injuries.csv` | `NBA/Injuries/combined_injuries.csv` | Identifier, Pos, Player, Status |
 | `league_results.csv` | `NBA/Results/league_results.csv` | Identifier, Date, OPP, RESULT, ATS/OU, Spread, Total |
 | `odds_lines.csv` | *(new detail file)* | Full sportsbook lines by market |

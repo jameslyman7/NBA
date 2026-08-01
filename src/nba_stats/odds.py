@@ -92,9 +92,19 @@ def get_odds_lines(preferred_book: str | None = "DraftKings") -> tuple[pd.DataFr
     Returns:
         Tuple of (detailed_lines, summary_lines) DataFrames.
         summary_lines has one row per game with spread, total, and moneyline.
+
+    Empty DataFrames are returned when the live feed is unavailable (offseason,
+    CDN blocks, or empty/non-JSON responses).
     """
-    endpoint = Odds()
-    games_data = endpoint.get_games()
+    try:
+        endpoint = Odds()
+        games_data = endpoint.get_games()
+    except (ValueError, TypeError, KeyError, OSError) as exc:
+        # nba_api raises JSONDecodeError (a ValueError) when the CDN returns
+        # HTML/"Access Denied" or an empty body — common offseason / blocks.
+        print(f"Warning: live odds unavailable ({exc}); continuing with empty odds.")
+        return pd.DataFrame(), pd.DataFrame()
+
     if games_data is None:
         return pd.DataFrame(), pd.DataFrame()
 
