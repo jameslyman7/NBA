@@ -15,6 +15,7 @@ from nba_stats import (
     get_season_schedule,
     get_standings,
     run_daily_export,
+    run_season_boxscores_export,
 )
 from nba_stats.utils import DEFAULT_EXPORT_DIR, current_season
 
@@ -74,6 +75,21 @@ def main() -> None:
         help="Skip ESPN league injury report",
     )
 
+    season_box_parser = subparsers.add_parser(
+        "export-season-boxscores",
+        help="Export full-season boxscores.csv and team_boxscores.csv",
+    )
+    season_box_parser.add_argument(
+        "--season",
+        default=current_season(),
+        help="Season string, e.g. 2024-25",
+    )
+    season_box_parser.add_argument(
+        "--output-dir",
+        default=None,
+        help=f"Output directory (default: {DEFAULT_EXPORT_DIR}/{{season}})",
+    )
+
     args = parser.parse_args()
 
     if args.command == "schedule":
@@ -115,6 +131,15 @@ def main() -> None:
             include_espn_injuries=not args.no_espn_injuries,
         )
         print(f"Exported daily data for {export.export_date.isoformat()}:")
+        for name, path in paths.items():
+            print(f"  {name}: {path}")
+
+    elif args.command == "export-season-boxscores":
+        paths = run_season_boxscores_export(
+            season=args.season,
+            output_dir=Path(args.output_dir) if args.output_dir else None,
+        )
+        print(f"Exported season box scores for {args.season}:")
         for name, path in paths.items():
             print(f"  {name}: {path}")
 

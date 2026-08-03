@@ -10,6 +10,7 @@ from nba_stats.teams import team_tricode
 
 PLAYER_BOXSCORE_COLUMNS = [
     "Player",
+    "Pos",
     "Team",
     "Match up",
     "Date",
@@ -135,9 +136,16 @@ def player_logs_to_boxscores(df: pd.DataFrame) -> pd.DataFrame:
     if df.empty:
         return pd.DataFrame(columns=PLAYER_BOXSCORE_COLUMNS)
 
+    positions = (
+        df["POSITION"].fillna("").astype(str)
+        if "POSITION" in df.columns
+        else pd.Series([""] * len(df), index=df.index)
+    )
+
     out = pd.DataFrame(
         {
             "Player": df.get("PLAYER_NAME", ""),
+            "Pos": positions,
             "Team": df.get("TEAM_ABBREVIATION", ""),
             "Match up": df.get("MATCHUP", "").map(_matchup_label),
             "Date": df.get("GAME_DATE", "").map(_format_boxscore_date),

@@ -7,9 +7,11 @@ from nba_stats.boxscores import (
     get_daily_player_boxscores,
     get_daily_team_boxscores,
     get_live_boxscore,
+    get_season_player_boxscores,
+    get_season_team_boxscores,
 )
 from nba_stats.daily import DailyExport, collect_daily_export
-from nba_stats.export import export_daily_csv, run_daily_export
+from nba_stats.export import export_daily_csv, run_daily_export, run_season_boxscores_export
 from nba_stats.injuries import get_daily_injuries, get_espn_injury_report, get_game_inactives
 from nba_stats.odds import get_odds_lines
 from nba_stats.schedules import (
@@ -35,7 +37,10 @@ __all__ = [
     "get_live_boxscore",
     "get_odds_lines",
     "get_scoreboard",
+    "get_season_player_boxscores",
     "get_season_schedule",
+    "get_season_team_boxscores",
     "get_standings",
     "run_daily_export",
+    "run_season_boxscores_export",
 ]

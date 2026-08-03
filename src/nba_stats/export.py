@@ -7,8 +7,9 @@ from pathlib import Path
 
 import pandas as pd
 
+from nba_stats.boxscores import get_season_player_boxscores, get_season_team_boxscores
 from nba_stats.daily import DailyExport, collect_daily_export
-from nba_stats.utils import DEFAULT_EXPORT_DIR, parse_game_date
+from nba_stats.utils import DEFAULT_EXPORT_DIR, api_pause, current_season, parse_game_date
 
 DAILY_FILES = {
     "player_boxscores": "boxscores.csv",
@@ -24,6 +25,11 @@ DAILY_FILES = {
 def export_dir_for_date(game_date: date, base_dir: Path | str = DEFAULT_EXPORT_DIR) -> Path:
     """Return the dated export directory path."""
     return Path(base_dir) / game_date.isoformat()
+
+
+def export_dir_for_season(season: str, base_dir: Path | str = DEFAULT_EXPORT_DIR) -> Path:
+    """Return the season export directory path (e.g. data/exports/2024-25)."""
+    return Path(base_dir) / season
 
 
 def export_daily_csv(
@@ -77,3 +83,32 @@ def run_daily_export(
     )
     paths = export_daily_csv(export, output_dir=target_dir)
     return export, paths
+
+
+def run_season_boxscores_export(
+    season: str | None = None,
+    output_dir: Path | str | None = None,
+    season_type: str = "Regular Season",
+) -> dict[str, Path]:
+    """
+    Write full-season player and team box score CSVs in the daily schemas.
+
+    Default paths:
+        data/exports/{season}/boxscores.csv
+        data/exports/{season}/team_boxscores.csv
+    """
+    season = season or current_season()
+    target_dir = Path(output_dir) if output_dir else export_dir_for_season(season)
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    player_df = get_season_player_boxscores(season=season, season_type=season_type)
+    api_pause()
+    team_df = get_season_team_boxscores(season=season, season_type=season_type)
+
+    paths = {
+        "player_boxscores": target_dir / "boxscores.csv",
+        "team_boxscores": target_dir / "team_boxscores.csv",
+    }
+    player_df.to_csv(paths["player_boxscores"], index=False)
+    team_df.to_csv(paths["team_boxscores"], index=False)
+    return paths
