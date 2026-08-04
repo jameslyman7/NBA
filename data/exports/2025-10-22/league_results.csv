@@ -1,25 +1,49 @@
 Identifier,Date,OPP,RESULT,ATS/OU,Spread,Total
-NYK,"Oct 22, 2025",CLE,Won 119-111,,,
-CLE,"Oct 22, 2025",@NYK,Lost 111-119,,,
-CHA,"Oct 22, 2025",BKN,Won 136-117,,,
-BKN,"Oct 22, 2025",@CHA,Lost 117-136,,,
-ORL,"Oct 22, 2025",MIA,Won 125-121,,,
-MIA,"Oct 22, 2025",@ORL,Lost 121-125,,,
-ATL,"Oct 22, 2025",TOR,Lost 118-138,,,
-TOR,"Oct 22, 2025",@ATL,Won 138-118,,,
-BOS,"Oct 22, 2025",PHI,Lost 116-117,,,
-PHI,"Oct 22, 2025",@BOS,Won 117-116,,,
-CHI,"Oct 22, 2025",DET,Won 115-111,,,
-DET,"Oct 22, 2025",@CHI,Lost 111-115,,,
-MEM,"Oct 22, 2025",NOP,Won 128-122,,,
-NOP,"Oct 22, 2025",@MEM,Lost 122-128,,,
-MIL,"Oct 22, 2025",WAS,Won 133-120,,,
-WAS,"Oct 22, 2025",@MIL,Lost 120-133,,,
-UTA,"Oct 22, 2025",LAC,Won 129-108,,,
-LAC,"Oct 22, 2025",@UTA,Lost 108-129,,,
-DAL,"Oct 22, 2025",SAS,Lost 92-125,,,
-SAS,"Oct 22, 2025",@DAL,Won 125-92,,,
-PHX,"Oct 22, 2025",SAC,Won 120-116,,,
-SAC,"Oct 22, 2025",@PHX,Lost 116-120,,,
-POR,"Oct 22, 2025",MIN,Lost 114-118,,,
-MIN,"Oct 22, 2025",@POR,Won 118-114,,,
+NYK,"Oct 22, 2025",CLE,Won 119-111,"Won /
+ Over",1.5,228.5
+CLE,"Oct 22, 2025",@NYK,Lost 111-119,"Lost /
+ Over",-1.5,228.5
+CHA,"Oct 22, 2025",BKN,Won 136-117,"Won /
+ Over",-5.5,228.5
+BKN,"Oct 22, 2025",@CHA,Lost 117-136,"Lost /
+ Over",5.5,228.5
+ORL,"Oct 22, 2025",MIA,Won 125-121,"Lost /
+ Over",-8.5,215.5
+MIA,"Oct 22, 2025",@ORL,Lost 121-125,"Won /
+ Over",8.5,215.5
+ATL,"Oct 22, 2025",TOR,Lost 118-138,"Lost /
+ Over",-5.5,237.5
+TOR,"Oct 22, 2025",@ATL,Won 138-118,"Won /
+ Over",5.5,237.5
+BOS,"Oct 22, 2025",PHI,Lost 116-117,"Lost /
+ Over",-5.5,229.5
+PHI,"Oct 22, 2025",@BOS,Won 117-116,"Won /
+ Over",5.5,229.5
+CHI,"Oct 22, 2025",DET,Won 115-111,"Won /
+ Under",3.5,236.5
+DET,"Oct 22, 2025",@CHI,Lost 111-115,"Lost /
+ Under",-3.5,236.5
+MEM,"Oct 22, 2025",NOP,Won 128-122,"Won /
+ Over",-3.5,236.5
+NOP,"Oct 22, 2025",@MEM,Lost 122-128,"Lost /
+ Over",3.5,236.5
+MIL,"Oct 22, 2025",WAS,Won 133-120,"Won /
+ Over",-8.5,228.5
+WAS,"Oct 22, 2025",@MIL,Lost 120-133,"Lost /
+ Over",8.5,228.5
+UTA,"Oct 22, 2025",LAC,Won 129-108,"Won /
+ Over",10.5,225.5
+LAC,"Oct 22, 2025",@UTA,Lost 108-129,"Lost /
+ Over",-10.5,225.5
+DAL,"Oct 22, 2025",SAS,Lost 92-125,"Lost /
+ Under",-3.5,223.5
+SAS,"Oct 22, 2025",@DAL,Won 125-92,"Won /
+ Under",3.5,223.5
+PHX,"Oct 22, 2025",SAC,Won 120-116,"Won /
+ Over",-3.5,228.5
+SAC,"Oct 22, 2025",@PHX,Lost 116-120,"Lost /
+ Over",3.5,228.5
+POR,"Oct 22, 2025",MIN,Lost 114-118,"Won /
+ Over",4.5,222.5
+MIN,"Oct 22, 2025",@POR,Won 118-114,"Lost /
+ Over",-4.5,222.5

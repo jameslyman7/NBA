@@ -16,6 +16,19 @@ SPECIAL_TRICODES = {
     "Golden State Warriors": "GSW",
 }
 
+# ESPN scoreboard abbreviations that differ from nba_api tricodes.
+ESPN_TRICODE_MAP = {
+    "NY": "NYK",
+    "NO": "NOP",
+    "SA": "SAS",
+    "GS": "GSW",
+    "UTAH": "UTA",
+    "WSH": "WAS",
+    "PHO": "PHX",
+    "BRO": "BKN",
+    "BK": "BKN",
+}
+
 
 def team_tricode(team_name: str) -> str:
     """Return a 3-letter team code from a full or partial team name."""
@@ -32,6 +45,26 @@ def team_tricode(team_name: str) -> str:
         return normalized
 
     return normalized[:3].upper()
+
+
+def normalize_espn_tricode(abbreviation: str) -> str:
+    """Map ESPN team abbreviations onto nba_api tricodes."""
+    abbr = (abbreviation or "").strip().upper()
+    return ESPN_TRICODE_MAP.get(abbr, abbr)
+
+
+def tricode_from_team_id(team_id: int | str | None) -> str:
+    """Return a tricode for an NBA team ID, or empty string if unknown."""
+    if team_id is None:
+        return ""
+    try:
+        tid = int(team_id)
+    except (TypeError, ValueError):
+        return ""
+    for team in nba_teams.get_teams():
+        if team["id"] == tid:
+            return team["abbreviation"]
+    return ""
 
 
 def tricode_from_filename(filename: str) -> str:

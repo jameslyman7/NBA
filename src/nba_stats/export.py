@@ -9,6 +9,7 @@ import pandas as pd
 
 from nba_stats.boxscores import get_season_player_boxscores, get_season_team_boxscores
 from nba_stats.daily import DailyExport, collect_daily_export
+from nba_stats.schedules import build_season_league_results
 from nba_stats.utils import DEFAULT_EXPORT_DIR, api_pause, current_season, parse_game_date
 
 DAILY_FILES = {
@@ -112,3 +113,23 @@ def run_season_boxscores_export(
     player_df.to_csv(paths["player_boxscores"], index=False)
     team_df.to_csv(paths["team_boxscores"], index=False)
     return paths
+
+
+def run_season_league_results_export(
+    season: str | None = None,
+    output_dir: Path | str | None = None,
+    include_odds: bool = True,
+) -> tuple[pd.DataFrame, Path]:
+    """
+    Write a full-season league_results.csv in the daily schema.
+
+    Default path: data/exports/{season}/league_results.csv
+    """
+    season = season or current_season()
+    target_dir = Path(output_dir) if output_dir else export_dir_for_season(season)
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    df = build_season_league_results(season=season, include_odds=include_odds)
+    path = target_dir / "league_results.csv"
+    df.to_csv(path, index=False)
+    return df, path

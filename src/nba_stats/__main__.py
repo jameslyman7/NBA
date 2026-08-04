@@ -16,6 +16,7 @@ from nba_stats import (
     get_standings,
     run_daily_export,
     run_season_boxscores_export,
+    run_season_league_results_export,
 )
 from nba_stats.utils import DEFAULT_EXPORT_DIR, current_season
 
@@ -90,6 +91,26 @@ def main() -> None:
         help=f"Output directory (default: {DEFAULT_EXPORT_DIR}/{{season}})",
     )
 
+    season_results_parser = subparsers.add_parser(
+        "export-season-league-results",
+        help="Export full-season league_results.csv (results + ESPN lines)",
+    )
+    season_results_parser.add_argument(
+        "--season",
+        default=current_season(),
+        help="Season string, e.g. 2024-25",
+    )
+    season_results_parser.add_argument(
+        "--output-dir",
+        default=None,
+        help=f"Output directory (default: {DEFAULT_EXPORT_DIR}/{{season}})",
+    )
+    season_results_parser.add_argument(
+        "--no-odds",
+        action="store_true",
+        help="Skip ESPN odds (Spread / Total / ATS-OU will be blank)",
+    )
+
     args = parser.parse_args()
 
     if args.command == "schedule":
@@ -142,6 +163,15 @@ def main() -> None:
         print(f"Exported season box scores for {args.season}:")
         for name, path in paths.items():
             print(f"  {name}: {path}")
+
+    elif args.command == "export-season-league-results":
+        df, path = run_season_league_results_export(
+            season=args.season,
+            output_dir=Path(args.output_dir) if args.output_dir else None,
+            include_odds=not args.no_odds,
+        )
+        print(f"Exported {len(df)} league results for {args.season}:")
+        print(f"  {path}")
 
 
 if __name__ == "__main__":

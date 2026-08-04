@@ -42,7 +42,7 @@ def collect_daily_export(
     - Results/league_results.csv
     """
     export_date = parse_game_date(game_date)
-    odds_lines, odds_summary = get_odds_lines()
+    odds_lines, odds_summary = get_odds_lines(game_date=export_date)
     scoreboard = get_scoreboard(export_date)["games"]
     final_game_ids = get_final_game_ids(export_date)
 

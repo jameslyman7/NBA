@@ -9,6 +9,7 @@ from nba_api.stats.endpoints import scheduleleaguev2, scoreboardv3
 
 from nba_stats.transform import schedule_rows_to_league_results
 from nba_stats.utils import (
+    api_pause,
     current_season,
     format_game_date,
     is_game_final,
@@ -129,7 +130,7 @@ def build_daily_league_results(
     """
     Build league_results.csv-style rows for a date with lines and outcomes.
 
-    Merges scoreboard results with NBA live odds (spread/total) when available.
+    Merges scoreboard results with odds (NBA live or ESPN historical) when available.
     """
     daily_games = get_daily_games(game_date)
     if daily_games.empty:
@@ -138,48 +139,123 @@ def build_daily_league_results(
     merged = daily_games.copy()
     if odds_summary is not None and not odds_summary.empty:
         odds = odds_summary.copy()
-        odds["game_id"] = odds["game_id"].map(normalize_game_id)
-
-        home_lines = odds.rename(
-            columns={
-                "home_spread": "home_spread_line",
-                "over_total": "game_total_line",
-            }
-        )
-        away_lines = odds.rename(
-            columns={
-                "away_spread": "away_spread_line",
-                "over_total": "game_total_line",
-            }
-        )
-
-        merged = merged.merge(
-            home_lines[
-                [
-                    "game_id",
-                    "home_spread_line",
-                    "game_total_line",
-                    "sportsbook",
-                ]
-            ],
-            on="game_id",
-            how="left",
-        )
-        merged = merged.merge(
-            away_lines[["game_id", "away_spread_line"]],
-            on="game_id",
-            how="left",
-        )
-
-        merged["spread"] = merged.apply(
-            lambda row: row["home_spread_line"]
-            if row.get("location") == "home"
-            else row.get("away_spread_line"),
-            axis=1,
-        )
-        merged["total"] = merged["game_total_line"]
+        team_lines = _odds_summary_to_team_lines(odds)
+        if not team_lines.empty:
+            merged = merged.merge(team_lines, on="team_tricode", how="left")
+        else:
+            merged["spread"] = None
+            merged["total"] = None
     else:
         merged["spread"] = None
         merged["total"] = None
 
     return schedule_rows_to_league_results(merged)
+
+
+def _odds_summary_to_team_lines(odds: pd.DataFrame) -> pd.DataFrame:
+    """
+    Expand one-row-per-game odds into one-row-per-team spread/total lines.
+
+    Prefers home_tricode/away_tricode when present (ESPN + enriched live odds).
+    Falls back to NBA game_id + home/away team ids via scoreboard merge keys.
+    """
+    rows: list[dict] = []
+
+    has_tricodes = {"home_tricode", "away_tricode"}.issubset(odds.columns)
+    if has_tricodes:
+        for _, row in odds.iterrows():
+            home = row.get("home_tricode")
+            away = row.get("away_tricode")
+            total = row.get("over_total")
+            if home:
+                rows.append(
+                    {
+                        "team_tricode": home,
+                        "spread": row.get("home_spread"),
+                        "total": total,
+                    }
+                )
+            if away:
+                rows.append(
+                    {
+                        "team_tricode": away,
+                        "spread": row.get("away_spread"),
+                        "total": total,
+                    }
+                )
+        return pd.DataFrame(rows)
+
+    # Legacy path: require game_id and attach later via location — kept for safety.
+    if "game_id" not in odds.columns:
+        return pd.DataFrame(columns=["team_tricode", "spread", "total"])
+
+    return pd.DataFrame(columns=["team_tricode", "spread", "total"])
+
+
+def _parse_boxscore_date(value) -> date:
+    text = str(value).strip()
+    for fmt in ("%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(text, fmt).date()
+        except ValueError:
+            continue
+    raise ValueError(f"Unrecognized game date: {value!r}")
+
+
+def build_season_league_results(
+    season: str | None = None,
+    include_odds: bool = True,
+) -> pd.DataFrame:
+    """
+    Build a full-season league_results.csv using team game logs + ESPN lines.
+
+    One row per team per game (30 * 82 = 2460 for a full regular season).
+    """
+    from nba_stats.boxscores import get_season_team_boxscores
+    from nba_stats.odds import get_espn_odds_for_date
+
+    season = season or current_season()
+    team_df = get_season_team_boxscores(season=season)
+    if team_df.empty:
+        return schedule_rows_to_league_results(pd.DataFrame())
+
+    games = pd.DataFrame(
+        {
+            "team_tricode": team_df["Team"],
+            "matchup": team_df["Match up"],
+            "game_date": team_df["Date"],
+            "wl": team_df["W/L"],
+            "team_pts": team_df["Pts"],
+            "opp_pts": team_df["Opp Pts"],
+        }
+    )
+    games["_date"] = games["game_date"].map(_parse_boxscore_date)
+
+    if include_odds:
+        odds_parts: list[pd.DataFrame] = []
+        unique_dates = sorted(games["_date"].unique())
+        for index, game_date in enumerate(unique_dates, start=1):
+            print(
+                f"Fetching ESPN odds {index}/{len(unique_dates)} ({game_date.isoformat()})...",
+                flush=True,
+            )
+            _, summary = get_espn_odds_for_date(game_date)
+            lines = _odds_summary_to_team_lines(summary)
+            if not lines.empty:
+                lines = lines.copy()
+                lines["_date"] = game_date
+                odds_parts.append(lines)
+            api_pause(0.2)
+
+        if odds_parts:
+            all_odds = pd.concat(odds_parts, ignore_index=True)
+            games = games.merge(all_odds, on=["_date", "team_tricode"], how="left")
+        else:
+            games["spread"] = None
+            games["total"] = None
+    else:
+        games["spread"] = None
+        games["total"] = None
+
+    games = games.drop(columns=["_date"])
+    return schedule_rows_to_league_results(games)
