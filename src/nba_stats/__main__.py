@@ -15,8 +15,10 @@ from nba_stats import (
     get_season_schedule,
     get_standings,
     run_daily_export,
+    run_daily_export_range,
     run_season_boxscores_export,
     run_season_league_results_export,
+    run_season_schedules_export,
 )
 from nba_stats.utils import DEFAULT_EXPORT_DIR, current_season
 
@@ -62,13 +64,29 @@ def main() -> None:
     )
     export_parser.add_argument(
         "--date",
-        default=date.today().strftime("%Y-%m-%d"),
-        help="Date in YYYY-MM-DD format",
+        default=None,
+        help="Single date in YYYY-MM-DD format (default: today)",
+    )
+    export_parser.add_argument(
+        "--from",
+        dest="date_from",
+        default=None,
+        help="Start date for a range export (YYYY-MM-DD); requires --to",
+    )
+    export_parser.add_argument(
+        "--to",
+        dest="date_to",
+        default=None,
+        help="End date for a range export (YYYY-MM-DD); requires --from",
     )
     export_parser.add_argument(
         "--output-dir",
         default=None,
-        help=f"Output directory (default: {DEFAULT_EXPORT_DIR}/YYYY-MM-DD)",
+        help=(
+            f"For a single date: output directory "
+            f"(default: {DEFAULT_EXPORT_DIR}/YYYY-MM-DD). "
+            f"For a range: base directory that will contain dated subfolders."
+        ),
     )
     export_parser.add_argument(
         "--no-espn-injuries",
@@ -111,6 +129,28 @@ def main() -> None:
         help="Skip ESPN odds (Spread / Total / ATS-OU will be blank)",
     )
 
+    season_schedules_parser = subparsers.add_parser(
+        "export-season-schedules",
+        help="Export concatenated team schedules.csv for a season",
+    )
+    season_schedules_parser.add_argument(
+        "--season",
+        default=current_season(),
+        help="Season string, e.g. 2026-27",
+    )
+    season_schedules_parser.add_argument(
+        "--output-dir",
+        default=None,
+        help=f"Output directory (default: {DEFAULT_EXPORT_DIR}/{{season}})",
+    )
+    season_schedules_parser.add_argument(
+        "--game-type",
+        action="append",
+        dest="game_types",
+        default=None,
+        help="Optional gameLabel filter; repeatable (e.g. --game-type Preseason)",
+    )
+
     args = parser.parse_args()
 
     if args.command == "schedule":
@@ -145,15 +185,31 @@ def main() -> None:
         print(df.to_string(index=False))
 
     elif args.command == "export-daily":
-        year, month, day = map(int, args.date.split("-"))
-        export, paths = run_daily_export(
-            game_date=date(year, month, day),
-            output_dir=Path(args.output_dir) if args.output_dir else None,
-            include_espn_injuries=not args.no_espn_injuries,
-        )
-        print(f"Exported daily data for {export.export_date.isoformat()}:")
-        for name, path in paths.items():
-            print(f"  {name}: {path}")
+        if args.date_from or args.date_to:
+            if not args.date_from or not args.date_to:
+                parser.error("export-daily range requires both --from and --to")
+            if args.date:
+                parser.error("use either --date or --from/--to, not both")
+            results = run_daily_export_range(
+                start_date=args.date_from,
+                end_date=args.date_to,
+                output_base=Path(args.output_dir) if args.output_dir else None,
+                include_espn_injuries=not args.no_espn_injuries,
+            )
+            print(f"Exported {len(results)} day(s) from {args.date_from} through {args.date_to}:")
+            for export_date, paths in results.items():
+                print(f"  {export_date.isoformat()}: {paths['player_boxscores'].parent}")
+        else:
+            game_date = args.date or date.today().strftime("%Y-%m-%d")
+            year, month, day = map(int, game_date.split("-"))
+            export, paths = run_daily_export(
+                game_date=date(year, month, day),
+                output_dir=Path(args.output_dir) if args.output_dir else None,
+                include_espn_injuries=not args.no_espn_injuries,
+            )
+            print(f"Exported daily data for {export.export_date.isoformat()}:")
+            for name, path in paths.items():
+                print(f"  {name}: {path}")
 
     elif args.command == "export-season-boxscores":
         paths = run_season_boxscores_export(
@@ -171,6 +227,15 @@ def main() -> None:
             include_odds=not args.no_odds,
         )
         print(f"Exported {len(df)} league results for {args.season}:")
+        print(f"  {path}")
+
+    elif args.command == "export-season-schedules":
+        df, path = run_season_schedules_export(
+            season=args.season,
+            output_dir=Path(args.output_dir) if args.output_dir else None,
+            game_types=args.game_types,
+        )
+        print(f"Exported {len(df)} schedule rows for {args.season}:")
         print(f"  {path}")
 
 

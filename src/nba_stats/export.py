@@ -2,14 +2,14 @@
 
 from __future__ import annotations
 
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 import pandas as pd
 
 from nba_stats.boxscores import get_season_player_boxscores, get_season_team_boxscores
 from nba_stats.daily import DailyExport, collect_daily_export
-from nba_stats.schedules import build_season_league_results
+from nba_stats.schedules import build_season_league_results, build_season_schedules
 from nba_stats.utils import DEFAULT_EXPORT_DIR, api_pause, current_season, parse_game_date
 
 DAILY_FILES = {
@@ -86,6 +86,40 @@ def run_daily_export(
     return export, paths
 
 
+def run_daily_export_range(
+    start_date: date | str,
+    end_date: date | str,
+    output_base: Path | str | None = None,
+    include_espn_injuries: bool = True,
+) -> dict[date, dict[str, Path]]:
+    """
+    Export daily CSVs for each date from start_date through end_date (inclusive).
+
+    Each day writes to {output_base or data/exports}/YYYY-MM-DD/.
+    """
+    start = parse_game_date(start_date)
+    end = parse_game_date(end_date)
+    if end < start:
+        raise ValueError(f"end_date {end.isoformat()} is before start_date {start.isoformat()}")
+
+    base = Path(output_base) if output_base else DEFAULT_EXPORT_DIR
+    results: dict[date, dict[str, Path]] = {}
+    current = start
+    while current <= end:
+        print(f"Exporting {current.isoformat()}...", flush=True)
+        target_dir = base / current.isoformat()
+        _, paths = run_daily_export(
+            game_date=current,
+            output_dir=target_dir,
+            include_espn_injuries=include_espn_injuries,
+        )
+        results[current] = paths
+        if current < end:
+            api_pause()
+        current += timedelta(days=1)
+    return results
+
+
 def run_season_boxscores_export(
     season: str | None = None,
     output_dir: Path | str | None = None,
@@ -131,5 +165,25 @@ def run_season_league_results_export(
 
     df = build_season_league_results(season=season, include_odds=include_odds)
     path = target_dir / "league_results.csv"
+    df.to_csv(path, index=False)
+    return df, path
+
+
+def run_season_schedules_export(
+    season: str | None = None,
+    output_dir: Path | str | None = None,
+    game_types: list[str] | None = None,
+) -> tuple[pd.DataFrame, Path]:
+    """
+    Write a concatenated team schedules.csv for a season.
+
+    Default path: data/exports/{season}/schedules.csv
+    """
+    season = season or current_season()
+    target_dir = Path(output_dir) if output_dir else export_dir_for_season(season)
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    df = build_season_schedules(season=season, game_types=game_types)
+    path = target_dir / "schedules.csv"
     df.to_csv(path, index=False)
     return df, path

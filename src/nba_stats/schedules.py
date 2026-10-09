@@ -7,7 +7,7 @@ from datetime import date, datetime
 import pandas as pd
 from nba_api.stats.endpoints import scheduleleaguev2, scoreboardv3
 
-from nba_stats.transform import schedule_rows_to_league_results
+from nba_stats.transform import schedule_rows_to_league_results, season_schedule_to_team_rows
 from nba_stats.utils import (
     api_pause,
     current_season,
@@ -19,10 +19,35 @@ from nba_stats.utils import (
 
 
 def get_season_schedule(season: str | None = None) -> pd.DataFrame:
-    """Fetch the full regular-season schedule for an NBA season."""
+    """Fetch the full season schedule for an NBA season (all published games)."""
     season = season or current_season()
     endpoint = scheduleleaguev2.ScheduleLeagueV2(season=season)
     return to_dataframe(endpoint.season_games)
+
+
+def build_season_schedules(
+    season: str | None = None,
+    game_types: list[str] | None = None,
+) -> pd.DataFrame:
+    """
+    Build a concatenated team schedule CSV for a season.
+
+    One row per team per game (home and away), suitable for schedules.csv.
+    """
+    season = season or current_season()
+    raw = get_season_schedule(season=season)
+    if raw.empty:
+        return season_schedule_to_team_rows(raw)
+
+    if game_types:
+        labels = {label.lower() for label in game_types}
+        mask = raw["gameLabel"].fillna("").astype(str).str.lower().isin(labels)
+        # Treat blank labels as regular season when that filter is requested.
+        if "regular season" in labels:
+            mask = mask | raw["gameLabel"].fillna("").astype(str).str.strip().eq("")
+        raw = raw.loc[mask].copy()
+
+    return season_schedule_to_team_rows(raw)
 
 
 def get_scoreboard(

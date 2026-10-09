@@ -1,0 +1,4919 @@
+Identifier,Date,OPP,RESULT,ATS/OU,Spread,Total
+GSW,"Oct 21, 2025",@LAL,Won 119-109,"Won /
+ Over",-2.5,227.5
+LAL,"Oct 21, 2025",GSW,Lost 109-119,"Lost /
+ Over",2.5,227.5
+OKC,"Oct 21, 2025",HOU,Won 125-124,"Lost /
+ Over",-6.5,224.5
+HOU,"Oct 21, 2025",@OKC,Lost 124-125,"Won /
+ Over",6.5,224.5
+ORL,"Oct 22, 2025",MIA,Won 125-121,"Lost /
+ Over",-8.5,215.5
+WAS,"Oct 22, 2025",@MIL,Lost 120-133,"Lost /
+ Over",8.5,228.5
+POR,"Oct 22, 2025",MIN,Lost 114-118,"Won /
+ Over",4.5,222.5
+CHA,"Oct 22, 2025",BKN,Won 136-117,"Won /
+ Over",-5.5,228.5
+CLE,"Oct 22, 2025",@NYK,Lost 111-119,"Lost /
+ Over",-1.5,228.5
+MIA,"Oct 22, 2025",@ORL,Lost 121-125,"Won /
+ Over",8.5,215.5
+BOS,"Oct 22, 2025",PHI,Lost 116-117,"Lost /
+ Over",-5.5,229.5
+SAC,"Oct 22, 2025",@PHX,Lost 116-120,"Lost /
+ Over",3.5,228.5
+MIN,"Oct 22, 2025",@POR,Won 118-114,"Lost /
+ Over",-4.5,222.5
+PHX,"Oct 22, 2025",SAC,Won 120-116,"Won /
+ Over",-3.5,228.5
+DAL,"Oct 22, 2025",SAS,Lost 92-125,"Lost /
+ Under",-3.5,223.5
+TOR,"Oct 22, 2025",@ATL,Won 138-118,"Won /
+ Over",5.5,237.5
+PHI,"Oct 22, 2025",@BOS,Won 117-116,"Won /
+ Over",5.5,229.5
+NYK,"Oct 22, 2025",CLE,Won 119-111,"Won /
+ Over",1.5,228.5
+MEM,"Oct 22, 2025",NOP,Won 128-122,"Won /
+ Over",-3.5,236.5
+DET,"Oct 22, 2025",@CHI,Lost 111-115,"Lost /
+ Under",-3.5,236.5
+SAS,"Oct 22, 2025",@DAL,Won 125-92,"Won /
+ Under",3.5,223.5
+UTA,"Oct 22, 2025",LAC,Won 129-108,"Won /
+ Over",10.5,225.5
+ATL,"Oct 22, 2025",TOR,Lost 118-138,"Lost /
+ Over",-5.5,237.5
+LAC,"Oct 22, 2025",@UTA,Lost 108-129,"Lost /
+ Over",-10.5,225.5
+NOP,"Oct 22, 2025",@MEM,Lost 122-128,"Lost /
+ Over",3.5,236.5
+MIL,"Oct 22, 2025",WAS,Won 133-120,"Won /
+ Over",-8.5,228.5
+CHI,"Oct 22, 2025",DET,Won 115-111,"Won /
+ Under",3.5,236.5
+BKN,"Oct 22, 2025",@CHA,Lost 117-136,"Lost /
+ Over",5.5,228.5
+OKC,"Oct 23, 2025",@IND,Won 141-135,"Lost /
+ Over",-7.5,230.5
+GSW,"Oct 23, 2025",DEN,Won 137-131,"Won /
+ Over",-1.5,232.5
+DEN,"Oct 23, 2025",@GSW,Lost 131-137,"Lost /
+ Over",1.5,232.5
+IND,"Oct 23, 2025",OKC,Lost 135-141,"Won /
+ Over",7.5,230.5
+MIN,"Oct 24, 2025",@LAL,Lost 110-128,"Lost /
+ Over",-1.5,225.5
+MEM,"Oct 24, 2025",MIA,Lost 114-146,"Lost /
+ Over",-3.5,232.5
+TOR,"Oct 24, 2025",MIL,Lost 116-122,"Lost /
+ Over",-2.5,235.5
+LAL,"Oct 24, 2025",MIN,Won 128-110,"Won /
+ Over",1.5,225.5
+CLE,"Oct 24, 2025",@BKN,Won 131-124,"Lost /
+ Over",-11.5,230.5
+BOS,"Oct 24, 2025",@NYK,Lost 95-105,"Lost /
+ Under",4.5,231.5
+ATL,"Oct 24, 2025",@ORL,Won 111-107,"Won /
+ Under",5.5,235.5
+LAC,"Oct 24, 2025",PHX,Won 129-102,"Won /
+ Over",-10.5,223.5
+GSW,"Oct 24, 2025",@POR,Lost 119-139,"Lost /
+ Over",-2.5,228.5
+UTA,"Oct 24, 2025",@SAC,Lost 104-105,"Won /
+ Under",6.5,235.5
+NOP,"Oct 24, 2025",SAS,Lost 116-120,"Lost /
+ Over",3.5,233.5
+ORL,"Oct 24, 2025",ATL,Lost 107-111,"Lost /
+ Under",-5.5,235.5
+NYK,"Oct 24, 2025",BOS,Won 105-95,"Won /
+ Under",-4.5,231.5
+BKN,"Oct 24, 2025",CLE,Lost 124-131,"Won /
+ Over",11.5,230.5
+SAS,"Oct 24, 2025",@NOP,Won 120-116,"Won /
+ Over",-3.5,233.5
+WAS,"Oct 24, 2025",@DAL,Won 117-107,"Won /
+ Under",9.5,228.5
+POR,"Oct 24, 2025",GSW,Won 139-119,"Won /
+ Over",2.5,228.5
+DET,"Oct 24, 2025",@HOU,Won 115-111,"Won /
+ Under",6.5,226.5
+PHX,"Oct 24, 2025",@LAC,Lost 102-129,"Lost /
+ Over",10.5,223.5
+MIL,"Oct 24, 2025",@TOR,Won 122-116,"Won /
+ Over",2.5,235.5
+SAC,"Oct 24, 2025",UTA,Won 105-104,"Lost /
+ Under",-6.5,235.5
+MIA,"Oct 24, 2025",@MEM,Won 146-114,"Won /
+ Over",3.5,232.5
+DAL,"Oct 24, 2025",WAS,Lost 107-117,"Lost /
+ Under",-9.5,228.5
+HOU,"Oct 24, 2025",DET,Lost 111-115,"Lost /
+ Under",-6.5,226.5
+CHI,"Oct 25, 2025",@ORL,Won 110-98,"Won /
+ Under",6.5,233.5
+MEM,"Oct 25, 2025",IND,Won 128-103,"Won /
+ Under",-1.5,240.5
+CHA,"Oct 25, 2025",@PHI,Lost 121-125,"Won /
+ Over",4.5,237.5
+DEN,"Oct 25, 2025",PHX,Won 133-111,"Won /
+ Over",-12.5,233.5
+OKC,"Oct 25, 2025",@ATL,Won 117-100,"Won /
+ Under",-8.5,236.5
+ORL,"Oct 25, 2025",CHI,Lost 98-110,"Lost /
+ Under",-6.5,233.5
+PHX,"Oct 25, 2025",@DEN,Lost 111-133,"Lost /
+ Over",12.5,233.5
+ATL,"Oct 25, 2025",OKC,Lost 100-117,"Lost /
+ Under",8.5,236.5
+IND,"Oct 25, 2025",@MEM,Lost 103-128,"Lost /
+ Under",1.5,240.5
+PHI,"Oct 25, 2025",CHA,Won 125-121,"Lost /
+ Over",-4.5,237.5
+SAC,"Oct 26, 2025",LAL,Lost 120-127,"Lost /
+ Over",-2.5,225.5
+NYK,"Oct 26, 2025",@MIA,Lost 107-115,"Lost /
+ Under",-2.5,230.5
+CLE,"Oct 26, 2025",MIL,Won 118-113,"Lost /
+ Under",-6.5,233.5
+IND,"Oct 26, 2025",@MIN,Lost 110-114,"Won /
+ Under",11.5,228.5
+SAS,"Oct 26, 2025",BKN,Won 118-107,"Won /
+ Under",-10.5,227.5
+MIA,"Oct 26, 2025",NYK,Won 115-107,"Won /
+ Under",2.5,230.5
+MIN,"Oct 26, 2025",IND,Won 114-110,"Lost /
+ Under",-11.5,228.5
+LAC,"Oct 26, 2025",POR,Won 114-107,"Lost /
+ Under",-8.5,225.5
+LAL,"Oct 26, 2025",@SAC,Won 127-120,"Won /
+ Over",2.5,225.5
+BKN,"Oct 26, 2025",@SAS,Lost 107-118,"Lost /
+ Under",10.5,227.5
+DET,"Oct 26, 2025",BOS,Won 119-113,"Won /
+ Over",-2.5,227.5
+MIL,"Oct 26, 2025",@CLE,Lost 113-118,"Won /
+ Under",6.5,233.5
+TOR,"Oct 26, 2025",@DAL,Lost 129-139,"Lost /
+ Over",-1.5,232.5
+POR,"Oct 26, 2025",@LAC,Lost 107-114,"Won /
+ Under",8.5,225.5
+DAL,"Oct 26, 2025",TOR,Won 139-129,"Won /
+ Over",1.5,232.5
+CHA,"Oct 26, 2025",@WAS,Won 139-113,"Won /
+ Over",1.5,240.5
+BOS,"Oct 26, 2025",@DET,Lost 113-119,"Lost /
+ Over",2.5,227.5
+WAS,"Oct 26, 2025",CHA,Lost 113-139,"Lost /
+ Over",-1.5,240.5
+POR,"Oct 27, 2025",@LAL,Won 122-108,"Won /
+ Over",-3.5,227.5
+DEN,"Oct 27, 2025",@MIN,Won 127-114,"Won /
+ Over",-6.5,229.5
+HOU,"Oct 27, 2025",BKN,Won 137-109,"Won /
+ Over",-15.5,224.5
+PHI,"Oct 27, 2025",ORL,Won 136-124,"Won /
+ Over",6.5,227.5
+ORL,"Oct 27, 2025",@PHI,Lost 124-136,"Lost /
+ Over",-6.5,227.5
+UTA,"Oct 27, 2025",PHX,Won 138-134,"Won /
+ Over",-1.5,230.5
+LAL,"Oct 27, 2025",POR,Lost 108-122,"Lost /
+ Over",3.5,227.5
+TOR,"Oct 27, 2025",@SAS,Lost 103-121,"Lost /
+ Under",4.5,233.5
+CHI,"Oct 27, 2025",ATL,Won 128-123,"Won /
+ Over",2.5,243.5
+NOP,"Oct 27, 2025",BOS,Lost 90-122,"Lost /
+ Under",4.5,231.5
+DET,"Oct 27, 2025",CLE,Lost 95-116,"Lost /
+ Under",1.5,231.5
+BOS,"Oct 27, 2025",@NOP,Won 122-90,"Won /
+ Under",-4.5,231.5
+ATL,"Oct 27, 2025",@CHI,Lost 123-128,"Lost /
+ Over",-2.5,243.5
+OKC,"Oct 27, 2025",@DAL,Won 101-94,"Lost /
+ Under",-9.5,226.5
+MIN,"Oct 27, 2025",DEN,Lost 114-127,"Lost /
+ Over",6.5,229.5
+MEM,"Oct 27, 2025",@GSW,Lost 118-131,"Lost /
+ Over",8.5,240.5
+BKN,"Oct 27, 2025",@HOU,Lost 109-137,"Lost /
+ Over",15.5,224.5
+DAL,"Oct 27, 2025",OKC,Lost 94-101,"Won /
+ Under",9.5,226.5
+SAS,"Oct 27, 2025",TOR,Won 121-103,"Won /
+ Under",-4.5,233.5
+PHX,"Oct 27, 2025",@UTA,Lost 134-138,"Lost /
+ Over",1.5,230.5
+GSW,"Oct 27, 2025",MEM,Won 131-118,"Won /
+ Over",-8.5,240.5
+CLE,"Oct 27, 2025",@DET,Won 116-95,"Won /
+ Under",-1.5,231.5
+CHA,"Oct 28, 2025",@MIA,Lost 117-144,"Lost /
+ Over",4.5,240.5
+NYK,"Oct 28, 2025",@MIL,Lost 111-121,"Lost /
+ Over",-2.5,230.5
+MIL,"Oct 28, 2025",NYK,Won 121-111,"Won /
+ Over",2.5,230.5
+WAS,"Oct 28, 2025",PHI,Lost 134-139,"Lost /
+ Over",4.5,239.5
+OKC,"Oct 28, 2025",SAC,Won 107-101,"Lost /
+ Under",-8.5,226.5
+LAC,"Oct 28, 2025",@GSW,Lost 79-98,"Lost /
+ Under",-1.5,224.5
+GSW,"Oct 28, 2025",LAC,Won 98-79,"Won /
+ Under",1.5,224.5
+SAC,"Oct 28, 2025",@OKC,Lost 101-107,"Won /
+ Under",8.5,226.5
+PHI,"Oct 28, 2025",@WAS,Won 139-134,"Won /
+ Over",-4.5,239.5
+MIA,"Oct 28, 2025",CHA,Won 144-117,"Won /
+ Over",-4.5,240.5
+MIN,"Oct 29, 2025",LAL,Lost 115-116,"Lost /
+ Over",-7.5,224.5
+LAL,"Oct 29, 2025",@MIN,Won 116-115,"Won /
+ Over",7.5,224.5
+ATL,"Oct 29, 2025",@BKN,Won 117-112,"Lost /
+ Under",-8.5,239.5
+DET,"Oct 29, 2025",ORL,Won 135-116,"Won /
+ Over",1.5,226.5
+DAL,"Oct 29, 2025",IND,Won 107-105,"Lost /
+ Under",-5.5,229.5
+MEM,"Oct 29, 2025",@PHX,Won 114-113,"Lost /
+ Under",-2.5,242.5
+UTA,"Oct 29, 2025",POR,Lost 134-136,"Won /
+ Over",3.5,235.5
+CHI,"Oct 29, 2025",SAC,Won 126-113,"Won /
+ Over",-4.5,238.5
+BKN,"Oct 29, 2025",ATL,Lost 112-117,"Won /
+ Under",8.5,239.5
+CLE,"Oct 29, 2025",@BOS,Lost 105-125,"Lost /
+ Under",-3.5,233.5
+BOS,"Oct 29, 2025",CLE,Won 125-105,"Won /
+ Under",3.5,233.5
+DEN,"Oct 29, 2025",NOP,Won 122-88,"Won /
+ Under",-11.5,237.5
+SAC,"Oct 29, 2025",@CHI,Lost 113-126,"Lost /
+ Over",4.5,238.5
+IND,"Oct 29, 2025",@DAL,Lost 105-107,"Won /
+ Under",5.5,229.5
+NOP,"Oct 29, 2025",@DEN,Lost 88-122,"Lost /
+ Under",11.5,237.5
+TOR,"Oct 29, 2025",HOU,Lost 121-139,"Lost /
+ Over",5.5,233.5
+HOU,"Oct 29, 2025",@TOR,Won 139-121,"Won /
+ Over",-5.5,233.5
+POR,"Oct 29, 2025",@UTA,Won 136-134,"Lost /
+ Over",-3.5,235.5
+PHX,"Oct 29, 2025",MEM,Lost 113-114,"Won /
+ Under",2.5,242.5
+ORL,"Oct 29, 2025",@DET,Lost 116-135,"Lost /
+ Over",-1.5,226.5
+SAS,"Oct 30, 2025",MIA,Won 107-101,"Won /
+ Under",-5.5,228.5
+GSW,"Oct 30, 2025",@MIL,Lost 110-120,"Lost /
+ Over",-7.5,228.5
+CHA,"Oct 30, 2025",ORL,Lost 107-123,"Lost /
+ Under",3.5,238.5
+MIA,"Oct 30, 2025",@SAS,Lost 101-107,"Lost /
+ Under",5.5,228.5
+MIL,"Oct 30, 2025",GSW,Won 120-110,"Won /
+ Over",7.5,228.5
+WAS,"Oct 30, 2025",@OKC,Lost 108-127,"Lost /
+ Over",15.5,231.5
+OKC,"Oct 30, 2025",WAS,Won 127-108,"Won /
+ Over",-15.5,231.5
+ORL,"Oct 30, 2025",@CHA,Won 123-107,"Won /
+ Under",-3.5,238.5
+MEM,"Oct 31, 2025",LAL,Lost 112-117,"Lost /
+ Under",1.5,238.5
+CHI,"Oct 31, 2025",NYK,Won 135-125,"Won /
+ Over",5.5,233.5
+ATL,"Oct 31, 2025",@IND,Won 128-108,"Won /
+ Over",-2.5,232.5
+BOS,"Oct 31, 2025",@PHI,Won 109-108,"Lost /
+ Under",-1.5,233.5
+UTA,"Oct 31, 2025",@PHX,Lost 96-118,"Lost /
+ Under",3.5,236.5
+DEN,"Oct 31, 2025",@POR,Lost 107-109,"Lost /
+ Under",-5.5,240.5
+IND,"Oct 31, 2025",ATL,Lost 108-128,"Lost /
+ Over",2.5,232.5
+PHI,"Oct 31, 2025",BOS,Lost 108-109,"Won /
+ Under",1.5,233.5
+TOR,"Oct 31, 2025",@CLE,Won 112-101,"Won /
+ Under",4.5,237.5
+LAC,"Oct 31, 2025",NOP,Won 126-124,"Lost /
+ Over",-10.5,223.5
+NYK,"Oct 31, 2025",@CHI,Lost 125-135,"Lost /
+ Over",-5.5,233.5
+POR,"Oct 31, 2025",DEN,Won 109-107,"Won /
+ Under",5.5,240.5
+NOP,"Oct 31, 2025",@LAC,Lost 124-126,"Won /
+ Over",10.5,223.5
+CLE,"Oct 31, 2025",TOR,Lost 101-112,"Lost /
+ Under",-4.5,237.5
+PHX,"Oct 31, 2025",UTA,Won 118-96,"Won /
+ Under",-3.5,236.5
+LAL,"Oct 31, 2025",@MEM,Won 117-112,"Won /
+ Under",-1.5,238.5
+SAC,"Nov 01, 2025",@MIL,Won 135-133,"Won /
+ Over",6.5,232.5
+CHA,"Nov 01, 2025",MIN,Lost 105-122,"Lost /
+ Under",4.5,235.5
+WAS,"Nov 01, 2025",ORL,Lost 94-125,"Lost /
+ Under",9.5,233.5
+GSW,"Nov 01, 2025",@IND,Lost 109-114,"Lost /
+ Under",-10.5,230.5
+MIL,"Nov 01, 2025",SAC,Lost 133-135,"Lost /
+ Over",-6.5,232.5
+HOU,"Nov 01, 2025",@BOS,Won 128-101,"Won /
+ Over",-4.5,226.5
+DET,"Nov 01, 2025",@DAL,Won 122-110,"Won /
+ Over",-7.5,227.5
+IND,"Nov 01, 2025",GSW,Won 114-109,"Won /
+ Under",10.5,230.5
+BOS,"Nov 01, 2025",HOU,Lost 101-128,"Lost /
+ Over",4.5,226.5
+ORL,"Nov 01, 2025",@WAS,Won 125-94,"Won /
+ Under",-9.5,233.5
+DAL,"Nov 01, 2025",@DET,Lost 110-122,"Lost /
+ Over",7.5,227.5
+MIN,"Nov 01, 2025",@CHA,Won 122-105,"Won /
+ Under",-4.5,235.5
+MIA,"Nov 02, 2025",@LAL,Lost 120-130,"Lost /
+ Over",4.5,232.5
+LAL,"Nov 02, 2025",MIA,Won 130-120,"Won /
+ Over",-4.5,232.5
+PHI,"Nov 02, 2025",@BKN,Won 129-105,"Won /
+ Over",-4.5,232.5
+CHI,"Nov 02, 2025",@NYK,Lost 116-128,"Lost /
+ Over",8.5,235.5
+BKN,"Nov 02, 2025",PHI,Lost 105-129,"Lost /
+ Over",4.5,232.5
+SAS,"Nov 02, 2025",@PHX,Lost 118-130,"Lost /
+ Over",-5.5,227.5
+PHX,"Nov 02, 2025",SAS,Won 130-118,"Won /
+ Over",5.5,227.5
+CLE,"Nov 02, 2025",ATL,Won 117-109,"Won /
+ Under",-6.5,230.5
+ATL,"Nov 02, 2025",@CLE,Lost 109-117,"Lost /
+ Under",6.5,230.5
+OKC,"Nov 02, 2025",NOP,Won 137-106,"Won /
+ Over",-13.5,228.5
+NYK,"Nov 02, 2025",CHI,Won 128-116,"Won /
+ Over",-8.5,235.5
+NOP,"Nov 02, 2025",@OKC,Lost 106-137,"Lost /
+ Over",13.5,228.5
+MEM,"Nov 02, 2025",@TOR,Lost 104-117,"Lost /
+ Under",4.5,238.5
+CHA,"Nov 02, 2025",UTA,Won 126-103,"Won /
+ Under",1.5,232.5
+TOR,"Nov 02, 2025",MEM,Won 117-104,"Won /
+ Under",-4.5,238.5
+UTA,"Nov 02, 2025",@CHA,Lost 103-126,"Lost /
+ Under",-1.5,232.5
+POR,"Nov 03, 2025",LAL,Lost 115-123,"Lost /
+ Over",-10.5,227.5
+LAC,"Nov 03, 2025",MIA,Lost 119-120,"Lost /
+ Over",-7.5,227.5
+IND,"Nov 03, 2025",MIL,Lost 115-117,"Won /
+ Under",6.5,235.5
+BKN,"Nov 03, 2025",MIN,Lost 109-125,"Lost /
+ Over",9.5,225.5
+MIN,"Nov 03, 2025",@BKN,Won 125-109,"Won /
+ Over",-9.5,225.5
+WAS,"Nov 03, 2025",@NYK,Lost 102-119,"Lost /
+ Under",13.5,234.5
+MIL,"Nov 03, 2025",@IND,Won 117-115,"Lost /
+ Under",-6.5,235.5
+LAL,"Nov 03, 2025",@POR,Won 123-115,"Won /
+ Over",10.5,227.5
+DEN,"Nov 03, 2025",SAC,Won 130-124,"Lost /
+ Over",-11.5,237.5
+UTA,"Nov 03, 2025",@BOS,Won 105-103,"Won /
+ Under",10.5,233.5
+HOU,"Nov 03, 2025",DAL,Won 110-102,"Lost /
+ Under",-12.5,226.5
+SAC,"Nov 03, 2025",@DEN,Lost 124-130,"Won /
+ Over",11.5,237.5
+DAL,"Nov 03, 2025",@HOU,Lost 102-110,"Won /
+ Under",12.5,226.5
+MIA,"Nov 03, 2025",@LAC,Won 120-119,"Won /
+ Over",7.5,227.5
+BOS,"Nov 03, 2025",UTA,Lost 103-105,"Lost /
+ Under",-10.5,233.5
+DET,"Nov 03, 2025",@MEM,Won 114-106,"Won /
+ Under",-4.5,235.5
+NYK,"Nov 03, 2025",WAS,Won 119-102,"Won /
+ Under",-13.5,234.5
+MEM,"Nov 03, 2025",DET,Lost 106-114,"Lost /
+ Under",4.5,235.5
+TOR,"Nov 04, 2025",MIL,Won 128-100,"Won /
+ Under",-2.5,237.5
+ATL,"Nov 04, 2025",ORL,Won 127-112,"Won /
+ Over",3.5,228.5
+CHI,"Nov 04, 2025",PHI,Won 113-111,"Lost /
+ Under",-2.5,240.5
+GSW,"Nov 04, 2025",PHX,Won 118-107,"Won /
+ Under",-10.5,235.5
+ORL,"Nov 04, 2025",@ATL,Lost 112-127,"Lost /
+ Over",-3.5,228.5
+CHA,"Nov 04, 2025",@NOP,Lost 112-116,"Lost /
+ Under",3.5,229.5
+PHI,"Nov 04, 2025",@CHI,Lost 111-113,"Won /
+ Under",2.5,240.5
+PHX,"Nov 04, 2025",@GSW,Lost 107-118,"Lost /
+ Under",10.5,235.5
+OKC,"Nov 04, 2025",@LAC,Won 126-107,"Won /
+ Over",-8.5,219.5
+LAC,"Nov 04, 2025",OKC,Lost 107-126,"Lost /
+ Over",8.5,219.5
+MIL,"Nov 04, 2025",@TOR,Lost 100-128,"Lost /
+ Under",2.5,237.5
+NOP,"Nov 04, 2025",CHA,Won 116-112,"Won /
+ Under",-3.5,229.5
+SAS,"Nov 05, 2025",@LAL,Lost 116-118,"Lost /
+ Over",-1.5,228.5
+DEN,"Nov 05, 2025",MIA,Won 122-112,"Won /
+ Under",-9.5,242.5
+NYK,"Nov 05, 2025",MIN,Won 137-114,"Won /
+ Over",-3.5,228.5
+IND,"Nov 05, 2025",BKN,Lost 103-112,"Lost /
+ Under",-6.5,232.5
+MIN,"Nov 05, 2025",@NYK,Lost 114-137,"Lost /
+ Over",3.5,228.5
+BKN,"Nov 05, 2025",@IND,Won 112-103,"Won /
+ Under",6.5,232.5
+CLE,"Nov 05, 2025",PHI,Won 132-121,"Lost /
+ Over",-12.5,235.5
+OKC,"Nov 05, 2025",@POR,Lost 119-121,"Lost /
+ Over",-3.5,231.5
+GSW,"Nov 05, 2025",@SAC,Lost 116-121,"Lost /
+ Over",3.5,225.5
+LAL,"Nov 05, 2025",SAS,Won 118-116,"Won /
+ Over",1.5,228.5
+WAS,"Nov 05, 2025",@BOS,Lost 107-136,"Lost /
+ Over",13.5,232.5
+PHI,"Nov 05, 2025",@CLE,Lost 121-132,"Won /
+ Over",12.5,235.5
+DAL,"Nov 05, 2025",NOP,Lost 99-101,"Lost /
+ Under",-8.5,225.5
+NOP,"Nov 05, 2025",@DAL,Won 101-99,"Won /
+ Under",8.5,225.5
+MIA,"Nov 05, 2025",@DEN,Lost 112-122,"Lost /
+ Under",9.5,242.5
+SAC,"Nov 05, 2025",GSW,Won 121-116,"Won /
+ Over",-3.5,225.5
+MEM,"Nov 05, 2025",HOU,Lost 109-124,"Lost /
+ Over",6.5,232.5
+POR,"Nov 05, 2025",OKC,Won 121-119,"Won /
+ Over",3.5,231.5
+DET,"Nov 05, 2025",UTA,Won 114-103,"Won /
+ Under",-9.5,233.5
+HOU,"Nov 05, 2025",@MEM,Won 124-109,"Won /
+ Over",-6.5,232.5
+BOS,"Nov 05, 2025",WAS,Won 136-107,"Won /
+ Over",-13.5,232.5
+UTA,"Nov 05, 2025",@DET,Lost 103-114,"Lost /
+ Under",9.5,233.5
+LAC,"Nov 06, 2025",@PHX,Lost 102-115,"Lost /
+ Under",2.5,224.5
+PHX,"Nov 06, 2025",LAC,Won 115-102,"Won /
+ Under",-2.5,224.5
+CHA,"Nov 07, 2025",@MIA,Lost 108-126,"Lost /
+ Under",7.5,236.5
+CHI,"Nov 07, 2025",@MIL,Lost 110-126,"Lost /
+ Under",4.5,239.5
+UTA,"Nov 07, 2025",@MIN,Lost 97-137,"Lost /
+ Over",12.5,233.5
+DET,"Nov 07, 2025",@BKN,Won 125-107,"Won /
+ Over",-10.5,227.5
+BOS,"Nov 07, 2025",@ORL,Lost 110-123,"Lost /
+ Over",3.5,226.5
+OKC,"Nov 07, 2025",@SAC,Won 132-101,"Won /
+ Under",-11.5,234.5
+HOU,"Nov 07, 2025",@SAS,Lost 110-121,"Lost /
+ Over",-4.5,224.5
+TOR,"Nov 07, 2025",@ATL,Won 109-97,"Won /
+ Under",2.5,234.5
+ORL,"Nov 07, 2025",BOS,Won 123-110,"Won /
+ Over",-3.5,226.5
+WAS,"Nov 07, 2025",CLE,Lost 115-148,"Lost /
+ Over",13.5,241.5
+MIL,"Nov 07, 2025",CHI,Won 126-110,"Won /
+ Under",-4.5,239.5
+MEM,"Nov 07, 2025",DAL,Won 118-104,"Won /
+ Under",-4.5,232.5
+GSW,"Nov 07, 2025",@DEN,Lost 104-129,"Lost /
+ Over",9.5,230.5
+DEN,"Nov 07, 2025",GSW,Won 129-104,"Won /
+ Over",-9.5,230.5
+SAS,"Nov 07, 2025",HOU,Won 121-110,"Won /
+ Over",4.5,224.5
+SAC,"Nov 07, 2025",OKC,Lost 101-132,"Lost /
+ Under",11.5,234.5
+ATL,"Nov 07, 2025",TOR,Lost 97-109,"Lost /
+ Under",-2.5,234.5
+MIN,"Nov 07, 2025",UTA,Won 137-97,"Won /
+ Over",-12.5,233.5
+DAL,"Nov 07, 2025",@MEM,Lost 104-118,"Lost /
+ Under",4.5,232.5
+CLE,"Nov 07, 2025",@WAS,Won 148-115,"Won /
+ Over",-13.5,241.5
+BKN,"Nov 07, 2025",DET,Lost 107-125,"Lost /
+ Over",10.5,227.5
+MIA,"Nov 07, 2025",CHA,Won 126-108,"Won /
+ Under",-7.5,236.5
+ATL,"Nov 08, 2025",LAL,Won 122-102,"Won /
+ Under",5.5,228.5
+POR,"Nov 08, 2025",@MIA,Lost 131-136,"Lost /
+ Over",-3.5,241.5
+DEN,"Nov 08, 2025",IND,Won 117-100,"Won /
+ Under",-9.5,233.5
+TOR,"Nov 08, 2025",@PHI,Lost 120-130,"Lost /
+ Over",5.5,236.5
+LAC,"Nov 08, 2025",PHX,Lost 103-114,"Lost /
+ Under",-4.5,226.5
+MIA,"Nov 08, 2025",POR,Won 136-131,"Won /
+ Over",3.5,241.5
+NOP,"Nov 08, 2025",@SAS,Lost 119-126,"Won /
+ Over",11.5,222.5
+LAL,"Nov 08, 2025",@ATL,Lost 102-122,"Lost /
+ Under",-5.5,228.5
+CHI,"Nov 08, 2025",@CLE,Lost 122-128,"Won /
+ Over",8.5,239.5
+SAS,"Nov 08, 2025",NOP,Won 126-119,"Lost /
+ Over",-11.5,222.5
+CLE,"Nov 08, 2025",CHI,Won 128-122,"Lost /
+ Over",-8.5,239.5
+WAS,"Nov 08, 2025",DAL,Lost 105-111,"Lost /
+ Under",4.5,233.5
+IND,"Nov 08, 2025",@DEN,Lost 100-117,"Lost /
+ Under",9.5,233.5
+PHX,"Nov 08, 2025",@LAC,Won 114-103,"Won /
+ Under",4.5,226.5
+PHI,"Nov 08, 2025",TOR,Won 130-120,"Won /
+ Over",-5.5,236.5
+DAL,"Nov 08, 2025",@WAS,Won 111-105,"Won /
+ Under",-4.5,233.5
+HOU,"Nov 09, 2025",@MIL,Won 122-115,"Won /
+ Over",-3.5,232.5
+SAC,"Nov 09, 2025",MIN,Lost 117-144,"Lost /
+ Over",4.5,237.5
+NYK,"Nov 09, 2025",BKN,Won 134-98,"Won /
+ Over",-15.5,226.5
+BKN,"Nov 09, 2025",@NYK,Lost 98-134,"Lost /
+ Over",15.5,226.5
+BOS,"Nov 09, 2025",@ORL,Won 111-107,"Won /
+ Under",3.5,227.5
+GSW,"Nov 09, 2025",IND,Won 114-83,"Won /
+ Under",-13.5,221.5
+DET,"Nov 09, 2025",@PHI,Won 111-108,"Lost /
+ Under",-4.5,233.5
+MIN,"Nov 09, 2025",@SAC,Won 144-117,"Won /
+ Over",-4.5,237.5
+ORL,"Nov 09, 2025",BOS,Lost 107-111,"Lost /
+ Under",-3.5,227.5
+IND,"Nov 09, 2025",@GSW,Lost 83-114,"Lost /
+ Under",13.5,221.5
+MIL,"Nov 09, 2025",HOU,Lost 115-122,"Lost /
+ Over",3.5,232.5
+MEM,"Nov 09, 2025",OKC,Lost 100-114,"Lost /
+ Under",10.5,231.5
+OKC,"Nov 09, 2025",@MEM,Won 114-100,"Won /
+ Under",-10.5,231.5
+PHI,"Nov 09, 2025",DET,Lost 108-111,"Won /
+ Under",4.5,233.5
+CHA,"Nov 10, 2025",LAL,Lost 111-121,"Lost /
+ Over",8.5,230.5
+CLE,"Nov 10, 2025",@MIA,Lost 138-140,"Lost /
+ Over",-7.5,248.5
+DAL,"Nov 10, 2025",MIL,Lost 114-116,"Won /
+ Over",3.5,228.5
+UTA,"Nov 10, 2025",MIN,Lost 113-120,"Won /
+ Under",7.5,235.5
+POR,"Nov 10, 2025",@ORL,Lost 112-115,"Lost /
+ Under",2.5,234.5
+NOP,"Nov 10, 2025",@PHX,Lost 98-121,"Lost /
+ Under",7.5,226.5
+ORL,"Nov 10, 2025",POR,Won 115-112,"Won /
+ Under",-2.5,234.5
+CHI,"Nov 10, 2025",SAS,Lost 117-121,"Won /
+ Over",5.5,235.5
+LAC,"Nov 10, 2025",ATL,Lost 102-105,"Lost /
+ Under",-4.5,221.5
+MIA,"Nov 10, 2025",CLE,Won 140-138,"Won /
+ Over",7.5,248.5
+PHX,"Nov 10, 2025",NOP,Won 121-98,"Won /
+ Under",-7.5,226.5
+SAS,"Nov 10, 2025",@CHI,Won 121-117,"Lost /
+ Over",-5.5,235.5
+MIL,"Nov 10, 2025",@DAL,Won 116-114,"Lost /
+ Over",-3.5,228.5
+ATL,"Nov 10, 2025",@LAC,Won 105-102,"Won /
+ Under",4.5,221.5
+MIN,"Nov 10, 2025",@UTA,Won 120-113,"Lost /
+ Under",-7.5,235.5
+DET,"Nov 10, 2025",WAS,Won 137-135,"Lost /
+ Over",-10.5,236.5
+WAS,"Nov 10, 2025",@DET,Lost 135-137,"Won /
+ Over",10.5,236.5
+LAL,"Nov 10, 2025",@CHA,Won 121-111,"Won /
+ Over",-8.5,230.5
+TOR,"Nov 11, 2025",@BKN,Won 119-109,"Won /
+ Under",-9.5,230.5
+MEM,"Nov 11, 2025",@NYK,Lost 120-133,"Lost /
+ Over",10.5,233.5
+UTA,"Nov 11, 2025",IND,Won 152-128,"Won /
+ Over",2.5,233.5
+BOS,"Nov 11, 2025",@PHI,Lost 100-102,"Lost /
+ Under",-1.5,230.5
+DEN,"Nov 11, 2025",@SAC,Won 122-108,"Won /
+ Under",-8.5,244.5
+PHI,"Nov 11, 2025",BOS,Won 102-100,"Won /
+ Under",1.5,230.5
+SAC,"Nov 11, 2025",DEN,Lost 108-122,"Lost /
+ Under",8.5,244.5
+OKC,"Nov 11, 2025",GSW,Won 126-102,"Won /
+ Over",-7.5,227.5
+GSW,"Nov 11, 2025",@OKC,Lost 102-126,"Lost /
+ Over",7.5,227.5
+BKN,"Nov 11, 2025",TOR,Lost 109-119,"Lost /
+ Under",9.5,230.5
+IND,"Nov 11, 2025",@UTA,Lost 128-152,"Lost /
+ Over",-2.5,233.5
+NYK,"Nov 11, 2025",MEM,Won 133-120,"Won /
+ Over",-10.5,233.5
+OKC,"Nov 12, 2025",LAL,Won 121-92,"Won /
+ Under",-8.5,229.5
+CLE,"Nov 12, 2025",@MIA,Won 130-116,"Won /
+ Over",4.5,239.5
+CHA,"Nov 12, 2025",MIL,Won 111-100,"Won /
+ Under",2.5,228.5
+ORL,"Nov 12, 2025",@NYK,Won 124-107,"Won /
+ Over",3.5,227.5
+NYK,"Nov 12, 2025",ORL,Lost 107-124,"Lost /
+ Over",-3.5,227.5
+DAL,"Nov 12, 2025",PHX,Lost 114-123,"Lost /
+ Over",1.5,227.5
+NOP,"Nov 12, 2025",POR,Lost 117-125,"Won /
+ Over",8.5,232.5
+ATL,"Nov 12, 2025",@SAC,Won 133-100,"Won /
+ Over",-4.5,229.5
+GSW,"Nov 12, 2025",@SAS,Won 125-120,"Won /
+ Over",3.5,232.5
+SAC,"Nov 12, 2025",ATL,Lost 100-133,"Lost /
+ Over",4.5,229.5
+MEM,"Nov 12, 2025",@BOS,Lost 95-131,"Lost /
+ Under",8.5,228.5
+MIA,"Nov 12, 2025",CLE,Lost 116-130,"Lost /
+ Over",-4.5,239.5
+POR,"Nov 12, 2025",@NOP,Won 125-117,"Lost /
+ Over",-8.5,232.5
+DET,"Nov 12, 2025",CHI,Won 124-113,"Won /
+ Over",3.5,229.5
+PHX,"Nov 12, 2025",@DAL,Won 123-114,"Won /
+ Over",-1.5,227.5
+LAC,"Nov 12, 2025",DEN,Lost 116-130,"Lost /
+ Over",4.5,223.5
+SAS,"Nov 12, 2025",GSW,Lost 120-125,"Lost /
+ Over",-3.5,232.5
+WAS,"Nov 12, 2025",@HOU,Lost 112-135,"Lost /
+ Over",17.5,238.5
+DEN,"Nov 12, 2025",@LAC,Won 130-116,"Won /
+ Over",-4.5,223.5
+LAL,"Nov 12, 2025",@OKC,Lost 92-121,"Lost /
+ Under",8.5,229.5
+BOS,"Nov 12, 2025",MEM,Won 131-95,"Won /
+ Under",-8.5,228.5
+HOU,"Nov 12, 2025",WAS,Won 135-112,"Won /
+ Over",-17.5,238.5
+CHI,"Nov 12, 2025",@DET,Lost 113-124,"Lost /
+ Over",-3.5,229.5
+MIL,"Nov 12, 2025",@CHA,Lost 100-111,"Lost /
+ Under",-2.5,228.5
+PHX,"Nov 13, 2025",IND,Won 133-98,"Won /
+ Under",-3.5,233.5
+IND,"Nov 13, 2025",@PHX,Lost 98-133,"Lost /
+ Under",3.5,233.5
+UTA,"Nov 13, 2025",ATL,Lost 122-132,"Lost /
+ Over",1.5,234.5
+TOR,"Nov 13, 2025",@CLE,Won 126-113,"Won /
+ Over",7.5,237.5
+CLE,"Nov 13, 2025",TOR,Lost 113-126,"Lost /
+ Over",-7.5,237.5
+ATL,"Nov 13, 2025",@UTA,Won 132-122,"Won /
+ Over",-1.5,234.5
+NOP,"Nov 14, 2025",LAL,Lost 104-118,"Lost /
+ Under",9.5,227.5
+NYK,"Nov 14, 2025",MIA,Won 140-132,"Won /
+ Over",-6.5,240.5
+CHA,"Nov 14, 2025",@MIL,Lost 134-147,"Lost /
+ Over",9.5,238.5
+SAC,"Nov 14, 2025",@MIN,Lost 110-124,"Lost /
+ Under",11.5,240.5
+ORL,"Nov 14, 2025",BKN,Won 105-98,"Lost /
+ Under",-14.5,224.5
+MIA,"Nov 14, 2025",@NYK,Lost 132-140,"Lost /
+ Over",6.5,240.5
+BKN,"Nov 14, 2025",@ORL,Lost 98-105,"Won /
+ Under",14.5,224.5
+DET,"Nov 14, 2025",PHI,Won 114-105,"Won /
+ Under",-1.5,229.5
+HOU,"Nov 14, 2025",POR,Won 140-116,"Won /
+ Over",-7.5,236.5
+MIN,"Nov 14, 2025",SAC,Won 124-110,"Won /
+ Under",-11.5,240.5
+GSW,"Nov 14, 2025",@SAS,Won 109-108,"Won /
+ Under",2.5,233.5
+LAL,"Nov 14, 2025",@NOP,Won 118-104,"Won /
+ Under",-9.5,227.5
+LAC,"Nov 14, 2025",@DAL,Won 133-127,"Won /
+ Over",-3.5,220.5
+SAS,"Nov 14, 2025",GSW,Lost 108-109,"Lost /
+ Under",-2.5,233.5
+POR,"Nov 14, 2025",@HOU,Lost 116-140,"Lost /
+ Over",7.5,236.5
+DAL,"Nov 14, 2025",LAC,Lost 127-133,"Lost /
+ Over",3.5,220.5
+PHI,"Nov 14, 2025",@DET,Lost 105-114,"Lost /
+ Under",1.5,229.5
+MIL,"Nov 14, 2025",CHA,Won 147-134,"Won /
+ Over",-9.5,238.5
+MIL,"Nov 15, 2025",LAL,Lost 95-119,"Lost /
+ Under",-1.5,229.5
+LAL,"Nov 15, 2025",@MIL,Won 119-95,"Won /
+ Under",1.5,229.5
+DEN,"Nov 15, 2025",@MIN,Won 123-112,"Won /
+ Under",-1.5,237.5
+TOR,"Nov 15, 2025",@IND,Won 129-111,"Won /
+ Over",-6.5,235.5
+MEM,"Nov 15, 2025",@CLE,Lost 100-108,"Won /
+ Under",10.5,241.5
+MIN,"Nov 15, 2025",DEN,Lost 112-123,"Lost /
+ Under",1.5,237.5
+CHA,"Nov 15, 2025",OKC,Lost 96-109,"Won /
+ Under",17.5,224.5
+IND,"Nov 15, 2025",TOR,Lost 111-129,"Lost /
+ Over",6.5,235.5
+CLE,"Nov 15, 2025",MEM,Won 108-100,"Lost /
+ Under",-10.5,241.5
+OKC,"Nov 15, 2025",@CHA,Won 109-96,"Lost /
+ Under",-17.5,224.5
+WAS,"Nov 16, 2025",BKN,Lost 106-129,"Lost /
+ Over",-2.5,231.5
+HOU,"Nov 16, 2025",ORL,Won 117-113,"Lost /
+ Over",-7.5,223.5
+ATL,"Nov 16, 2025",@PHX,Won 124-122,"Won /
+ Over",1.5,226.5
+DAL,"Nov 16, 2025",POR,Won 138-133,"Won /
+ Over",2.5,236.5
+SAS,"Nov 16, 2025",SAC,Won 123-110,"Won /
+ Under",-6.5,243.5
+SAC,"Nov 16, 2025",@SAS,Lost 110-123,"Lost /
+ Under",6.5,243.5
+PHX,"Nov 16, 2025",ATL,Lost 122-124,"Lost /
+ Over",-1.5,226.5
+LAC,"Nov 16, 2025",@BOS,Lost 118-121,"Won /
+ Over",5.5,218.5
+GSW,"Nov 16, 2025",@NOP,Won 124-106,"Won /
+ Over",-11.5,226.5
+UTA,"Nov 16, 2025",CHI,Won 150-147,"Won /
+ Over",4.5,245.5
+POR,"Nov 16, 2025",@DAL,Lost 133-138,"Lost /
+ Over",-2.5,236.5
+NOP,"Nov 16, 2025",GSW,Lost 106-124,"Lost /
+ Over",11.5,226.5
+ORL,"Nov 16, 2025",@HOU,Lost 113-117,"Won /
+ Over",7.5,223.5
+BOS,"Nov 16, 2025",LAC,Won 121-118,"Lost /
+ Over",-5.5,218.5
+CHI,"Nov 16, 2025",@UTA,Lost 147-150,"Lost /
+ Over",-4.5,245.5
+BKN,"Nov 16, 2025",@WAS,Won 129-106,"Won /
+ Over",2.5,231.5
+NYK,"Nov 17, 2025",@MIA,Lost 113-115,"Lost /
+ Under",1.5,244.5
+CLE,"Nov 17, 2025",MIL,Won 118-106,"Won /
+ Under",-5.5,235.5
+DAL,"Nov 17, 2025",@MIN,Lost 96-120,"Lost /
+ Under",13.5,232.5
+MIA,"Nov 17, 2025",NYK,Won 115-113,"Won /
+ Under",-1.5,244.5
+DET,"Nov 17, 2025",IND,Won 127-112,"Won /
+ Over",-8.5,230.5
+LAC,"Nov 17, 2025",@PHI,Lost 108-110,"Won /
+ Under",5.5,222.5
+MIL,"Nov 17, 2025",@CLE,Lost 106-118,"Lost /
+ Under",5.5,235.5
+OKC,"Nov 17, 2025",@NOP,Won 126-109,"Lost /
+ Over",-18.5,223.5
+DEN,"Nov 17, 2025",CHI,Lost 127-130,"Lost /
+ Over",-12.5,241.5
+MIN,"Nov 17, 2025",DAL,Won 120-96,"Won /
+ Under",-13.5,232.5
+CHI,"Nov 17, 2025",@DEN,Won 130-127,"Won /
+ Over",12.5,241.5
+PHI,"Nov 17, 2025",LAC,Won 110-108,"Lost /
+ Under",-5.5,222.5
+NOP,"Nov 17, 2025",OKC,Lost 109-126,"Won /
+ Over",18.5,223.5
+CHA,"Nov 17, 2025",@TOR,Lost 108-110,"Won /
+ Under",7.5,240.5
+IND,"Nov 17, 2025",@DET,Lost 112-127,"Lost /
+ Over",8.5,230.5
+TOR,"Nov 17, 2025",CHA,Won 110-108,"Lost /
+ Under",-7.5,240.5
+UTA,"Nov 18, 2025",@LAL,Lost 126-140,"Lost /
+ Over",13.5,240.5
+BOS,"Nov 18, 2025",@BKN,Won 113-99,"Won /
+ Under",-11.5,222.5
+GSW,"Nov 18, 2025",@ORL,Lost 113-121,"Lost /
+ Over",-2.5,223.5
+POR,"Nov 18, 2025",PHX,Lost 110-127,"Lost /
+ Over",-2.5,235.5
+PHX,"Nov 18, 2025",@POR,Won 127-110,"Won /
+ Over",2.5,235.5
+MEM,"Nov 18, 2025",@SAS,Lost 101-111,"Lost /
+ Under",6.5,234.5
+DET,"Nov 18, 2025",@ATL,Won 120-112,"Won /
+ Over",-1.5,226.5
+BKN,"Nov 18, 2025",BOS,Lost 99-113,"Lost /
+ Under",11.5,222.5
+ORL,"Nov 18, 2025",GSW,Won 121-113,"Won /
+ Over",2.5,223.5
+LAL,"Nov 18, 2025",UTA,Won 140-126,"Won /
+ Over",-13.5,240.5
+SAS,"Nov 18, 2025",MEM,Won 111-101,"Won /
+ Under",-6.5,234.5
+ATL,"Nov 18, 2025",DET,Lost 112-120,"Lost /
+ Over",1.5,226.5
+GSW,"Nov 19, 2025",@MIA,Lost 96-110,"Lost /
+ Under",10.5,234.5
+WAS,"Nov 19, 2025",@MIN,Lost 109-120,"Won /
+ Under",16.5,240.5
+DAL,"Nov 19, 2025",NYK,Lost 111-113,"Won /
+ Under",8.5,233.5
+CHA,"Nov 19, 2025",@IND,Lost 118-127,"Lost /
+ Over",-1.5,237.5
+TOR,"Nov 19, 2025",@PHI,Won 121-112,"Won /
+ Under",-2.5,233.5
+CHI,"Nov 19, 2025",@POR,Won 122-121,"Lost /
+ Under",-3.5,244.5
+OKC,"Nov 19, 2025",SAC,Won 113-99,"Lost /
+ Under",-18.5,231.5
+HOU,"Nov 19, 2025",@CLE,Won 114-104,"Won /
+ Under",-1.5,232.5
+DEN,"Nov 19, 2025",@NOP,Won 125-118,"Lost /
+ Over",-10.5,234.5
+POR,"Nov 19, 2025",CHI,Lost 121-122,"Won /
+ Under",3.5,244.5
+NYK,"Nov 19, 2025",@DAL,Won 113-111,"Lost /
+ Under",-8.5,233.5
+NOP,"Nov 19, 2025",DEN,Lost 118-125,"Won /
+ Over",10.5,234.5
+MIA,"Nov 19, 2025",GSW,Won 110-96,"Won /
+ Under",-10.5,234.5
+CLE,"Nov 19, 2025",HOU,Lost 104-114,"Lost /
+ Under",1.5,232.5
+SAC,"Nov 19, 2025",@OKC,Lost 99-113,"Won /
+ Under",18.5,231.5
+PHI,"Nov 19, 2025",TOR,Lost 112-121,"Lost /
+ Under",2.5,233.5
+MIN,"Nov 19, 2025",WAS,Won 120-109,"Lost /
+ Under",-16.5,240.5
+IND,"Nov 19, 2025",CHA,Won 127-118,"Won /
+ Over",1.5,237.5
+PHI,"Nov 20, 2025",@MIL,Won 123-114,"Won /
+ Over",-1.5,223.5
+LAC,"Nov 20, 2025",@ORL,Lost 101-129,"Lost /
+ Over",6.5,218.5
+MIL,"Nov 20, 2025",PHI,Lost 114-123,"Lost /
+ Over",1.5,223.5
+MEM,"Nov 20, 2025",SAC,Won 137-96,"Won /
+ Under",-3.5,234.5
+ATL,"Nov 20, 2025",@SAS,Lost 126-135,"Lost /
+ Over",-1.5,233.5
+SAS,"Nov 20, 2025",ATL,Won 135-126,"Won /
+ Over",1.5,233.5
+ORL,"Nov 20, 2025",LAC,Won 129-101,"Won /
+ Over",-6.5,218.5
+SAC,"Nov 20, 2025",@MEM,Lost 96-137,"Lost /
+ Under",3.5,234.5
+CHI,"Nov 21, 2025",MIA,Lost 107-143,"Lost /
+ Under",-2.5,250.5
+PHX,"Nov 21, 2025",MIN,Won 114-113,"Won /
+ Under",4.5,230.5
+BOS,"Nov 21, 2025",BKN,Lost 105-113,"Lost /
+ Under",-13.5,222.5
+CLE,"Nov 21, 2025",IND,Won 120-109,"Lost /
+ Under",-13.5,242.5
+MIN,"Nov 21, 2025",@PHX,Lost 113-114,"Lost /
+ Under",-4.5,230.5
+GSW,"Nov 21, 2025",POR,Lost 123-127,"Lost /
+ Over",-9.5,236.5
+BKN,"Nov 21, 2025",@BOS,Won 113-105,"Won /
+ Under",13.5,222.5
+IND,"Nov 21, 2025",@CLE,Lost 109-120,"Won /
+ Under",13.5,242.5
+DAL,"Nov 21, 2025",NOP,Won 118-115,"Lost /
+ Under",-3.5,233.5
+MIA,"Nov 21, 2025",@CHI,Won 143-107,"Won /
+ Under",2.5,250.5
+NOP,"Nov 21, 2025",@DAL,Lost 115-118,"Won /
+ Under",3.5,233.5
+HOU,"Nov 21, 2025",DEN,Lost 109-112,"Lost /
+ Under",-3.5,234.5
+POR,"Nov 21, 2025",@GSW,Won 127-123,"Won /
+ Over",9.5,236.5
+DEN,"Nov 21, 2025",@HOU,Won 112-109,"Won /
+ Under",3.5,234.5
+UTA,"Nov 21, 2025",OKC,Lost 112-144,"Lost /
+ Over",16.5,234.5
+WAS,"Nov 21, 2025",@TOR,Lost 110-140,"Lost /
+ Over",14.5,239.5
+OKC,"Nov 21, 2025",@UTA,Won 144-112,"Won /
+ Over",-16.5,234.5
+TOR,"Nov 21, 2025",WAS,Won 140-110,"Won /
+ Over",-14.5,239.5
+DET,"Nov 22, 2025",@MIL,Won 129-116,"Won /
+ Over",-7.5,225.5
+ORL,"Nov 22, 2025",NYK,Won 133-121,"Won /
+ Over",-1.5,230.5
+NYK,"Nov 22, 2025",@ORL,Lost 121-133,"Lost /
+ Over",1.5,230.5
+DEN,"Nov 22, 2025",SAC,Lost 123-128,"Lost /
+ Over",-11.5,240.5
+NOP,"Nov 22, 2025",ATL,Lost 98-115,"Lost /
+ Under",9.5,232.5
+ATL,"Nov 22, 2025",@NOP,Won 115-98,"Won /
+ Under",-9.5,232.5
+WAS,"Nov 22, 2025",@CHI,Lost 120-121,"Won /
+ Under",12.5,245.5
+MEM,"Nov 22, 2025",@DAL,Won 102-96,"Won /
+ Under",1.5,229.5
+SAC,"Nov 22, 2025",@DEN,Won 128-123,"Won /
+ Over",11.5,240.5
+CHA,"Nov 22, 2025",LAC,Lost 116-131,"Lost /
+ Over",-1.5,227.5
+DAL,"Nov 22, 2025",MEM,Lost 96-102,"Lost /
+ Under",-1.5,229.5
+CHI,"Nov 22, 2025",WAS,Won 121-120,"Lost /
+ Under",-12.5,245.5
+MIL,"Nov 22, 2025",DET,Lost 116-129,"Lost /
+ Over",7.5,225.5
+LAC,"Nov 22, 2025",@CHA,Won 131-116,"Won /
+ Over",1.5,227.5
+UTA,"Nov 23, 2025",LAL,Lost 106-108,"Won /
+ Under",9.5,245.5
+PHI,"Nov 23, 2025",MIA,Lost 117-127,"Lost /
+ Over",-1.5,241.5
+TOR,"Nov 23, 2025",BKN,Won 119-109,"Lost /
+ Under",-11.5,229.5
+BOS,"Nov 23, 2025",ORL,Won 138-129,"Won /
+ Over",-4.5,223.5
+MIA,"Nov 23, 2025",@PHI,Won 127-117,"Won /
+ Over",1.5,241.5
+SAS,"Nov 23, 2025",@PHX,Lost 102-111,"Lost /
+ Under",1.5,234.5
+OKC,"Nov 23, 2025",POR,Won 122-95,"Won /
+ Under",-16.5,233.5
+PHX,"Nov 23, 2025",SAS,Won 111-102,"Won /
+ Under",-1.5,234.5
+CHA,"Nov 23, 2025",@ATL,Lost 110-113,"Won /
+ Under",8.5,228.5
+ORL,"Nov 23, 2025",@BOS,Lost 129-138,"Lost /
+ Over",4.5,223.5
+LAC,"Nov 23, 2025",@CLE,Lost 105-120,"Lost /
+ Under",7.5,229.5
+CLE,"Nov 23, 2025",LAC,Won 120-105,"Won /
+ Under",-7.5,229.5
+POR,"Nov 23, 2025",@OKC,Lost 95-122,"Lost /
+ Under",16.5,233.5
+BKN,"Nov 23, 2025",@TOR,Lost 109-119,"Won /
+ Under",11.5,229.5
+LAL,"Nov 23, 2025",@UTA,Won 108-106,"Lost /
+ Under",-9.5,245.5
+ATL,"Nov 23, 2025",CHA,Won 113-110,"Lost /
+ Under",-8.5,228.5
+DAL,"Nov 24, 2025",@MIA,Lost 102-106,"Won /
+ Under",7.5,240.5
+POR,"Nov 24, 2025",@MIL,Won 115-103,"Won /
+ Under",1.5,229.5
+SAC,"Nov 24, 2025",MIN,Won 117-112,"Won /
+ Under",10.5,236.5
+NYK,"Nov 24, 2025",@BKN,Won 113-100,"Lost /
+ Under",-13.5,228.5
+BKN,"Nov 24, 2025",NYK,Lost 100-113,"Won /
+ Under",13.5,228.5
+DET,"Nov 24, 2025",@IND,Won 122-117,"Lost /
+ Over",-9.5,235.5
+HOU,"Nov 24, 2025",@PHX,Won 114-92,"Won /
+ Under",-6.5,222.5
+MIL,"Nov 24, 2025",POR,Lost 103-115,"Lost /
+ Under",-1.5,229.5
+MIN,"Nov 24, 2025",@SAC,Lost 112-117,"Lost /
+ Under",-10.5,236.5
+TOR,"Nov 24, 2025",CLE,Won 110-99,"Won /
+ Under",-2.5,232.5
+CHI,"Nov 24, 2025",@NOP,Lost 130-143,"Lost /
+ Over",-5.5,243.5
+NOP,"Nov 24, 2025",CHI,Won 143-130,"Won /
+ Over",5.5,243.5
+MIA,"Nov 24, 2025",DAL,Won 106-102,"Lost /
+ Under",-7.5,240.5
+MEM,"Nov 24, 2025",DEN,Lost 115-125,"Lost /
+ Over",6.5,235.5
+UTA,"Nov 24, 2025",@GSW,Lost 117-134,"Lost /
+ Over",13.5,239.5
+PHX,"Nov 24, 2025",HOU,Lost 92-114,"Lost /
+ Under",6.5,222.5
+CLE,"Nov 24, 2025",@TOR,Lost 99-110,"Lost /
+ Under",2.5,232.5
+GSW,"Nov 24, 2025",UTA,Won 134-117,"Won /
+ Over",-13.5,239.5
+DEN,"Nov 24, 2025",@MEM,Won 125-115,"Won /
+ Over",-6.5,235.5
+IND,"Nov 24, 2025",DET,Lost 117-122,"Won /
+ Over",9.5,235.5
+LAC,"Nov 25, 2025",@LAL,Lost 118-135,"Lost /
+ Over",6.5,227.5
+PHI,"Nov 25, 2025",ORL,Lost 103-144,"Lost /
+ Over",4.5,229.5
+ORL,"Nov 25, 2025",@PHI,Won 144-103,"Won /
+ Over",-4.5,229.5
+WAS,"Nov 25, 2025",ATL,Won 132-113,"Won /
+ Over",10.5,240.5
+LAL,"Nov 25, 2025",LAC,Won 135-118,"Won /
+ Over",-6.5,227.5
+ATL,"Nov 25, 2025",@WAS,Lost 113-132,"Lost /
+ Over",-10.5,240.5
+MIL,"Nov 26, 2025",@MIA,Lost 103-106,"Won /
+ Under",10.5,236.5
+MIA,"Nov 26, 2025",MIL,Won 106-103,"Lost /
+ Under",-10.5,236.5
+OKC,"Nov 26, 2025",MIN,Won 113-105,"Lost /
+ Under",-10.5,226.5
+CHA,"Nov 26, 2025",NYK,Lost 101-129,"Lost /
+ Under",6.5,242.5
+TOR,"Nov 26, 2025",IND,Won 97-95,"Lost /
+ Under",-10.5,233.5
+SAC,"Nov 26, 2025",PHX,Lost 100-112,"Lost /
+ Under",4.5,233.5
+SAS,"Nov 26, 2025",@POR,Won 115-102,"Won /
+ Under",1.5,239.5
+PHX,"Nov 26, 2025",@SAC,Won 112-100,"Won /
+ Under",-4.5,233.5
+POR,"Nov 26, 2025",SAS,Lost 102-115,"Lost /
+ Under",-1.5,239.5
+DET,"Nov 26, 2025",@BOS,Lost 114-117,"Lost /
+ Under",-1.5,233.5
+MEM,"Nov 26, 2025",@NOP,Won 133-128,"Won /
+ Over",-3.5,236.5
+HOU,"Nov 26, 2025",@GSW,Won 104-100,"Won /
+ Under",3.5,224.5
+GSW,"Nov 26, 2025",HOU,Lost 100-104,"Lost /
+ Under",-3.5,224.5
+MIN,"Nov 26, 2025",@OKC,Lost 105-113,"Won /
+ Under",10.5,226.5
+IND,"Nov 26, 2025",@TOR,Lost 95-97,"Won /
+ Under",10.5,233.5
+NOP,"Nov 26, 2025",MEM,Lost 128-133,"Lost /
+ Over",3.5,236.5
+BOS,"Nov 26, 2025",DET,Won 117-114,"Won /
+ Under",1.5,233.5
+NYK,"Nov 26, 2025",@CHA,Won 129-101,"Won /
+ Under",-6.5,242.5
+DAL,"Nov 28, 2025",@LAL,Lost 119-129,"Lost /
+ Over",9.5,232.5
+NYK,"Nov 28, 2025",MIL,Won 118-109,"Won /
+ Under",-7.5,232.5
+PHI,"Nov 28, 2025",@BKN,Won 115-103,"Won /
+ Under",-7.5,222.5
+MIL,"Nov 28, 2025",@NYK,Lost 109-118,"Lost /
+ Under",7.5,232.5
+DET,"Nov 28, 2025",ORL,Lost 109-112,"Lost /
+ Under",-3.5,230.5
+WAS,"Nov 28, 2025",@IND,Lost 86-119,"Lost /
+ Under",6.5,240.5
+BKN,"Nov 28, 2025",PHI,Lost 103-115,"Lost /
+ Under",7.5,222.5
+OKC,"Nov 28, 2025",PHX,Won 123-119,"Lost /
+ Over",-14.5,222.5
+UTA,"Nov 28, 2025",SAC,Won 128-119,"Won /
+ Over",-2.5,242.5
+DEN,"Nov 28, 2025",SAS,Lost 136-139,"Lost /
+ Over",-7.5,238.5
+CLE,"Nov 28, 2025",@ATL,Lost 123-130,"Lost /
+ Over",-6.5,236.5
+ATL,"Nov 28, 2025",CLE,Won 130-123,"Won /
+ Over",6.5,236.5
+CHA,"Nov 28, 2025",CHI,Won 123-116,"Won /
+ Under",2.5,249.5
+LAL,"Nov 28, 2025",DAL,Won 129-119,"Won /
+ Over",-9.5,232.5
+SAS,"Nov 28, 2025",@DEN,Won 139-136,"Won /
+ Over",7.5,238.5
+MEM,"Nov 28, 2025",@LAC,Won 112-107,"Won /
+ Under",6.5,224.5
+PHX,"Nov 28, 2025",@OKC,Lost 119-123,"Won /
+ Over",14.5,222.5
+SAC,"Nov 28, 2025",@UTA,Lost 119-128,"Lost /
+ Over",2.5,242.5
+LAC,"Nov 28, 2025",MEM,Lost 107-112,"Lost /
+ Under",-6.5,224.5
+IND,"Nov 28, 2025",WAS,Won 119-86,"Won /
+ Under",-6.5,240.5
+ORL,"Nov 28, 2025",@DET,Won 112-109,"Won /
+ Under",3.5,230.5
+CHI,"Nov 28, 2025",@CHA,Lost 116-123,"Lost /
+ Under",-2.5,249.5
+DET,"Nov 29, 2025",@MIA,Won 138-135,"Won /
+ Over",4.5,239.5
+BKN,"Nov 29, 2025",@MIL,Lost 99-116,"Lost /
+ Under",11.5,218.5
+BOS,"Nov 29, 2025",@MIN,Lost 115-119,"Won /
+ Over",5.5,229.5
+MIL,"Nov 29, 2025",BKN,Won 116-99,"Won /
+ Under",-11.5,218.5
+CHI,"Nov 29, 2025",@IND,Lost 101-103,"Lost /
+ Under",-2.5,240.5
+DEN,"Nov 29, 2025",@PHX,Won 130-112,"Won /
+ Over",-3.5,234.5
+MIN,"Nov 29, 2025",BOS,Won 119-115,"Lost /
+ Over",-5.5,229.5
+GSW,"Nov 29, 2025",NOP,Won 104-96,"Lost /
+ Under",-9.5,228.5
+IND,"Nov 29, 2025",CHI,Won 103-101,"Won /
+ Under",2.5,240.5
+LAC,"Nov 29, 2025",DAL,Lost 110-114,"Lost /
+ Under",-9.5,224.5
+PHX,"Nov 29, 2025",DEN,Lost 112-130,"Lost /
+ Over",3.5,234.5
+NOP,"Nov 29, 2025",@GSW,Lost 96-104,"Won /
+ Under",9.5,228.5
+DAL,"Nov 29, 2025",@LAC,Won 114-110,"Won /
+ Under",9.5,224.5
+CHA,"Nov 29, 2025",TOR,Won 118-111,"Won /
+ Under",6.5,234.5
+MIA,"Nov 29, 2025",DET,Lost 135-138,"Lost /
+ Over",-4.5,239.5
+TOR,"Nov 29, 2025",@CHA,Lost 111-118,"Lost /
+ Under",-6.5,234.5
+NOP,"Nov 30, 2025",@LAL,Lost 121-133,"Won /
+ Over",15.5,228.5
+SAS,"Nov 30, 2025",@MIN,Lost 112-125,"Lost /
+ Over",4.5,233.5
+TOR,"Nov 30, 2025",@NYK,Lost 94-116,"Lost /
+ Under",8.5,229.5
+ATL,"Nov 30, 2025",@PHI,Won 142-134,"Won /
+ Over",2.5,232.5
+OKC,"Nov 30, 2025",@POR,Won 123-115,"Lost /
+ Over",-11.5,234.5
+MEM,"Nov 30, 2025",@SAC,Won 115-107,"Won /
+ Under",-3.5,233.5
+MIN,"Nov 30, 2025",SAS,Won 125-112,"Won /
+ Over",-4.5,233.5
+PHI,"Nov 30, 2025",ATL,Lost 134-142,"Lost /
+ Over",-2.5,232.5
+CLE,"Nov 30, 2025",BOS,Lost 115-117,"Lost /
+ Under",-7.5,234.5
+BOS,"Nov 30, 2025",@CLE,Won 117-115,"Won /
+ Under",7.5,234.5
+LAL,"Nov 30, 2025",NOP,Won 133-121,"Lost /
+ Over",-15.5,228.5
+UTA,"Nov 30, 2025",HOU,Lost 101-129,"Lost /
+ Under",11.5,233.5
+POR,"Nov 30, 2025",OKC,Lost 115-123,"Won /
+ Over",11.5,234.5
+NYK,"Nov 30, 2025",TOR,Won 116-94,"Won /
+ Under",-8.5,229.5
+HOU,"Nov 30, 2025",@UTA,Won 129-101,"Won /
+ Under",-11.5,233.5
+SAC,"Nov 30, 2025",MEM,Lost 107-115,"Lost /
+ Under",3.5,233.5
+PHX,"Dec 01, 2025",@LAL,Won 125-108,"Won /
+ Over",5.5,231.5
+LAC,"Dec 01, 2025",@MIA,Lost 123-140,"Lost /
+ Over",6.5,235.5
+WAS,"Dec 01, 2025",MIL,Won 129-126,"Won /
+ Over",10.5,232.5
+CHA,"Dec 01, 2025",@BKN,Lost 103-116,"Lost /
+ Under",-4.5,227.5
+CHI,"Dec 01, 2025",@ORL,Lost 120-125,"Won /
+ Over",9.5,239.5
+CLE,"Dec 01, 2025",@IND,Won 135-119,"Won /
+ Over",-4.5,230.5
+LAL,"Dec 01, 2025",PHX,Lost 108-125,"Lost /
+ Over",-5.5,231.5
+DET,"Dec 01, 2025",ATL,Won 99-98,"Lost /
+ Under",-9.5,232.5
+IND,"Dec 01, 2025",CLE,Lost 119-135,"Lost /
+ Over",4.5,230.5
+ORL,"Dec 01, 2025",CHI,Won 125-120,"Lost /
+ Over",-9.5,239.5
+DEN,"Dec 01, 2025",DAL,Lost 121-131,"Lost /
+ Over",-11.5,235.5
+DAL,"Dec 01, 2025",@DEN,Won 131-121,"Won /
+ Over",11.5,235.5
+UTA,"Dec 01, 2025",HOU,Won 133-125,"Won /
+ Over",11.5,235.5
+MIA,"Dec 01, 2025",LAC,Won 140-123,"Won /
+ Over",-6.5,235.5
+HOU,"Dec 01, 2025",@UTA,Lost 125-133,"Lost /
+ Over",-11.5,235.5
+MIL,"Dec 01, 2025",@WAS,Lost 126-129,"Lost /
+ Over",-10.5,232.5
+ATL,"Dec 01, 2025",@DET,Lost 98-99,"Won /
+ Under",9.5,232.5
+BKN,"Dec 01, 2025",CHA,Won 116-103,"Won /
+ Under",4.5,227.5
+NOP,"Dec 02, 2025",MIN,Lost 142-149,"Won /
+ Over",12.5,229.5
+BOS,"Dec 02, 2025",NYK,Won 123-117,"Won /
+ Over",1.5,230.5
+WAS,"Dec 02, 2025",@PHI,Lost 102-121,"Lost /
+ Under",13.5,234.5
+TOR,"Dec 02, 2025",POR,Won 121-118,"Lost /
+ Over",-4.5,230.5
+MEM,"Dec 02, 2025",@SAS,Lost 119-126,"Lost /
+ Over",5.5,232.5
+NYK,"Dec 02, 2025",@BOS,Lost 117-123,"Lost /
+ Over",-1.5,230.5
+MIN,"Dec 02, 2025",@NOP,Won 149-142,"Lost /
+ Over",-12.5,229.5
+OKC,"Dec 02, 2025",@GSW,Won 124-112,"Won /
+ Over",-11.5,223.5
+GSW,"Dec 02, 2025",OKC,Lost 112-124,"Lost /
+ Over",11.5,223.5
+POR,"Dec 02, 2025",@TOR,Lost 118-121,"Won /
+ Over",4.5,230.5
+SAS,"Dec 02, 2025",MEM,Won 126-119,"Won /
+ Over",-5.5,232.5
+PHI,"Dec 02, 2025",WAS,Won 121-102,"Won /
+ Under",-13.5,234.5
+DAL,"Dec 03, 2025",MIA,Won 118-108,"Won /
+ Under",4.5,238.5
+DET,"Dec 03, 2025",@MIL,Lost 109-113,"Lost /
+ Under",-4.5,228.5
+CHI,"Dec 03, 2025",BKN,Lost 103-113,"Lost /
+ Under",-7.5,231.5
+CHA,"Dec 03, 2025",@NYK,Lost 104-119,"Lost /
+ Under",9.5,235.5
+SAS,"Dec 03, 2025",@ORL,Won 114-112,"Won /
+ Under",8.5,235.5
+DEN,"Dec 03, 2025",@IND,Won 135-120,"Won /
+ Over",-8.5,238.5
+CLE,"Dec 03, 2025",POR,Lost 110-122,"Lost /
+ Under",-10.5,244.5
+HOU,"Dec 03, 2025",SAC,Won 121-95,"Won /
+ Under",-15.5,231.5
+ORL,"Dec 03, 2025",SAS,Lost 112-114,"Lost /
+ Under",-8.5,235.5
+LAC,"Dec 03, 2025",@ATL,Won 115-92,"Won /
+ Under",1.5,226.5
+POR,"Dec 03, 2025",@CLE,Won 122-110,"Won /
+ Under",10.5,244.5
+BKN,"Dec 03, 2025",@CHI,Won 113-103,"Won /
+ Under",7.5,231.5
+MIA,"Dec 03, 2025",@DAL,Lost 108-118,"Lost /
+ Under",-4.5,238.5
+IND,"Dec 03, 2025",DEN,Lost 120-135,"Lost /
+ Over",8.5,238.5
+SAC,"Dec 03, 2025",@HOU,Lost 95-121,"Lost /
+ Under",15.5,231.5
+ATL,"Dec 03, 2025",LAC,Lost 92-115,"Lost /
+ Under",-1.5,226.5
+MIL,"Dec 03, 2025",DET,Won 113-109,"Won /
+ Under",4.5,228.5
+NYK,"Dec 03, 2025",CHA,Won 119-104,"Won /
+ Under",-9.5,235.5
+TOR,"Dec 04, 2025",LAL,Lost 120-123,"Lost /
+ Over",-2.5,228.5
+NOP,"Dec 04, 2025",MIN,Lost 116-125,"Won /
+ Over",11.5,232.5
+UTA,"Dec 04, 2025",@BKN,Won 123-110,"Won /
+ Over",-5.5,231.5
+GSW,"Dec 04, 2025",@PHI,Lost 98-99,"Won /
+ Under",4.5,224.5
+WAS,"Dec 04, 2025",BOS,Lost 101-146,"Lost /
+ Over",10.5,231.5
+MIN,"Dec 04, 2025",@NOP,Won 125-116,"Lost /
+ Over",-11.5,232.5
+PHI,"Dec 04, 2025",GSW,Won 99-98,"Lost /
+ Under",-4.5,224.5
+LAL,"Dec 04, 2025",@TOR,Won 123-120,"Won /
+ Over",2.5,228.5
+BKN,"Dec 04, 2025",UTA,Lost 110-123,"Lost /
+ Over",5.5,231.5
+BOS,"Dec 04, 2025",@WAS,Won 146-101,"Won /
+ Over",-10.5,231.5
+BOS,"Dec 05, 2025",LAL,Won 126-105,"Won /
+ Over",-8.5,227.5
+ORL,"Dec 05, 2025",MIA,Won 106-105,"Lost /
+ Under",-6.5,241.5
+PHI,"Dec 05, 2025",@MIL,Won 116-101,"Won /
+ Under",-1.5,221.5
+UTA,"Dec 05, 2025",@NYK,Lost 112-146,"Lost /
+ Over",16.5,243.5
+MIA,"Dec 05, 2025",@ORL,Lost 105-106,"Won /
+ Under",6.5,241.5
+CHI,"Dec 05, 2025",IND,Lost 105-120,"Lost /
+ Under",-4.5,234.5
+MIL,"Dec 05, 2025",PHI,Lost 101-116,"Lost /
+ Under",1.5,221.5
+HOU,"Dec 05, 2025",PHX,Won 117-98,"Won /
+ Under",-8.5,219.5
+DET,"Dec 05, 2025",POR,Won 122-116,"Lost /
+ Over",-8.5,235.5
+CLE,"Dec 05, 2025",SAS,Won 130-117,"Won /
+ Over",-5.5,239.5
+DEN,"Dec 05, 2025",@ATL,Won 134-133,"Lost /
+ Over",-3.5,238.5
+LAL,"Dec 05, 2025",@BOS,Lost 105-126,"Lost /
+ Over",8.5,227.5
+SAS,"Dec 05, 2025",@CLE,Lost 117-130,"Lost /
+ Over",5.5,239.5
+IND,"Dec 05, 2025",@CHI,Won 120-105,"Won /
+ Under",4.5,234.5
+OKC,"Dec 05, 2025",DAL,Won 132-111,"Won /
+ Over",-15.5,229.5
+ATL,"Dec 05, 2025",DEN,Lost 133-134,"Won /
+ Over",3.5,238.5
+PHX,"Dec 05, 2025",@HOU,Lost 98-117,"Lost /
+ Under",8.5,219.5
+MEM,"Dec 05, 2025",LAC,Won 107-98,"Won /
+ Under",2.5,222.5
+DAL,"Dec 05, 2025",@OKC,Lost 111-132,"Lost /
+ Over",15.5,229.5
+CHA,"Dec 05, 2025",@TOR,Won 111-86,"Won /
+ Under",6.5,230.5
+NYK,"Dec 05, 2025",UTA,Won 146-112,"Won /
+ Over",-16.5,243.5
+LAC,"Dec 05, 2025",@MEM,Lost 98-107,"Lost /
+ Under",-2.5,222.5
+POR,"Dec 05, 2025",@DET,Lost 116-122,"Won /
+ Over",8.5,235.5
+TOR,"Dec 05, 2025",CHA,Lost 86-111,"Lost /
+ Under",-6.5,230.5
+SAC,"Dec 06, 2025",@MIA,Won 127-111,"Won /
+ Under",8.5,241.5
+DET,"Dec 06, 2025",MIL,Won 124-112,"Lost /
+ Over",-12.5,223.5
+LAC,"Dec 06, 2025",@MIN,Lost 106-109,"Won /
+ Under",8.5,227.5
+NOP,"Dec 06, 2025",@BKN,Lost 101-119,"Lost /
+ Under",3.5,227.5
+MIA,"Dec 06, 2025",SAC,Lost 111-127,"Lost /
+ Under",-8.5,241.5
+WAS,"Dec 06, 2025",ATL,Lost 116-131,"Lost /
+ Over",9.5,237.5
+GSW,"Dec 06, 2025",@CLE,Won 99-94,"Won /
+ Under",8.5,230.5
+BKN,"Dec 06, 2025",NOP,Won 119-101,"Won /
+ Under",-3.5,227.5
+HOU,"Dec 06, 2025",@DAL,Lost 109-122,"Lost /
+ Over",-6.5,221.5
+CLE,"Dec 06, 2025",GSW,Lost 94-99,"Lost /
+ Under",-8.5,230.5
+DAL,"Dec 06, 2025",HOU,Won 122-109,"Won /
+ Over",6.5,221.5
+MIN,"Dec 06, 2025",LAC,Won 109-106,"Lost /
+ Under",-8.5,227.5
+ATL,"Dec 06, 2025",@WAS,Won 131-116,"Won /
+ Over",-9.5,237.5
+MIL,"Dec 06, 2025",@DET,Lost 112-124,"Won /
+ Over",12.5,223.5
+PHI,"Dec 07, 2025",LAL,Lost 108-112,"Lost /
+ Under",2.5,233.5
+ORL,"Dec 07, 2025",@NYK,Lost 100-106,"Lost /
+ Under",1.5,229.5
+NYK,"Dec 07, 2025",ORL,Won 106-100,"Won /
+ Under",-1.5,229.5
+LAL,"Dec 07, 2025",@PHI,Won 112-108,"Won /
+ Under",-2.5,233.5
+MEM,"Dec 07, 2025",POR,Won 119-96,"Won /
+ Under",-1.5,232.5
+TOR,"Dec 07, 2025",BOS,Lost 113-121,"Lost /
+ Over",3.5,224.5
+GSW,"Dec 07, 2025",@CHI,Won 123-91,"Won /
+ Under",-1.5,229.5
+CHA,"Dec 07, 2025",DEN,Lost 106-115,"Won /
+ Under",10.5,235.5
+CHI,"Dec 07, 2025",GSW,Lost 91-123,"Lost /
+ Under",1.5,229.5
+UTA,"Dec 07, 2025",OKC,Lost 101-131,"Lost /
+ Under",11.5,233.5
+BOS,"Dec 07, 2025",@TOR,Won 121-113,"Won /
+ Over",-3.5,224.5
+OKC,"Dec 07, 2025",@UTA,Won 131-101,"Won /
+ Under",-11.5,233.5
+POR,"Dec 07, 2025",@MEM,Lost 96-119,"Lost /
+ Under",1.5,232.5
+DEN,"Dec 07, 2025",@CHA,Won 115-106,"Lost /
+ Under",-10.5,235.5
+PHX,"Dec 08, 2025",@MIN,Won 108-105,"Won /
+ Under",8.5,225.5
+SAC,"Dec 08, 2025",@IND,Lost 105-116,"Lost /
+ Under",3.5,231.5
+MIN,"Dec 08, 2025",PHX,Lost 105-108,"Lost /
+ Under",-8.5,225.5
+IND,"Dec 08, 2025",SAC,Won 116-105,"Won /
+ Under",-3.5,231.5
+NOP,"Dec 08, 2025",SAS,Lost 132-135,"Won /
+ Over",8.5,238.5
+SAS,"Dec 08, 2025",@NOP,Won 135-132,"Lost /
+ Over",-8.5,238.5
+ORL,"Dec 09, 2025",MIA,Won 117-108,"Won /
+ Under",-1.5,234.5
+TOR,"Dec 09, 2025",NYK,Lost 101-117,"Lost /
+ Under",6.5,226.5
+MIA,"Dec 09, 2025",@ORL,Lost 108-117,"Lost /
+ Under",1.5,234.5
+NYK,"Dec 09, 2025",@TOR,Won 117-101,"Won /
+ Under",-6.5,226.5
+SAS,"Dec 10, 2025",@LAL,Won 132-119,"Won /
+ Over",7.5,243.5
+OKC,"Dec 10, 2025",PHX,Won 138-89,"Won /
+ Over",-15.5,221.5
+LAL,"Dec 10, 2025",SAS,Lost 119-132,"Lost /
+ Over",-7.5,243.5
+PHX,"Dec 10, 2025",@OKC,Lost 89-138,"Lost /
+ Over",15.5,221.5
+BOS,"Dec 11, 2025",@MIL,Lost 101-116,"Lost /
+ Under",-9.5,222.5
+NOP,"Dec 11, 2025",POR,Won 143-120,"Won /
+ Over",4.5,242.5
+DEN,"Dec 11, 2025",@SAC,Won 136-105,"Won /
+ Over",-10.5,239.5
+MIL,"Dec 11, 2025",BOS,Won 116-101,"Won /
+ Under",9.5,222.5
+POR,"Dec 11, 2025",@NOP,Lost 120-143,"Lost /
+ Over",-4.5,242.5
+SAC,"Dec 11, 2025",DEN,Lost 105-136,"Lost /
+ Over",10.5,239.5
+LAC,"Dec 11, 2025",@HOU,Lost 113-115,"Won /
+ Over",8.5,221.5
+HOU,"Dec 11, 2025",LAC,Won 115-113,"Lost /
+ Over",-8.5,221.5
+GSW,"Dec 12, 2025",MIN,Lost 120-127,"Lost /
+ Over",-4.5,228.5
+DAL,"Dec 12, 2025",BKN,Won 119-111,"Won /
+ Over",-7.5,218.5
+PHI,"Dec 12, 2025",IND,Won 115-105,"Won /
+ Under",-5.5,221.5
+IND,"Dec 12, 2025",@PHI,Lost 105-115,"Lost /
+ Under",5.5,221.5
+DET,"Dec 12, 2025",ATL,Won 142-115,"Won /
+ Over",-6.5,233.5
+WAS,"Dec 12, 2025",CLE,Lost 126-130,"Won /
+ Over",16.5,245.5
+CHA,"Dec 12, 2025",CHI,Lost 126-129,"Lost /
+ Over",2.5,229.5
+BKN,"Dec 12, 2025",@DAL,Lost 111-119,"Lost /
+ Over",7.5,218.5
+MIN,"Dec 12, 2025",@GSW,Won 127-120,"Won /
+ Over",4.5,228.5
+MEM,"Dec 12, 2025",UTA,Lost 126-130,"Lost /
+ Over",-7.5,243.5
+UTA,"Dec 12, 2025",@MEM,Won 130-126,"Won /
+ Over",7.5,243.5
+CLE,"Dec 12, 2025",@WAS,Won 130-126,"Lost /
+ Over",-16.5,245.5
+ATL,"Dec 12, 2025",@DET,Lost 115-142,"Lost /
+ Over",6.5,233.5
+CHI,"Dec 12, 2025",@CHA,Won 129-126,"Won /
+ Over",-2.5,229.5
+ORL,"Dec 13, 2025",@NYK,Lost 120-132,"Lost /
+ Over",3.5,225.5
+NYK,"Dec 13, 2025",@ORL,Won 132-120,"Won /
+ Over",-3.5,225.5
+OKC,"Dec 13, 2025",@SAS,Lost 109-111,"Lost /
+ Under",-10.5,233.5
+SAS,"Dec 13, 2025",@OKC,Won 111-109,"Won /
+ Under",10.5,233.5
+PHX,"Dec 14, 2025",LAL,Lost 114-116,"Lost /
+ Under",-1.5,232.5
+BKN,"Dec 14, 2025",MIL,Won 127-82,"Won /
+ Under",1.5,215.5
+SAC,"Dec 14, 2025",@MIN,Lost 103-117,"Lost /
+ Under",9.5,235.5
+MIL,"Dec 14, 2025",@BKN,Lost 82-127,"Lost /
+ Under",-1.5,215.5
+WAS,"Dec 14, 2025",@IND,Won 108-89,"Won /
+ Under",10.5,233.5
+ATL,"Dec 14, 2025",PHI,Won 120-117,"Lost /
+ Over",-4.5,226.5
+LAL,"Dec 14, 2025",@PHX,Won 116-114,"Won /
+ Under",1.5,232.5
+GSW,"Dec 14, 2025",@POR,Lost 131-136,"Lost /
+ Over",-5.5,237.5
+MIN,"Dec 14, 2025",SAC,Won 117-103,"Won /
+ Under",-9.5,235.5
+PHI,"Dec 14, 2025",@ATL,Lost 117-120,"Won /
+ Over",4.5,226.5
+CHA,"Dec 14, 2025",@CLE,Won 119-111,"Won /
+ Under",11.5,232.5
+CHI,"Dec 14, 2025",NOP,Lost 104-114,"Lost /
+ Under",-4.5,248.5
+NOP,"Dec 14, 2025",@CHI,Won 114-104,"Won /
+ Under",4.5,248.5
+POR,"Dec 14, 2025",GSW,Won 136-131,"Won /
+ Over",5.5,237.5
+IND,"Dec 14, 2025",WAS,Lost 89-108,"Lost /
+ Under",-10.5,233.5
+CLE,"Dec 14, 2025",CHA,Lost 111-119,"Lost /
+ Under",-11.5,232.5
+TOR,"Dec 15, 2025",@MIA,Won 106-96,"Won /
+ Under",4.5,233.5
+DET,"Dec 15, 2025",@BOS,Won 112-105,"Won /
+ Under",1.5,231.5
+UTA,"Dec 15, 2025",DAL,Won 140-133,"Won /
+ Over",1.5,240.5
+HOU,"Dec 15, 2025",@DEN,Lost 125-128,"Lost /
+ Over",-1.5,236.5
+DEN,"Dec 15, 2025",HOU,Won 128-125,"Won /
+ Over",1.5,236.5
+MEM,"Dec 15, 2025",@LAC,Won 121-103,"Won /
+ Under",5.5,229.5
+MIA,"Dec 15, 2025",TOR,Lost 96-106,"Lost /
+ Under",-4.5,233.5
+DAL,"Dec 15, 2025",@UTA,Lost 133-140,"Lost /
+ Over",-1.5,240.5
+LAC,"Dec 15, 2025",MEM,Lost 103-121,"Lost /
+ Under",-5.5,229.5
+BOS,"Dec 15, 2025",DET,Lost 105-112,"Lost /
+ Under",-1.5,231.5
+MEM,"Dec 17, 2025",@MIN,Won 116-110,"Won /
+ Under",6.5,226.5
+CHI,"Dec 17, 2025",CLE,Won 127-111,"Won /
+ Under",5.5,242.5
+CLE,"Dec 17, 2025",@CHI,Lost 111-127,"Lost /
+ Under",-5.5,242.5
+MIN,"Dec 17, 2025",MEM,Lost 110-116,"Lost /
+ Under",-6.5,226.5
+UTA,"Dec 18, 2025",LAL,Lost 135-143,"Won /
+ Over",9.5,242.5
+BKN,"Dec 18, 2025",MIA,Lost 95-106,"Lost /
+ Under",8.5,228.5
+TOR,"Dec 18, 2025",@MIL,Won 111-105,"Won /
+ Under",-4.5,218.5
+MIA,"Dec 18, 2025",@BKN,Won 106-95,"Won /
+ Under",-8.5,228.5
+IND,"Dec 18, 2025",NYK,Lost 113-114,"Won /
+ Over",3.5,226.5
+DEN,"Dec 18, 2025",ORL,Won 126-115,"Won /
+ Over",-6.5,237.5
+NYK,"Dec 18, 2025",@IND,Won 114-113,"Lost /
+ Over",-3.5,226.5
+GSW,"Dec 18, 2025",@PHX,Lost 98-99,"Lost /
+ Under",-1.5,229.5
+SAC,"Dec 18, 2025",@POR,Lost 133-134,"Won /
+ Over",8.5,238.5
+POR,"Dec 18, 2025",SAC,Won 134-133,"Lost /
+ Over",-8.5,238.5
+WAS,"Dec 18, 2025",@SAS,Lost 94-119,"Lost /
+ Under",15.5,240.5
+CHA,"Dec 18, 2025",ATL,Won 133-126,"Won /
+ Over",4.5,240.5
+HOU,"Dec 18, 2025",@NOP,Lost 128-133,"Lost /
+ Over",-9.5,236.5
+DET,"Dec 18, 2025",@DAL,Lost 114-116,"Lost /
+ Under",-5.5,230.5
+ORL,"Dec 18, 2025",@DEN,Lost 115-126,"Lost /
+ Over",6.5,237.5
+PHX,"Dec 18, 2025",GSW,Won 99-98,"Won /
+ Under",1.5,229.5
+NOP,"Dec 18, 2025",HOU,Won 133-128,"Won /
+ Over",9.5,236.5
+OKC,"Dec 18, 2025",LAC,Won 122-101,"Won /
+ Over",-16.5,222.5
+LAC,"Dec 18, 2025",@OKC,Lost 101-122,"Lost /
+ Over",16.5,222.5
+MIL,"Dec 18, 2025",TOR,Lost 105-111,"Lost /
+ Under",4.5,218.5
+LAL,"Dec 18, 2025",@UTA,Won 143-135,"Lost /
+ Over",-9.5,242.5
+SAS,"Dec 18, 2025",WAS,Won 119-94,"Won /
+ Under",-15.5,240.5
+DAL,"Dec 18, 2025",DET,Won 116-114,"Won /
+ Under",5.5,230.5
+ATL,"Dec 18, 2025",@CHA,Lost 126-133,"Lost /
+ Over",-4.5,240.5
+BOS,"Dec 19, 2025",MIA,Won 129-116,"Won /
+ Over",-7.5,233.5
+OKC,"Dec 19, 2025",@MIN,Lost 107-112,"Lost /
+ Under",-5.5,232.5
+PHI,"Dec 19, 2025",@NYK,Won 116-107,"Won /
+ Under",6.5,230.5
+NYK,"Dec 19, 2025",PHI,Lost 107-116,"Lost /
+ Under",-6.5,230.5
+ATL,"Dec 19, 2025",SAS,Lost 98-126,"Lost /
+ Under",3.5,238.5
+SAS,"Dec 19, 2025",@ATL,Won 126-98,"Won /
+ Under",-3.5,238.5
+MIA,"Dec 19, 2025",@BOS,Lost 116-129,"Lost /
+ Over",7.5,233.5
+CHI,"Dec 19, 2025",@CLE,Won 136-125,"Won /
+ Over",4.5,238.5
+CLE,"Dec 19, 2025",CHI,Lost 125-136,"Lost /
+ Over",-4.5,238.5
+MIN,"Dec 19, 2025",OKC,Won 112-107,"Won /
+ Under",5.5,232.5
+LAC,"Dec 20, 2025",LAL,Won 103-88,"Won /
+ Under",1.5,229.5
+UTA,"Dec 20, 2025",ORL,Lost 127-128,"Won /
+ Over",7.5,240.5
+NOP,"Dec 20, 2025",IND,Won 128-109,"Won /
+ Over",-2.5,235.5
+DAL,"Dec 20, 2025",@PHI,Lost 114-121,"Lost /
+ Over",1.5,226.5
+GSW,"Dec 20, 2025",PHX,Won 119-116,"Lost /
+ Over",-6.5,226.5
+SAC,"Dec 20, 2025",POR,Lost 93-98,"Lost /
+ Under",4.5,235.5
+POR,"Dec 20, 2025",@SAC,Won 98-93,"Won /
+ Under",-4.5,235.5
+TOR,"Dec 20, 2025",BOS,Lost 96-112,"Lost /
+ Under",-1.5,221.5
+IND,"Dec 20, 2025",@NOP,Lost 109-128,"Lost /
+ Over",2.5,235.5
+PHI,"Dec 20, 2025",DAL,Won 121-114,"Won /
+ Over",-1.5,226.5
+HOU,"Dec 20, 2025",@DEN,Won 115-101,"Won /
+ Under",-1.5,235.5
+PHX,"Dec 20, 2025",@GSW,Lost 116-119,"Won /
+ Over",6.5,226.5
+DEN,"Dec 20, 2025",HOU,Lost 101-115,"Lost /
+ Under",1.5,235.5
+LAL,"Dec 20, 2025",@LAC,Lost 88-103,"Lost /
+ Under",-1.5,229.5
+BOS,"Dec 20, 2025",@TOR,Won 112-96,"Won /
+ Under",1.5,221.5
+ORL,"Dec 20, 2025",@UTA,Won 128-127,"Lost /
+ Over",-7.5,240.5
+WAS,"Dec 20, 2025",@MEM,Won 130-122,"Won /
+ Over",12.5,233.5
+MEM,"Dec 20, 2025",WAS,Lost 122-130,"Lost /
+ Over",-12.5,233.5
+CHA,"Dec 20, 2025",@DET,Lost 86-112,"Lost /
+ Under",10.5,234.5
+DET,"Dec 20, 2025",CHA,Won 112-86,"Won /
+ Under",-10.5,234.5
+NYK,"Dec 21, 2025",MIA,Won 132-125,"Lost /
+ Over",-7.5,236.5
+MIN,"Dec 21, 2025",MIL,Won 103-100,"Lost /
+ Under",-12.5,226.5
+MIL,"Dec 21, 2025",@MIN,Lost 100-103,"Won /
+ Under",12.5,226.5
+TOR,"Dec 21, 2025",@BKN,Lost 81-96,"Lost /
+ Under",-3.5,216.5
+MIA,"Dec 21, 2025",@NYK,Lost 125-132,"Won /
+ Over",7.5,236.5
+HOU,"Dec 21, 2025",@SAC,Lost 124-125,"Lost /
+ Over",-12.5,222.5
+WAS,"Dec 21, 2025",SAS,Lost 113-124,"Won /
+ Under",15.5,237.5
+CHI,"Dec 21, 2025",@ATL,Won 152-150,"Won /
+ Over",4.5,248.5
+ATL,"Dec 21, 2025",CHI,Lost 150-152,"Lost /
+ Over",-4.5,248.5
+SAC,"Dec 21, 2025",HOU,Won 125-124,"Won /
+ Over",12.5,222.5
+BKN,"Dec 21, 2025",TOR,Won 96-81,"Won /
+ Under",3.5,216.5
+SAS,"Dec 21, 2025",@WAS,Won 124-113,"Lost /
+ Under",-15.5,237.5
+GSW,"Dec 22, 2025",ORL,Won 120-97,"Won /
+ Under",-6.5,228.5
+BOS,"Dec 22, 2025",IND,Won 103-95,"Lost /
+ Under",-11.5,225.5
+DET,"Dec 22, 2025",@POR,Won 110-102,"Won /
+ Under",-6.5,234.5
+IND,"Dec 22, 2025",@BOS,Lost 95-103,"Won /
+ Under",11.5,225.5
+CHA,"Dec 22, 2025",@CLE,Lost 132-139,"Won /
+ Over",9.5,239.5
+DAL,"Dec 22, 2025",@NOP,Lost 113-119,"Lost /
+ Under",-1.5,241.5
+NOP,"Dec 22, 2025",DAL,Won 119-113,"Won /
+ Under",1.5,241.5
+UTA,"Dec 22, 2025",@DEN,Lost 112-135,"Lost /
+ Under",12.5,251.5
+ORL,"Dec 22, 2025",@GSW,Lost 97-120,"Lost /
+ Under",6.5,228.5
+MEM,"Dec 22, 2025",@OKC,Lost 103-119,"Lost /
+ Under",15.5,234.5
+DEN,"Dec 22, 2025",UTA,Won 135-112,"Won /
+ Under",-12.5,251.5
+OKC,"Dec 22, 2025",MEM,Won 119-103,"Won /
+ Under",-15.5,234.5
+POR,"Dec 22, 2025",DET,Lost 102-110,"Lost /
+ Under",6.5,234.5
+CLE,"Dec 22, 2025",CHA,Won 139-132,"Lost /
+ Over",-9.5,239.5
+PHX,"Dec 23, 2025",LAL,Won 132-108,"Won /
+ Over",-3.5,226.5
+TOR,"Dec 23, 2025",@MIA,Won 112-91,"Won /
+ Under",5.5,227.5
+IND,"Dec 23, 2025",MIL,Lost 94-111,"Lost /
+ Under",1.5,216.5
+NYK,"Dec 23, 2025",@MIN,Lost 104-115,"Lost /
+ Under",7.5,230.5
+PHI,"Dec 23, 2025",BKN,Lost 106-114,"Lost /
+ Over",-9.5,219.5
+MIN,"Dec 23, 2025",NYK,Won 115-104,"Won /
+ Under",-7.5,230.5
+POR,"Dec 23, 2025",ORL,Lost 106-110,"Lost /
+ Under",1.5,230.5
+MIL,"Dec 23, 2025",@IND,Won 111-94,"Won /
+ Under",-1.5,216.5
+BKN,"Dec 23, 2025",@PHI,Won 114-106,"Won /
+ Over",9.5,219.5
+LAL,"Dec 23, 2025",@PHX,Lost 108-132,"Lost /
+ Over",3.5,226.5
+ORL,"Dec 23, 2025",@POR,Won 110-106,"Won /
+ Under",-1.5,230.5
+DET,"Dec 23, 2025",@SAC,Won 136-127,"Lost /
+ Over",-9.5,225.5
+OKC,"Dec 23, 2025",@SAS,Lost 110-130,"Lost /
+ Over",-6.5,236.5
+CHI,"Dec 23, 2025",@ATL,Won 126-123,"Won /
+ Under",3.5,254.5
+NOP,"Dec 23, 2025",@CLE,Lost 118-141,"Lost /
+ Over",9.5,248.5
+CLE,"Dec 23, 2025",NOP,Won 141-118,"Won /
+ Over",-9.5,248.5
+ATL,"Dec 23, 2025",CHI,Lost 123-126,"Lost /
+ Under",-3.5,254.5
+DEN,"Dec 23, 2025",@DAL,Lost 130-131,"Lost /
+ Over",-6.5,236.5
+DAL,"Dec 23, 2025",DEN,Won 131-130,"Won /
+ Over",6.5,236.5
+LAC,"Dec 23, 2025",HOU,Won 128-108,"Won /
+ Over",7.5,219.5
+HOU,"Dec 23, 2025",@LAC,Lost 108-128,"Lost /
+ Over",-7.5,219.5
+SAS,"Dec 23, 2025",OKC,Won 130-110,"Won /
+ Over",6.5,236.5
+MIA,"Dec 23, 2025",TOR,Lost 91-112,"Lost /
+ Under",-5.5,227.5
+MEM,"Dec 23, 2025",@UTA,Won 137-128,,,
+UTA,"Dec 23, 2025",MEM,Lost 128-137,,,
+CHA,"Dec 23, 2025",WAS,Won 126-109,"Won /
+ Under",-6.5,239.5
+SAC,"Dec 23, 2025",DET,Lost 127-136,"Won /
+ Over",9.5,225.5
+WAS,"Dec 23, 2025",@CHA,Lost 109-126,"Lost /
+ Under",6.5,239.5
+HOU,"Dec 25, 2025",@LAL,Won 119-96,"Won /
+ Under",-1.5,231.5
+DEN,"Dec 25, 2025",MIN,Won 142-138,"Won /
+ Over",1.5,238.5
+CLE,"Dec 25, 2025",@NYK,Lost 124-126,"Won /
+ Over",4.5,241.5
+OKC,"Dec 25, 2025",SAS,Lost 102-117,"Lost /
+ Under",-10.5,234.5
+NYK,"Dec 25, 2025",CLE,Won 126-124,"Lost /
+ Over",-4.5,241.5
+GSW,"Dec 25, 2025",DAL,Won 126-116,"Won /
+ Over",-8.5,231.5
+MIN,"Dec 25, 2025",@DEN,Lost 138-142,"Lost /
+ Over",-1.5,238.5
+DAL,"Dec 25, 2025",@GSW,Lost 116-126,"Lost /
+ Over",8.5,231.5
+LAL,"Dec 25, 2025",HOU,Lost 96-119,"Lost /
+ Under",1.5,231.5
+SAS,"Dec 25, 2025",@OKC,Won 117-102,"Won /
+ Under",10.5,234.5
+ATL,"Dec 26, 2025",MIA,Lost 111-126,"Lost /
+ Under",-2.5,250.5
+MEM,"Dec 26, 2025",MIL,Won 125-104,"Won /
+ Over",-5.5,228.5
+CHA,"Dec 26, 2025",@ORL,Won 120-105,"Won /
+ Under",5.5,227.5
+BOS,"Dec 26, 2025",@IND,Won 140-122,"Won /
+ Over",-8.5,222.5
+CHI,"Dec 26, 2025",PHI,Won 109-102,"Won /
+ Under",1.5,241.5
+NOP,"Dec 26, 2025",PHX,Lost 108-115,"Lost /
+ Under",5.5,241.5
+LAC,"Dec 26, 2025",@POR,Won 119-103,"Won /
+ Under",-2.5,227.5
+MIA,"Dec 26, 2025",@ATL,Won 126-111,"Won /
+ Under",2.5,250.5
+IND,"Dec 26, 2025",BOS,Lost 122-140,"Lost /
+ Over",8.5,222.5
+PHX,"Dec 26, 2025",@NOP,Won 115-108,"Won /
+ Under",-5.5,241.5
+PHI,"Dec 26, 2025",@CHI,Lost 102-109,"Lost /
+ Under",-1.5,241.5
+POR,"Dec 26, 2025",LAC,Lost 103-119,"Lost /
+ Under",2.5,227.5
+WAS,"Dec 26, 2025",TOR,Won 138-117,"Won /
+ Over",8.5,225.5
+DET,"Dec 26, 2025",@UTA,Lost 129-131,"Lost /
+ Over",-9.5,245.5
+MIL,"Dec 26, 2025",@MEM,Lost 104-125,"Lost /
+ Over",5.5,228.5
+TOR,"Dec 26, 2025",@WAS,Lost 117-138,"Lost /
+ Over",-8.5,225.5
+UTA,"Dec 26, 2025",DET,Won 131-129,"Won /
+ Over",9.5,245.5
+ORL,"Dec 26, 2025",CHA,Lost 105-120,"Lost /
+ Under",-5.5,227.5
+IND,"Dec 27, 2025",@MIA,Lost 116-142,"Lost /
+ Over",6.5,233.5
+CHI,"Dec 27, 2025",MIL,Lost 103-112,"Lost /
+ Under",-2.5,233.5
+BKN,"Dec 27, 2025",@MIN,Won 123-107,"Won /
+ Over",12.5,224.5
+MIN,"Dec 27, 2025",BKN,Lost 107-123,"Lost /
+ Over",-12.5,224.5
+ATL,"Dec 27, 2025",NYK,Lost 125-128,"Won /
+ Over",5.5,244.5
+DEN,"Dec 27, 2025",@ORL,Lost 126-127,"Lost /
+ Over",-3.5,235.5
+MIA,"Dec 27, 2025",IND,Won 142-116,"Won /
+ Over",-6.5,233.5
+NOP,"Dec 27, 2025",PHX,Lost 114-123,"Lost /
+ Under",4.5,241.5
+DAL,"Dec 27, 2025",@SAC,Lost 107-113,"Lost /
+ Under",-2.5,233.5
+UTA,"Dec 27, 2025",@SAS,Won 127-114,"Won /
+ Under",14.5,244.5
+NYK,"Dec 27, 2025",@ATL,Won 128-125,"Lost /
+ Over",-5.5,244.5
+HOU,"Dec 27, 2025",CLE,Won 117-100,"Won /
+ Under",-2.5,231.5
+PHX,"Dec 27, 2025",@NOP,Won 123-114,"Won /
+ Under",-4.5,241.5
+MIL,"Dec 27, 2025",@CHI,Won 112-103,"Won /
+ Under",2.5,233.5
+SAC,"Dec 27, 2025",DAL,Won 113-107,"Won /
+ Under",2.5,233.5
+ORL,"Dec 27, 2025",DEN,Won 127-126,"Won /
+ Over",3.5,235.5
+CLE,"Dec 27, 2025",@HOU,Lost 100-117,"Lost /
+ Under",2.5,231.5
+SAS,"Dec 27, 2025",UTA,Lost 114-127,"Lost /
+ Under",-14.5,244.5
+SAC,"Dec 28, 2025",@LAL,Lost 101-125,"Lost /
+ Under",12.5,231.5
+OKC,"Dec 28, 2025",PHI,Won 129-104,"Won /
+ Over",-14.5,226.5
+BOS,"Dec 28, 2025",@POR,Lost 108-114,"Lost /
+ Under",-6.5,231.5
+LAL,"Dec 28, 2025",SAC,Won 125-101,"Won /
+ Under",-12.5,231.5
+POR,"Dec 28, 2025",BOS,Won 114-108,"Won /
+ Under",6.5,231.5
+TOR,"Dec 28, 2025",GSW,Won 141-127,"Won /
+ Over",4.5,227.5
+DET,"Dec 28, 2025",@LAC,Lost 99-112,"Lost /
+ Under",-3.5,224.5
+PHI,"Dec 28, 2025",@OKC,Lost 104-129,"Lost /
+ Over",14.5,226.5
+GSW,"Dec 28, 2025",@TOR,Lost 127-141,"Lost /
+ Over",-4.5,227.5
+WAS,"Dec 28, 2025",MEM,Won 116-112,"Won /
+ Under",8.5,241.5
+MEM,"Dec 28, 2025",@WAS,Lost 112-116,"Lost /
+ Under",-8.5,241.5
+LAC,"Dec 28, 2025",DET,Won 112-99,"Won /
+ Under",3.5,224.5
+DEN,"Dec 29, 2025",@MIA,Lost 123-147,"Lost /
+ Over",-1.5,244.5
+CHA,"Dec 29, 2025",MIL,Lost 113-123,"Lost /
+ Over",2.5,227.5
+CHI,"Dec 29, 2025",MIN,Lost 101-136,"Lost /
+ Under",6.5,243.5
+GSW,"Dec 29, 2025",@BKN,Won 120-107,"Won /
+ Over",-6.5,226.5
+NOP,"Dec 29, 2025",NYK,Lost 125-130,"Won /
+ Over",8.5,247.5
+TOR,"Dec 29, 2025",ORL,Won 107-106,"Won /
+ Under",1.5,220.5
+HOU,"Dec 29, 2025",IND,Won 126-119,"Lost /
+ Over",-12.5,223.5
+WAS,"Dec 29, 2025",PHX,Lost 101-115,"Lost /
+ Under",10.5,233.5
+DAL,"Dec 29, 2025",@POR,Lost 122-125,"Lost /
+ Over",2.5,232.5
+CLE,"Dec 29, 2025",@SAS,Won 113-101,"Won /
+ Under",3.5,243.5
+OKC,"Dec 29, 2025",ATL,Won 140-129,"Lost /
+ Over",-17.5,232.5
+SAS,"Dec 29, 2025",CLE,Lost 101-113,"Lost /
+ Under",-3.5,243.5
+NYK,"Dec 29, 2025",@NOP,Won 130-125,"Lost /
+ Over",-8.5,247.5
+MIN,"Dec 29, 2025",@CHI,Won 136-101,"Won /
+ Under",-6.5,243.5
+POR,"Dec 29, 2025",DAL,Won 125-122,"Won /
+ Over",-2.5,232.5
+MIA,"Dec 29, 2025",DEN,Won 147-123,"Won /
+ Over",1.5,244.5
+BKN,"Dec 29, 2025",GSW,Lost 107-120,"Lost /
+ Over",6.5,226.5
+IND,"Dec 29, 2025",@HOU,Lost 119-126,"Won /
+ Over",12.5,223.5
+ATL,"Dec 29, 2025",@OKC,Lost 129-140,"Won /
+ Over",17.5,232.5
+ORL,"Dec 29, 2025",@TOR,Lost 106-107,"Lost /
+ Under",-1.5,220.5
+PHX,"Dec 29, 2025",@WAS,Won 115-101,"Won /
+ Under",-10.5,233.5
+MIL,"Dec 29, 2025",@CHA,Won 123-113,"Won /
+ Over",-2.5,227.5
+DET,"Dec 30, 2025",@LAL,Won 128-106,"Won /
+ Over",-2.5,233.5
+MEM,"Dec 30, 2025",PHI,Lost 136-139,"Lost /
+ Over",1.5,235.5
+LAC,"Dec 30, 2025",SAC,Won 131-90,"Won /
+ Over",-9.5,218.5
+UTA,"Dec 30, 2025",BOS,Lost 119-129,"Lost /
+ Over",8.5,243.5
+SAC,"Dec 30, 2025",@LAC,Lost 90-131,"Lost /
+ Over",9.5,218.5
+BOS,"Dec 30, 2025",@UTA,Won 129-119,"Won /
+ Over",-8.5,243.5
+PHI,"Dec 30, 2025",@MEM,Won 139-136,"Won /
+ Over",-1.5,235.5
+LAL,"Dec 30, 2025",DET,Lost 106-128,"Lost /
+ Over",2.5,233.5
+WAS,"Dec 31, 2025",@MIL,Won 114-113,"Won /
+ Under",10.5,234.5
+ATL,"Dec 31, 2025",MIN,Won 126-102,"Won /
+ Under",5.5,240.5
+SAS,"Dec 31, 2025",NYK,Won 134-132,"Lost /
+ Over",-3.5,235.5
+IND,"Dec 31, 2025",ORL,Lost 110-112,"Won /
+ Under",4.5,229.5
+ORL,"Dec 31, 2025",@IND,Won 112-110,"Lost /
+ Under",-4.5,229.5
+CLE,"Dec 31, 2025",PHX,Won 129-113,"Won /
+ Over",-6.5,232.5
+OKC,"Dec 31, 2025",POR,Won 124-95,"Won /
+ Under",-15.5,232.5
+NYK,"Dec 31, 2025",@SAS,Lost 132-134,"Won /
+ Over",3.5,235.5
+MIN,"Dec 31, 2025",@ATL,Lost 102-126,"Lost /
+ Under",-5.5,240.5
+PHX,"Dec 31, 2025",@CLE,Lost 113-129,"Lost /
+ Over",6.5,232.5
+CHI,"Dec 31, 2025",NOP,Won 134-118,"Won /
+ Over",-1.5,248.5
+NOP,"Dec 31, 2025",@CHI,Lost 118-134,"Lost /
+ Over",1.5,248.5
+TOR,"Dec 31, 2025",DEN,Lost 103-106,"Lost /
+ Under",-7.5,229.5
+CHA,"Dec 31, 2025",GSW,Lost 125-132,"Won /
+ Over",7.5,234.5
+POR,"Dec 31, 2025",@OKC,Lost 95-124,"Lost /
+ Under",15.5,232.5
+DEN,"Dec 31, 2025",@TOR,Won 106-103,"Won /
+ Under",7.5,229.5
+MIL,"Dec 31, 2025",WAS,Lost 113-114,"Lost /
+ Under",-10.5,234.5
+GSW,"Dec 31, 2025",@CHA,Won 132-125,"Lost /
+ Over",-7.5,234.5
+DET,"Jan 01, 2026",MIA,Lost 112-118,"Lost /
+ Under",-4.5,235.5
+HOU,"Jan 01, 2026",@BKN,Won 120-96,"Won /
+ Under",-13.5,217.5
+DAL,"Jan 01, 2026",PHI,Lost 108-123,"Lost /
+ Under",2.5,231.5
+BOS,"Jan 01, 2026",@SAC,Won 120-106,"Won /
+ Under",-10.5,229.5
+SAC,"Jan 01, 2026",BOS,Lost 106-120,"Lost /
+ Under",10.5,229.5
+PHI,"Jan 01, 2026",@DAL,Won 123-108,"Won /
+ Under",-2.5,231.5
+BKN,"Jan 01, 2026",HOU,Lost 96-120,"Lost /
+ Under",13.5,217.5
+UTA,"Jan 01, 2026",@LAC,Lost 101-118,"Lost /
+ Under",13.5,230.5
+LAC,"Jan 01, 2026",UTA,Won 118-101,"Won /
+ Under",-13.5,230.5
+MIA,"Jan 01, 2026",@DET,Won 118-112,"Won /
+ Under",4.5,235.5
+MEM,"Jan 02, 2026",@LAL,Lost 121-128,"Lost /
+ Over",5.5,241.5
+CHA,"Jan 02, 2026",@MIL,Lost 121-122,"Won /
+ Over",5.5,233.5
+WAS,"Jan 02, 2026",BKN,Won 119-99,"Won /
+ Under",-2.5,224.5
+ATL,"Jan 02, 2026",@NYK,Won 111-99,"Won /
+ Under",4.5,239.5
+CHI,"Jan 02, 2026",ORL,Won 121-114,"Won /
+ Over",5.5,233.5
+SAS,"Jan 02, 2026",@IND,Won 123-113,"Won /
+ Under",-4.5,239.5
+SAC,"Jan 02, 2026",@PHX,Lost 102-129,"Lost /
+ Over",13.5,223.5
+NOP,"Jan 02, 2026",POR,Lost 109-122,"Lost /
+ Under",3.5,240.5
+PHX,"Jan 02, 2026",SAC,Won 129-102,"Won /
+ Over",-13.5,223.5
+IND,"Jan 02, 2026",SAS,Lost 113-123,"Lost /
+ Under",4.5,239.5
+NYK,"Jan 02, 2026",ATL,Lost 99-111,"Lost /
+ Under",-4.5,239.5
+DEN,"Jan 02, 2026",@CLE,Lost 108-113,"Won /
+ Under",13.5,240.5
+POR,"Jan 02, 2026",@NOP,Won 122-109,"Won /
+ Under",-3.5,240.5
+ORL,"Jan 02, 2026",@CHI,Lost 114-121,"Lost /
+ Over",-5.5,233.5
+CLE,"Jan 02, 2026",DEN,Won 113-108,"Lost /
+ Under",-13.5,240.5
+OKC,"Jan 02, 2026",@GSW,Won 131-94,"Won /
+ Under",-13.5,226.5
+GSW,"Jan 02, 2026",OKC,Lost 94-131,"Lost /
+ Under",13.5,226.5
+LAL,"Jan 02, 2026",MEM,Won 128-121,"Won /
+ Over",-5.5,241.5
+BKN,"Jan 02, 2026",@WAS,Lost 99-119,"Lost /
+ Under",2.5,224.5
+MIL,"Jan 02, 2026",CHA,Won 122-121,"Lost /
+ Over",-5.5,233.5
+MIN,"Jan 03, 2026",@MIA,Won 125-115,"Won /
+ Over",-2.5,235.5
+MIA,"Jan 03, 2026",MIN,Lost 115-125,"Lost /
+ Over",2.5,235.5
+PHI,"Jan 03, 2026",@NYK,Won 130-119,"Won /
+ Over",3.5,233.5
+NYK,"Jan 03, 2026",PHI,Lost 119-130,"Lost /
+ Over",-3.5,233.5
+SAS,"Jan 03, 2026",POR,Lost 110-115,"Lost /
+ Under",-8.5,234.5
+POR,"Jan 03, 2026",@SAS,Won 115-110,"Won /
+ Under",8.5,234.5
+TOR,"Jan 03, 2026",ATL,Won 134-117,"Won /
+ Over",-5.5,232.5
+LAC,"Jan 03, 2026",BOS,Lost 115-146,"Lost /
+ Over",-1.5,219.5
+CHA,"Jan 03, 2026",@CHI,Won 112-99,"Won /
+ Under",2.5,241.5
+HOU,"Jan 03, 2026",@DAL,Lost 104-110,"Lost /
+ Under",-7.5,228.5
+UTA,"Jan 03, 2026",@GSW,Lost 114-123,"Won /
+ Under",12.5,248.5
+DAL,"Jan 03, 2026",HOU,Won 110-104,"Won /
+ Under",7.5,228.5
+BOS,"Jan 03, 2026",@LAC,Won 146-115,"Won /
+ Over",1.5,219.5
+ATL,"Jan 03, 2026",@TOR,Lost 117-134,"Lost /
+ Over",5.5,232.5
+GSW,"Jan 03, 2026",UTA,Won 123-114,"Lost /
+ Under",-12.5,248.5
+CHI,"Jan 03, 2026",CHA,Lost 99-112,"Lost /
+ Under",-2.5,241.5
+MEM,"Jan 04, 2026",@LAL,Lost 114-120,"Lost /
+ Under",5.5,238.5
+NOP,"Jan 04, 2026",@MIA,Lost 106-125,"Lost /
+ Under",7.5,247.5
+SAC,"Jan 04, 2026",MIL,Lost 98-115,"Lost /
+ Under",6.5,227.5
+WAS,"Jan 04, 2026",MIN,Lost 115-141,"Lost /
+ Over",10.5,240.5
+DEN,"Jan 04, 2026",@BKN,Lost 115-127,"Lost /
+ Over",-2.5,224.5
+IND,"Jan 04, 2026",@ORL,Lost 127-135,"Lost /
+ Over",6.5,228.5
+ORL,"Jan 04, 2026",IND,Won 135-127,"Won /
+ Over",-6.5,228.5
+OKC,"Jan 04, 2026",@PHX,Lost 105-108,"Lost /
+ Under",-10.5,229.5
+MIL,"Jan 04, 2026",@SAC,Won 115-98,"Won /
+ Under",-6.5,227.5
+DET,"Jan 04, 2026",@CLE,Won 114-110,"Won /
+ Under",3.5,239.5
+MIA,"Jan 04, 2026",NOP,Won 125-106,"Won /
+ Under",-7.5,247.5
+BKN,"Jan 04, 2026",DEN,Won 127-115,"Won /
+ Over",2.5,224.5
+PHX,"Jan 04, 2026",OKC,Won 108-105,"Won /
+ Under",10.5,229.5
+LAL,"Jan 04, 2026",MEM,Won 120-114,"Won /
+ Under",-5.5,238.5
+MIN,"Jan 04, 2026",@WAS,Won 141-115,"Won /
+ Over",-10.5,240.5
+CLE,"Jan 04, 2026",DET,Lost 110-114,"Lost /
+ Under",-3.5,239.5
+DET,"Jan 05, 2026",NYK,Won 121-90,"Won /
+ Under",1.5,233.5
+DEN,"Jan 05, 2026",@PHI,Won 125-124,"Won /
+ Over",14.5,228.5
+HOU,"Jan 05, 2026",PHX,Won 100-97,"Lost /
+ Under",-8.5,222.5
+UTA,"Jan 05, 2026",@POR,Lost 117-137,"Lost /
+ Over",5.5,242.5
+TOR,"Jan 05, 2026",ATL,Won 118-100,"Won /
+ Under",-2.5,237.5
+CHI,"Jan 05, 2026",@BOS,Lost 101-115,"Lost /
+ Under",10.5,236.5
+BOS,"Jan 05, 2026",CHI,Won 115-101,"Won /
+ Under",-10.5,236.5
+PHI,"Jan 05, 2026",DEN,Lost 124-125,"Lost /
+ Over",-14.5,228.5
+LAC,"Jan 05, 2026",GSW,Won 103-102,"Won /
+ Under",3.5,222.5
+PHX,"Jan 05, 2026",@HOU,Lost 97-100,"Won /
+ Under",8.5,222.5
+GSW,"Jan 05, 2026",@LAC,Lost 102-103,"Lost /
+ Under",-3.5,222.5
+CHA,"Jan 05, 2026",@OKC,Won 124-97,"Won /
+ Under",15.5,235.5
+ATL,"Jan 05, 2026",@TOR,Lost 100-118,"Lost /
+ Under",2.5,237.5
+POR,"Jan 05, 2026",UTA,Won 137-117,"Won /
+ Over",-5.5,242.5
+NYK,"Jan 05, 2026",@DET,Lost 90-121,"Lost /
+ Under",-1.5,233.5
+OKC,"Jan 05, 2026",CHA,Lost 97-124,"Lost /
+ Under",-15.5,235.5
+NOP,"Jan 06, 2026",LAL,Lost 103-111,"Lost /
+ Under",5.5,245.5
+MIN,"Jan 06, 2026",MIA,Won 122-94,"Won /
+ Under",-5.5,238.5
+MIA,"Jan 06, 2026",@MIN,Lost 94-122,"Lost /
+ Under",5.5,238.5
+WAS,"Jan 06, 2026",ORL,Won 120-112,"Won /
+ Under",7.5,235.5
+CLE,"Jan 06, 2026",@IND,Won 120-116,"Lost /
+ Under",-6.5,237.5
+DAL,"Jan 06, 2026",@SAC,Won 100-98,"Lost /
+ Under",-4.5,233.5
+MEM,"Jan 06, 2026",SAS,Won 106-105,"Won /
+ Under",5.5,237.5
+IND,"Jan 06, 2026",CLE,Lost 116-120,"Won /
+ Under",6.5,237.5
+LAL,"Jan 06, 2026",@NOP,Won 111-103,"Won /
+ Under",-5.5,245.5
+SAC,"Jan 06, 2026",DAL,Lost 98-100,"Won /
+ Under",4.5,233.5
+SAS,"Jan 06, 2026",@MEM,Lost 105-106,"Lost /
+ Under",-5.5,237.5
+ORL,"Jan 06, 2026",@WAS,Lost 112-120,"Lost /
+ Under",-7.5,235.5
+SAS,"Jan 07, 2026",LAL,Won 107-91,"Won /
+ Under",-8.5,233.5
+GSW,"Jan 07, 2026",MIL,Won 120-113,"Won /
+ Over",-6.5,228.5
+ORL,"Jan 07, 2026",@BKN,Won 104-103,"Lost /
+ Under",-2.5,220.5
+LAC,"Jan 07, 2026",@NYK,Lost 111-123,"Lost /
+ Over",4.5,223.5
+BKN,"Jan 07, 2026",ORL,Lost 103-104,"Won /
+ Under",2.5,220.5
+WAS,"Jan 07, 2026",@PHI,Lost 110-131,"Lost /
+ Over",16.5,233.5
+MEM,"Jan 07, 2026",PHX,Lost 98-117,"Lost /
+ Under",5.5,231.5
+HOU,"Jan 07, 2026",@POR,Lost 102-103,"Lost /
+ Under",-7.5,222.5
+LAL,"Jan 07, 2026",@SAS,Lost 91-107,"Lost /
+ Under",8.5,233.5
+NOP,"Jan 07, 2026",@ATL,Lost 100-117,"Lost /
+ Under",10.5,246.5
+DEN,"Jan 07, 2026",@BOS,Won 114-110,"Won /
+ Under",10.5,230.5
+ATL,"Jan 07, 2026",NOP,Won 117-100,"Won /
+ Under",-10.5,246.5
+DET,"Jan 07, 2026",CHI,Won 108-93,"Won /
+ Under",-7.5,227.5
+BOS,"Jan 07, 2026",DEN,Lost 110-114,"Lost /
+ Under",-10.5,230.5
+MIL,"Jan 07, 2026",@GSW,Lost 113-120,"Lost /
+ Over",6.5,228.5
+POR,"Jan 07, 2026",HOU,Won 103-102,"Won /
+ Under",7.5,222.5
+NYK,"Jan 07, 2026",LAC,Won 123-111,"Won /
+ Over",-4.5,223.5
+UTA,"Jan 07, 2026",@OKC,Lost 125-129,"Won /
+ Over",19.5,242.5
+CHA,"Jan 07, 2026",TOR,Lost 96-97,"Won /
+ Under",2.5,229.5
+OKC,"Jan 07, 2026",UTA,Won 129-125,"Lost /
+ Over",-19.5,242.5
+PHX,"Jan 07, 2026",@MEM,Won 117-98,"Won /
+ Under",-5.5,231.5
+PHI,"Jan 07, 2026",WAS,Won 131-110,"Won /
+ Over",-16.5,233.5
+CHI,"Jan 07, 2026",@DET,Lost 93-108,"Lost /
+ Under",7.5,227.5
+TOR,"Jan 07, 2026",@CHA,Won 97-96,"Lost /
+ Under",-2.5,229.5
+CLE,"Jan 08, 2026",@MIN,Lost 122-131,"Lost /
+ Over",3.5,239.5
+CHA,"Jan 08, 2026",IND,Lost 112-114,"Lost /
+ Under",-4.5,232.5
+MIN,"Jan 08, 2026",CLE,Won 131-122,"Won /
+ Over",-3.5,239.5
+UTA,"Jan 08, 2026",DAL,Won 116-114,"Won /
+ Under",5.5,243.5
+DAL,"Jan 08, 2026",@UTA,Lost 114-116,"Lost /
+ Under",-5.5,243.5
+IND,"Jan 08, 2026",@CHA,Won 114-112,"Won /
+ Under",4.5,232.5
+MIL,"Jan 09, 2026",@LAL,Won 105-101,"Won /
+ Under",3.5,228.5
+LAL,"Jan 09, 2026",MIL,Lost 101-105,"Lost /
+ Under",-3.5,228.5
+LAC,"Jan 09, 2026",@BKN,Won 121-105,"Won /
+ Over",-5.5,214.5
+PHX,"Jan 09, 2026",NYK,Won 112-107,"Won /
+ Under",1.5,229.5
+PHI,"Jan 09, 2026",@ORL,Won 103-91,"Won /
+ Under",-3.5,226.5
+ORL,"Jan 09, 2026",PHI,Lost 91-103,"Lost /
+ Under",3.5,226.5
+NYK,"Jan 09, 2026",@PHX,Lost 107-112,"Lost /
+ Under",-1.5,229.5
+HOU,"Jan 09, 2026",@POR,Lost 105-111,"Lost /
+ Under",-6.5,222.5
+GSW,"Jan 09, 2026",SAC,Won 137-103,"Won /
+ Over",-15.5,231.5
+DEN,"Jan 09, 2026",ATL,Lost 87-110,"Lost /
+ Under",3.5,229.5
+TOR,"Jan 09, 2026",@BOS,Lost 117-125,"Won /
+ Over",9.5,223.5
+WAS,"Jan 09, 2026",NOP,Lost 107-128,"Lost /
+ Under",3.5,242.5
+ATL,"Jan 09, 2026",@DEN,Won 110-87,"Won /
+ Under",-3.5,229.5
+SAC,"Jan 09, 2026",@GSW,Lost 103-137,"Lost /
+ Over",15.5,231.5
+POR,"Jan 09, 2026",HOU,Won 111-105,"Won /
+ Under",6.5,222.5
+BKN,"Jan 09, 2026",LAC,Lost 105-121,"Lost /
+ Over",5.5,214.5
+MEM,"Jan 09, 2026",OKC,Lost 116-117,"Won /
+ Over",5.5,229.5
+BOS,"Jan 09, 2026",TOR,Won 125-117,"Lost /
+ Over",-9.5,223.5
+OKC,"Jan 09, 2026",@MEM,Won 117-116,"Lost /
+ Over",-5.5,229.5
+NOP,"Jan 09, 2026",@WAS,Won 128-107,"Won /
+ Under",-3.5,242.5
+IND,"Jan 10, 2026",MIA,Won 123-99,"Won /
+ Under",6.5,235.5
+CLE,"Jan 10, 2026",MIN,Won 146-134,"Won /
+ Over",-2.5,240.5
+MIA,"Jan 10, 2026",@IND,Lost 99-123,"Lost /
+ Under",-6.5,235.5
+BOS,"Jan 10, 2026",SAS,Lost 95-100,"Lost /
+ Under",1.5,231.5
+SAS,"Jan 10, 2026",@BOS,Won 100-95,"Won /
+ Under",-1.5,231.5
+MIN,"Jan 10, 2026",@CLE,Lost 134-146,"Lost /
+ Over",2.5,240.5
+DAL,"Jan 10, 2026",@CHI,Lost 107-125,"Lost /
+ Under",4.5,233.5
+CHI,"Jan 10, 2026",DAL,Won 125-107,"Won /
+ Under",-4.5,233.5
+DET,"Jan 10, 2026",LAC,Lost 92-98,"Lost /
+ Under",-1.5,213.5
+CHA,"Jan 10, 2026",@UTA,Won 150-95,"Won /
+ Over",-6.5,241.5
+LAC,"Jan 10, 2026",@DET,Won 98-92,"Won /
+ Under",1.5,213.5
+UTA,"Jan 10, 2026",CHA,Lost 95-150,"Lost /
+ Over",6.5,241.5
+OKC,"Jan 11, 2026",MIA,Won 124-112,"Lost /
+ Over",-14.5,234.5
+DEN,"Jan 11, 2026",MIL,Won 108-104,"Won /
+ Under",6.5,219.5
+SAS,"Jan 11, 2026",@MIN,Lost 103-104,"Won /
+ Under",2.5,233.5
+MEM,"Jan 11, 2026",BKN,Won 103-98,"Lost /
+ Under",-7.5,220.5
+POR,"Jan 11, 2026",NYK,Lost 114-123,"Lost /
+ Over",5.5,230.5
+NOP,"Jan 11, 2026",@ORL,Lost 118-128,"Lost /
+ Over",7.5,236.5
+TOR,"Jan 11, 2026",PHI,Won 116-115,"Won /
+ Over",1.5,219.5
+WAS,"Jan 11, 2026",@PHX,Lost 93-112,"Lost /
+ Under",15.5,230.5
+NYK,"Jan 11, 2026",@POR,Won 123-114,"Won /
+ Over",-5.5,230.5
+HOU,"Jan 11, 2026",@SAC,Lost 98-111,"Lost /
+ Under",-14.5,223.5
+MIN,"Jan 11, 2026",SAS,Won 104-103,"Lost /
+ Under",-2.5,233.5
+GSW,"Jan 11, 2026",ATL,Lost 111-124,"Lost /
+ Under",-7.5,237.5
+ORL,"Jan 11, 2026",NOP,Won 128-118,"Won /
+ Over",-7.5,236.5
+MIL,"Jan 11, 2026",@DEN,Lost 104-108,"Lost /
+ Under",-6.5,219.5
+ATL,"Jan 11, 2026",@GSW,Won 124-111,"Won /
+ Under",7.5,237.5
+SAC,"Jan 11, 2026",HOU,Won 111-98,"Won /
+ Under",14.5,223.5
+MIA,"Jan 11, 2026",@OKC,Lost 112-124,"Won /
+ Over",14.5,234.5
+PHI,"Jan 11, 2026",@TOR,Lost 115-116,"Lost /
+ Over",-1.5,219.5
+BKN,"Jan 11, 2026",@MEM,Lost 98-103,"Won /
+ Under",7.5,220.5
+PHX,"Jan 11, 2026",WAS,Won 112-93,"Won /
+ Under",-15.5,230.5
+SAC,"Jan 12, 2026",LAL,Won 124-112,"Won /
+ Over",9.5,231.5
+DAL,"Jan 12, 2026",BKN,Won 113-105,"Won /
+ Under",-3.5,218.5
+BOS,"Jan 12, 2026",@IND,Lost 96-98,"Lost /
+ Under",-5.5,227.5
+TOR,"Jan 12, 2026",PHI,Lost 102-115,"Lost /
+ Under",3.5,221.5
+LAL,"Jan 12, 2026",@SAC,Lost 112-124,"Lost /
+ Over",-9.5,231.5
+IND,"Jan 12, 2026",BOS,Won 98-96,"Won /
+ Under",5.5,227.5
+UTA,"Jan 12, 2026",@CLE,Won 123-112,"Won /
+ Under",13.5,249.5
+BKN,"Jan 12, 2026",@DAL,Lost 105-113,"Lost /
+ Under",3.5,218.5
+CHA,"Jan 12, 2026",@LAC,Lost 109-117,"Lost /
+ Over",4.5,222.5
+PHI,"Jan 12, 2026",@TOR,Won 115-102,"Won /
+ Under",-3.5,221.5
+CLE,"Jan 12, 2026",UTA,Lost 112-123,"Lost /
+ Under",-13.5,249.5
+LAC,"Jan 12, 2026",CHA,Won 117-109,"Won /
+ Over",-4.5,222.5
+ATL,"Jan 13, 2026",@LAL,Lost 116-141,"Lost /
+ Over",1.5,233.5
+PHX,"Jan 13, 2026",@MIA,Lost 121-127,"Lost /
+ Over",1.5,232.5
+MIN,"Jan 13, 2026",@MIL,Won 139-106,"Won /
+ Over",1.5,229.5
+MIL,"Jan 13, 2026",MIN,Lost 106-139,"Lost /
+ Over",-1.5,229.5
+MIA,"Jan 13, 2026",PHX,Won 127-121,"Won /
+ Over",-1.5,232.5
+GSW,"Jan 13, 2026",POR,Won 119-97,"Won /
+ Under",-10.5,225.5
+OKC,"Jan 13, 2026",SAS,Won 119-98,"Won /
+ Under",-8.5,230.5
+LAL,"Jan 13, 2026",ATL,Won 141-116,"Won /
+ Over",-1.5,233.5
+DEN,"Jan 13, 2026",@NOP,Won 122-116,"Won /
+ Over",-2.5,234.5
+HOU,"Jan 13, 2026",CHI,Won 119-113,"Lost /
+ Over",-12.5,224.5
+NOP,"Jan 13, 2026",DEN,Lost 116-122,"Lost /
+ Over",2.5,234.5
+POR,"Jan 13, 2026",@GSW,Lost 97-119,"Lost /
+ Under",10.5,225.5
+CHI,"Jan 13, 2026",@HOU,Lost 113-119,"Won /
+ Over",12.5,224.5
+SAS,"Jan 13, 2026",@OKC,Lost 98-119,"Lost /
+ Under",8.5,230.5
+NOP,"Jan 14, 2026",BKN,Won 116-113,"Won /
+ Under",-1.5,232.5
+SAC,"Jan 14, 2026",NYK,Won 112-101,"Won /
+ Under",10.5,229.5
+TOR,"Jan 14, 2026",@IND,Won 115-101,"Won /
+ Under",1.5,220.5
+CLE,"Jan 14, 2026",@PHI,Won 133-107,"Won /
+ Over",-1.5,236.5
+NYK,"Jan 14, 2026",@SAC,Lost 101-112,"Lost /
+ Under",-10.5,229.5
+PHI,"Jan 14, 2026",CLE,Lost 107-133,"Lost /
+ Over",1.5,236.5
+BKN,"Jan 14, 2026",@NOP,Lost 113-116,"Lost /
+ Under",1.5,232.5
+UTA,"Jan 14, 2026",@CHI,Lost 126-128,"Won /
+ Over",5.5,240.5
+DEN,"Jan 14, 2026",@DAL,Won 118-109,"Won /
+ Over",1.5,224.5
+DAL,"Jan 14, 2026",DEN,Lost 109-118,"Lost /
+ Over",-1.5,224.5
+WAS,"Jan 14, 2026",@LAC,Lost 105-119,"Lost /
+ Under",11.5,227.5
+IND,"Jan 14, 2026",TOR,Lost 101-115,"Lost /
+ Under",-1.5,220.5
+CHI,"Jan 14, 2026",UTA,Won 128-126,"Lost /
+ Over",-5.5,240.5
+LAC,"Jan 14, 2026",WAS,Won 119-105,"Won /
+ Under",-11.5,227.5
+CHA,"Jan 15, 2026",@LAL,Won 135-117,"Won /
+ Over",3.5,233.5
+BOS,"Jan 15, 2026",@MIA,Won 119-114,"Won /
+ Under",-2.5,235.5
+SAS,"Jan 15, 2026",MIL,Won 119-101,"Won /
+ Under",-7.5,225.5
+GSW,"Jan 15, 2026",NYK,Won 126-113,"Won /
+ Over",-7.5,228.5
+MEM,"Jan 15, 2026",@ORL,Lost 111-118,"Lost /
+ Over",5.5,227.5
+DET,"Jan 15, 2026",PHX,Won 108-105,"Lost /
+ Under",-7.5,219.5
+ATL,"Jan 15, 2026",@POR,Lost 101-117,"Lost /
+ Under",-3.5,229.5
+MIL,"Jan 15, 2026",@SAS,Lost 101-119,"Lost /
+ Under",7.5,225.5
+POR,"Jan 15, 2026",ATL,Won 117-101,"Won /
+ Under",3.5,229.5
+MIA,"Jan 15, 2026",BOS,Lost 114-119,"Lost /
+ Under",2.5,235.5
+UTA,"Jan 15, 2026",@DAL,Lost 122-144,"Lost /
+ Over",2.5,238.5
+NYK,"Jan 15, 2026",@GSW,Lost 113-126,"Lost /
+ Over",7.5,228.5
+OKC,"Jan 15, 2026",@HOU,Won 111-91,"Won /
+ Under",-4.5,221.5
+HOU,"Jan 15, 2026",OKC,Lost 91-111,"Lost /
+ Under",4.5,221.5
+DAL,"Jan 15, 2026",UTA,Won 144-122,"Won /
+ Over",-2.5,238.5
+ORL,"Jan 15, 2026",@MEM,Won 118-111,"Won /
+ Over",-5.5,227.5
+PHX,"Jan 15, 2026",@DET,Lost 105-108,"Won /
+ Under",7.5,219.5
+LAL,"Jan 15, 2026",CHA,Lost 117-135,"Lost /
+ Over",-3.5,233.5
+HOU,"Jan 16, 2026",MIN,Won 110-105,"Won /
+ Under",-3.5,221.5
+CHI,"Jan 16, 2026",@BKN,Lost 109-112,"Lost /
+ Under",1.5,224.5
+NOP,"Jan 16, 2026",@IND,Lost 119-127,"Lost /
+ Over",4.5,241.5
+CLE,"Jan 16, 2026",@PHI,Won 117-115,"Won /
+ Under",2.5,233.5
+WAS,"Jan 16, 2026",@SAC,Lost 115-128,"Lost /
+ Over",7.5,234.5
+PHI,"Jan 16, 2026",CLE,Lost 115-117,"Lost /
+ Under",-2.5,233.5
+IND,"Jan 16, 2026",NOP,Won 127-119,"Won /
+ Over",-4.5,241.5
+BKN,"Jan 16, 2026",CHI,Won 112-109,"Won /
+ Under",-1.5,224.5
+MIN,"Jan 16, 2026",@HOU,Lost 105-110,"Lost /
+ Under",3.5,221.5
+TOR,"Jan 16, 2026",LAC,Lost 117-121,"Lost /
+ Over",-2.5,213.5
+LAC,"Jan 16, 2026",@TOR,Won 121-117,"Won /
+ Over",2.5,213.5
+SAC,"Jan 16, 2026",WAS,Won 128-115,"Won /
+ Over",-7.5,234.5
+POR,"Jan 17, 2026",LAL,Won 132-116,"Won /
+ Over",-3.5,223.5
+OKC,"Jan 17, 2026",@MIA,Lost 120-122,"Lost /
+ Over",-11.5,235.5
+SAS,"Jan 17, 2026",MIN,Won 126-123,"Lost /
+ Over",-4.5,234.5
+PHX,"Jan 17, 2026",@NYK,Won 106-99,"Won /
+ Under",1.5,224.5
+DET,"Jan 17, 2026",IND,Won 121-78,"Won /
+ Under",-15.5,225.5
+NYK,"Jan 17, 2026",PHX,Lost 99-106,"Lost /
+ Under",-1.5,224.5
+LAL,"Jan 17, 2026",@POR,Lost 116-132,"Lost /
+ Over",3.5,223.5
+MIN,"Jan 17, 2026",@SAS,Lost 123-126,"Won /
+ Over",4.5,234.5
+BOS,"Jan 17, 2026",@ATL,Won 132-106,"Won /
+ Over",-3.5,230.5
+ATL,"Jan 17, 2026",BOS,Lost 106-132,"Lost /
+ Over",3.5,230.5
+UTA,"Jan 17, 2026",@DAL,Lost 120-138,"Lost /
+ Over",3.5,240.5
+WAS,"Jan 17, 2026",@DEN,Lost 115-121,"Won /
+ Over",10.5,227.5
+CHA,"Jan 17, 2026",@GSW,Lost 116-136,"Lost /
+ Over",7.5,236.5
+MIA,"Jan 17, 2026",OKC,Won 122-120,"Won /
+ Over",11.5,235.5
+DAL,"Jan 17, 2026",UTA,Won 138-120,"Won /
+ Over",-3.5,240.5
+DEN,"Jan 17, 2026",WAS,Won 121-115,"Lost /
+ Over",-10.5,227.5
+IND,"Jan 17, 2026",@DET,Lost 78-121,"Lost /
+ Under",15.5,225.5
+GSW,"Jan 17, 2026",CHA,Won 136-116,"Won /
+ Over",-7.5,236.5
+TOR,"Jan 18, 2026",@LAL,Lost 93-110,"Lost /
+ Under",2.5,226.5
+CHI,"Jan 18, 2026",BKN,Won 124-102,"Won /
+ Over",-7.5,223.5
+MEM,"Jan 18, 2026",@ORL,Won 126-109,"Won /
+ Over",2.5,229.5
+SAC,"Jan 18, 2026",POR,Lost 110-117,"Lost /
+ Under",1.5,230.5
+POR,"Jan 18, 2026",@SAC,Won 117-110,"Won /
+ Under",-1.5,230.5
+HOU,"Jan 18, 2026",NOP,Won 119-110,"Lost /
+ Under",-13.5,232.5
+BKN,"Jan 18, 2026",@CHI,Lost 102-124,"Lost /
+ Over",7.5,223.5
+CHA,"Jan 18, 2026",@DEN,Won 110-87,"Won /
+ Under",-2.5,225.5
+NOP,"Jan 18, 2026",@HOU,Lost 110-119,"Won /
+ Under",13.5,232.5
+LAL,"Jan 18, 2026",TOR,Won 110-93,"Won /
+ Under",-2.5,226.5
+ORL,"Jan 18, 2026",@MEM,Lost 109-126,"Lost /
+ Over",-2.5,229.5
+DEN,"Jan 18, 2026",CHA,Lost 87-110,"Lost /
+ Under",2.5,225.5
+GSW,"Jan 19, 2026",MIA,Won 135-112,"Won /
+ Over",-5.5,239.5
+ATL,"Jan 19, 2026",MIL,Lost 110-112,"Lost /
+ Under",-1.5,232.5
+PHX,"Jan 19, 2026",@BKN,Won 126-117,"Lost /
+ Over",-9.5,214.5
+DAL,"Jan 19, 2026",@NYK,Won 114-97,"Won /
+ Under",12.5,231.5
+PHI,"Jan 19, 2026",IND,Won 113-104,"Won /
+ Under",-6.5,230.5
+IND,"Jan 19, 2026",@PHI,Lost 104-113,"Lost /
+ Under",6.5,230.5
+BKN,"Jan 19, 2026",PHX,Lost 117-126,"Won /
+ Over",9.5,214.5
+UTA,"Jan 19, 2026",@SAS,Lost 110-123,"Won /
+ Under",16.5,237.5
+MIL,"Jan 19, 2026",@ATL,Won 112-110,"Won /
+ Under",1.5,232.5
+DET,"Jan 19, 2026",BOS,Won 104-103,"Lost /
+ Under",-2.5,223.5
+OKC,"Jan 19, 2026",@CLE,Won 136-104,"Won /
+ Over",-6.5,229.5
+NYK,"Jan 19, 2026",DAL,Lost 97-114,"Lost /
+ Under",-12.5,231.5
+MIA,"Jan 19, 2026",@GSW,Lost 112-135,"Lost /
+ Over",5.5,239.5
+WAS,"Jan 19, 2026",LAC,Lost 106-110,"Won /
+ Under",6.5,227.5
+CLE,"Jan 19, 2026",OKC,Lost 104-136,"Lost /
+ Over",6.5,229.5
+SAS,"Jan 19, 2026",UTA,Won 123-110,"Lost /
+ Under",-16.5,237.5
+LAC,"Jan 19, 2026",@WAS,Won 110-106,"Lost /
+ Under",-6.5,227.5
+BOS,"Jan 19, 2026",@DET,Lost 103-104,"Won /
+ Under",2.5,223.5
+DEN,"Jan 20, 2026",LAL,Lost 107-115,"Lost /
+ Under",3.5,228.5
+SAC,"Jan 20, 2026",MIA,Lost 117-130,"Lost /
+ Over",4.5,238.5
+UTA,"Jan 20, 2026",MIN,Won 127-122,"Won /
+ Over",12.5,238.5
+PHX,"Jan 20, 2026",@PHI,Won 116-110,"Won /
+ Over",-2.5,222.5
+PHI,"Jan 20, 2026",PHX,Lost 110-116,"Lost /
+ Over",2.5,222.5
+MIA,"Jan 20, 2026",@SAC,Won 130-117,"Won /
+ Over",-4.5,238.5
+HOU,"Jan 20, 2026",SAS,Won 111-106,"Won /
+ Under",-4.5,220.5
+LAC,"Jan 20, 2026",@CHI,Lost 110-138,"Lost /
+ Over",2.5,224.5
+LAL,"Jan 20, 2026",@DEN,Won 115-107,"Won /
+ Under",-3.5,228.5
+TOR,"Jan 20, 2026",@GSW,Won 145-127,"Won /
+ Over",4.5,224.5
+SAS,"Jan 20, 2026",@HOU,Lost 106-111,"Lost /
+ Under",4.5,220.5
+CHI,"Jan 20, 2026",LAC,Won 138-110,"Won /
+ Over",-2.5,224.5
+GSW,"Jan 20, 2026",TOR,Lost 127-145,"Lost /
+ Over",-4.5,224.5
+MIN,"Jan 20, 2026",@UTA,Lost 122-127,"Lost /
+ Over",-12.5,238.5
+OKC,"Jan 21, 2026",@MIL,Won 122-102,"Won /
+ Under",-12.5,225.5
+NYK,"Jan 21, 2026",BKN,Won 120-66,"Won /
+ Under",-12.5,219.5
+BKN,"Jan 21, 2026",@NYK,Lost 66-120,"Lost /
+ Under",12.5,219.5
+BOS,"Jan 21, 2026",IND,Won 119-104,"Won /
+ Under",-10.5,225.5
+TOR,"Jan 21, 2026",@SAC,Won 122-109,"Won /
+ Over",-5.5,226.5
+MEM,"Jan 21, 2026",ATL,Lost 122-124,"Lost /
+ Over",-1.5,239.5
+IND,"Jan 21, 2026",@BOS,Lost 104-119,"Lost /
+ Under",10.5,225.5
+CHA,"Jan 21, 2026",CLE,Lost 87-94,"Lost /
+ Under",3.5,238.5
+DET,"Jan 21, 2026",@NOP,Won 112-104,"Won /
+ Under",-7.5,233.5
+MIL,"Jan 21, 2026",OKC,Lost 102-122,"Lost /
+ Under",12.5,225.5
+SAC,"Jan 21, 2026",TOR,Lost 109-122,"Lost /
+ Over",5.5,226.5
+ATL,"Jan 21, 2026",@MEM,Won 124-122,"Won /
+ Over",1.5,239.5
+NOP,"Jan 21, 2026",DET,Lost 104-112,"Lost /
+ Under",7.5,233.5
+CLE,"Jan 21, 2026",@CHA,Won 94-87,"Won /
+ Under",-3.5,238.5
+LAC,"Jan 22, 2026",LAL,Won 112-104,"Won /
+ Under",-2.5,224.5
+POR,"Jan 22, 2026",MIA,Won 127-110,"Won /
+ Over",-3.5,234.5
+CHI,"Jan 22, 2026",@MIN,Won 120-115,"Won /
+ Under",9.5,239.5
+CHA,"Jan 22, 2026",@ORL,Won 124-97,"Won /
+ Under",3.5,224.5
+HOU,"Jan 22, 2026",@PHI,Lost 122-128,"Lost /
+ Over",-1.5,221.5
+MIA,"Jan 22, 2026",@POR,Lost 110-127,"Lost /
+ Over",3.5,234.5
+UTA,"Jan 22, 2026",SAS,Lost 109-126,"Lost /
+ Under",12.5,238.5
+MIN,"Jan 22, 2026",CHI,Lost 115-120,"Lost /
+ Under",-9.5,239.5
+GSW,"Jan 22, 2026",@DAL,Lost 115-123,"Lost /
+ Over",-6.5,234.5
+WAS,"Jan 22, 2026",DEN,Lost 97-107,"Lost /
+ Under",6.5,227.5
+DAL,"Jan 22, 2026",GSW,Won 123-115,"Won /
+ Over",6.5,234.5
+PHI,"Jan 22, 2026",HOU,Won 128-122,"Won /
+ Over",1.5,221.5
+LAL,"Jan 22, 2026",@LAC,Lost 104-112,"Lost /
+ Under",2.5,224.5
+SAS,"Jan 22, 2026",@UTA,Won 126-109,"Won /
+ Under",-12.5,238.5
+DEN,"Jan 22, 2026",@WAS,Won 107-97,"Won /
+ Under",-6.5,227.5
+ORL,"Jan 22, 2026",CHA,Lost 97-124,"Lost /
+ Under",-3.5,224.5
+DEN,"Jan 23, 2026",@MIL,Won 102-100,"Won /
+ Under",8.5,213.5
+BOS,"Jan 23, 2026",@BKN,Won 130-126,"Lost /
+ Over",-8.5,215.5
+OKC,"Jan 23, 2026",IND,Lost 114-117,"Lost /
+ Over",-15.5,226.5
+ATL,"Jan 23, 2026",PHX,Won 110-103,"Won /
+ Under",3.5,233.5
+TOR,"Jan 23, 2026",@POR,Won 110-98,"Won /
+ Under",-3.5,225.5
+CLE,"Jan 23, 2026",SAC,Won 123-118,"Lost /
+ Over",-13.5,233.5
+PHX,"Jan 23, 2026",@ATL,Lost 103-110,"Lost /
+ Under",-3.5,233.5
+BKN,"Jan 23, 2026",BOS,Lost 126-130,"Won /
+ Over",8.5,215.5
+SAC,"Jan 23, 2026",@CLE,Lost 118-123,"Won /
+ Over",13.5,233.5
+MEM,"Jan 23, 2026",NOP,Lost 127-133,"Lost /
+ Over",-4.5,240.5
+MIL,"Jan 23, 2026",DEN,Lost 100-102,"Lost /
+ Under",-8.5,213.5
+DET,"Jan 23, 2026",HOU,Lost 104-111,"Lost /
+ Under",-4.5,217.5
+IND,"Jan 23, 2026",@OKC,Won 117-114,"Won /
+ Over",15.5,226.5
+POR,"Jan 23, 2026",TOR,Lost 98-110,"Lost /
+ Under",3.5,225.5
+NOP,"Jan 23, 2026",@MEM,Won 133-127,"Won /
+ Over",4.5,240.5
+HOU,"Jan 23, 2026",@DET,Won 111-104,"Won /
+ Under",4.5,217.5
+DAL,"Jan 24, 2026",LAL,Lost 110-116,"Lost /
+ Under",4.5,233.5
+UTA,"Jan 24, 2026",MIA,Lost 116-147,"Lost /
+ Over",6.5,244.5
+PHI,"Jan 24, 2026",NYK,Lost 109-112,"Lost /
+ Under",1.5,227.5
+CLE,"Jan 24, 2026",@ORL,Won 119-105,"Won /
+ Under",1.5,225.5
+NYK,"Jan 24, 2026",@PHI,Won 112-109,"Won /
+ Under",-1.5,227.5
+CHI,"Jan 24, 2026",BOS,Won 114-111,"Won /
+ Under",3.5,232.5
+ORL,"Jan 24, 2026",CLE,Lost 105-119,"Lost /
+ Under",-1.5,225.5
+BOS,"Jan 24, 2026",@CHI,Lost 111-114,"Lost /
+ Under",-3.5,232.5
+LAL,"Jan 24, 2026",@DAL,Won 116-110,"Won /
+ Under",-4.5,233.5
+MIA,"Jan 24, 2026",@UTA,Won 147-116,"Won /
+ Over",-6.5,244.5
+CHA,"Jan 24, 2026",WAS,Won 119-115,"Lost /
+ Over",-11.5,231.5
+WAS,"Jan 24, 2026",@CHA,Lost 115-119,"Won /
+ Over",11.5,231.5
+PHX,"Jan 25, 2026",MIA,Lost 102-111,"Lost /
+ Under",-4.5,225.5
+GSW,"Jan 25, 2026",@MIN,Won 111-85,"Won /
+ Under",5.5,237.5
+LAC,"Jan 25, 2026",BKN,Won 126-89,"Won /
+ Over",-10.5,211.5
+MIA,"Jan 25, 2026",@PHX,Won 111-102,"Won /
+ Under",4.5,225.5
+DET,"Jan 25, 2026",SAC,Won 139-116,"Won /
+ Over",-12.5,226.5
+NOP,"Jan 25, 2026",@SAS,Won 104-95,"Won /
+ Under",11.5,239.5
+SAS,"Jan 25, 2026",NOP,Lost 95-104,"Lost /
+ Under",-11.5,239.5
+MIN,"Jan 25, 2026",GSW,Lost 85-111,"Lost /
+ Under",-5.5,237.5
+BKN,"Jan 25, 2026",@LAC,Lost 89-126,"Lost /
+ Over",10.5,211.5
+TOR,"Jan 25, 2026",@OKC,Won 103-101,"Won /
+ Under",11.5,225.5
+OKC,"Jan 25, 2026",TOR,Lost 101-103,"Lost /
+ Under",-11.5,225.5
+SAC,"Jan 25, 2026",@DET,Lost 116-139,"Lost /
+ Over",12.5,226.5
+CHI,"Jan 26, 2026",LAL,Lost 118-129,"Lost /
+ Over",1.5,235.5
+GSW,"Jan 26, 2026",@MIN,Lost 83-108,"Lost /
+ Under",8.5,226.5
+CLE,"Jan 26, 2026",ORL,Won 114-98,"Won /
+ Under",-4.5,221.5
+ATL,"Jan 26, 2026",IND,Won 132-116,"Won /
+ Over",-5.5,234.5
+CHA,"Jan 26, 2026",PHI,Won 130-93,"Won /
+ Under",-1.5,229.5
+BOS,"Jan 26, 2026",POR,Won 102-94,"Lost /
+ Under",-8.5,223.5
+IND,"Jan 26, 2026",@ATL,Lost 116-132,"Lost /
+ Over",5.5,234.5
+POR,"Jan 26, 2026",@BOS,Lost 94-102,"Won /
+ Under",8.5,223.5
+ORL,"Jan 26, 2026",@CLE,Lost 98-114,"Lost /
+ Under",4.5,221.5
+LAL,"Jan 26, 2026",@CHI,Won 129-118,"Won /
+ Over",-1.5,235.5
+MIN,"Jan 26, 2026",GSW,Won 108-83,"Won /
+ Under",-8.5,226.5
+MEM,"Jan 26, 2026",@HOU,Lost 99-108,"Won /
+ Under",11.5,225.5
+HOU,"Jan 26, 2026",MEM,Won 108-99,"Lost /
+ Under",-11.5,225.5
+PHI,"Jan 26, 2026",@CHA,Lost 93-130,"Lost /
+ Under",1.5,229.5
+PHI,"Jan 27, 2026",MIL,Won 139-122,"Won /
+ Over",-10.5,219.5
+PHX,"Jan 27, 2026",BKN,Won 106-102,"Lost /
+ Under",-7.5,210.5
+SAC,"Jan 27, 2026",@NYK,Lost 87-103,"Lost /
+ Under",14.5,225.5
+MIL,"Jan 27, 2026",@PHI,Lost 122-139,"Lost /
+ Over",10.5,219.5
+BKN,"Jan 27, 2026",@PHX,Lost 102-106,"Won /
+ Under",7.5,210.5
+WAS,"Jan 27, 2026",POR,Won 115-111,"Won /
+ Under",7.5,232.5
+NYK,"Jan 27, 2026",SAC,Won 103-87,"Won /
+ Under",-14.5,225.5
+OKC,"Jan 27, 2026",NOP,Won 104-95,"Lost /
+ Under",-14.5,233.5
+DET,"Jan 27, 2026",@DEN,Won 109-107,"Lost /
+ Under",-7.5,216.5
+UTA,"Jan 27, 2026",LAC,Lost 103-115,"Lost /
+ Under",8.5,234.5
+NOP,"Jan 27, 2026",@OKC,Lost 95-104,"Won /
+ Under",14.5,233.5
+LAC,"Jan 27, 2026",@UTA,Won 115-103,"Won /
+ Under",-8.5,234.5
+POR,"Jan 27, 2026",@WAS,Lost 111-115,"Lost /
+ Under",-7.5,232.5
+DEN,"Jan 27, 2026",DET,Lost 107-109,"Won /
+ Under",7.5,216.5
+CLE,"Jan 28, 2026",LAL,Won 129-99,"Won /
+ Under",-3.5,233.5
+ORL,"Jan 28, 2026",@MIA,Won 133-124,"Won /
+ Over",3.5,232.5
+DAL,"Jan 28, 2026",MIN,Lost 105-118,"Lost /
+ Under",8.5,228.5
+TOR,"Jan 28, 2026",NYK,Lost 92-119,"Lost /
+ Under",-1.5,220.5
+MIA,"Jan 28, 2026",ORL,Lost 124-133,"Lost /
+ Over",-3.5,232.5
+CHI,"Jan 28, 2026",@IND,Lost 110-113,"Lost /
+ Under",-1.5,235.5
+HOU,"Jan 28, 2026",SAS,Lost 99-111,"Lost /
+ Under",-2.5,220.5
+BOS,"Jan 28, 2026",ATL,Lost 106-117,"Lost /
+ Under",-5.5,232.5
+ATL,"Jan 28, 2026",@BOS,Won 117-106,"Won /
+ Under",5.5,232.5
+LAL,"Jan 28, 2026",@CLE,Lost 99-129,"Lost /
+ Under",3.5,233.5
+IND,"Jan 28, 2026",CHI,Won 113-110,"Won /
+ Under",1.5,235.5
+MIN,"Jan 28, 2026",@DAL,Won 118-105,"Won /
+ Under",-8.5,228.5
+UTA,"Jan 28, 2026",GSW,Lost 124-140,"Lost /
+ Over",8.5,242.5
+SAS,"Jan 28, 2026",@HOU,Won 111-99,"Won /
+ Under",2.5,220.5
+NYK,"Jan 28, 2026",@TOR,Won 119-92,"Won /
+ Under",1.5,220.5
+GSW,"Jan 28, 2026",@UTA,Won 140-124,"Won /
+ Over",-8.5,242.5
+CHA,"Jan 28, 2026",@MEM,Won 112-97,"Won /
+ Under",-2.5,231.5
+MEM,"Jan 28, 2026",CHA,Lost 97-112,"Lost /
+ Under",2.5,231.5
+CHI,"Jan 29, 2026",MIA,Lost 113-116,"Lost /
+ Under",2.5,237.5
+WAS,"Jan 29, 2026",MIL,Won 109-99,"Won /
+ Under",1.5,223.5
+OKC,"Jan 29, 2026",@MIN,Lost 111-123,"Lost /
+ Over",-5.5,227.5
+DEN,"Jan 29, 2026",BKN,Won 107-103,"Lost /
+ Over",-6.5,209.5
+SAC,"Jan 29, 2026",@PHI,Lost 111-113,"Won /
+ Under",9.5,229.5
+DET,"Jan 29, 2026",@PHX,Lost 96-114,"Lost /
+ Under",-3.5,214.5
+PHI,"Jan 29, 2026",SAC,Won 113-111,"Lost /
+ Under",-9.5,229.5
+HOU,"Jan 29, 2026",@ATL,Won 104-86,"Won /
+ Under",-6.5,224.5
+MIA,"Jan 29, 2026",@CHI,Won 116-113,"Won /
+ Under",-2.5,237.5
+CHA,"Jan 29, 2026",@DAL,Won 123-121,"Lost /
+ Over",-3.5,225.5
+BKN,"Jan 29, 2026",@DEN,Lost 103-107,"Won /
+ Over",6.5,209.5
+ATL,"Jan 29, 2026",HOU,Lost 86-104,"Lost /
+ Under",6.5,224.5
+MIN,"Jan 29, 2026",OKC,Won 123-111,"Won /
+ Over",5.5,227.5
+MIL,"Jan 29, 2026",@WAS,Lost 99-109,"Lost /
+ Under",-1.5,223.5
+PHX,"Jan 29, 2026",DET,Won 114-96,"Won /
+ Under",3.5,214.5
+DAL,"Jan 29, 2026",CHA,Lost 121-123,"Won /
+ Over",3.5,225.5
+WAS,"Jan 30, 2026",LAL,Lost 111-142,"Lost /
+ Over",10.5,229.5
+UTA,"Jan 30, 2026",BKN,Lost 99-109,"Lost /
+ Under",-3.5,226.5
+POR,"Jan 30, 2026",@NYK,Lost 97-127,"Lost /
+ Over",6.5,223.5
+TOR,"Jan 30, 2026",@ORL,Lost 120-130,"Lost /
+ Over",2.5,221.5
+CLE,"Jan 30, 2026",@PHX,Lost 113-126,"Lost /
+ Over",-1.5,221.5
+NYK,"Jan 30, 2026",POR,Won 127-97,"Won /
+ Over",-6.5,223.5
+BOS,"Jan 30, 2026",SAC,Won 112-93,"Won /
+ Under",-11.5,216.5
+SAC,"Jan 30, 2026",@BOS,Lost 93-112,"Lost /
+ Under",11.5,216.5
+PHX,"Jan 30, 2026",CLE,Won 126-113,"Won /
+ Over",1.5,221.5
+MEM,"Jan 30, 2026",@NOP,Lost 106-114,"Lost /
+ Under",3.5,230.5
+LAC,"Jan 30, 2026",@DEN,Lost 109-122,"Lost /
+ Over",-2.5,218.5
+DET,"Jan 30, 2026",@GSW,Won 131-124,"Won /
+ Over",2.5,226.5
+DEN,"Jan 30, 2026",LAC,Won 122-109,"Won /
+ Over",2.5,218.5
+ORL,"Jan 30, 2026",TOR,Won 130-120,"Won /
+ Over",-2.5,221.5
+BKN,"Jan 30, 2026",@UTA,Won 109-99,"Won /
+ Under",3.5,226.5
+NOP,"Jan 30, 2026",MEM,Won 114-106,"Won /
+ Under",-3.5,230.5
+LAL,"Jan 30, 2026",@WAS,Won 142-111,"Won /
+ Over",-10.5,229.5
+GSW,"Jan 30, 2026",DET,Lost 124-131,"Lost /
+ Over",-2.5,226.5
+CHI,"Jan 31, 2026",@MIA,Won 125-118,"Won /
+ Over",5.5,231.5
+MEM,"Jan 31, 2026",MIN,Lost 114-131,"Lost /
+ Over",11.5,229.5
+ATL,"Jan 31, 2026",@IND,Lost 124-129,"Lost /
+ Over",-1.5,234.5
+NOP,"Jan 31, 2026",@PHI,Lost 114-124,"Lost /
+ Over",6.5,234.5
+CHA,"Jan 31, 2026",SAS,Won 111-106,"Won /
+ Under",3.5,227.5
+IND,"Jan 31, 2026",ATL,Won 129-124,"Won /
+ Over",1.5,234.5
+PHI,"Jan 31, 2026",NOP,Won 124-114,"Won /
+ Over",-6.5,234.5
+MIA,"Jan 31, 2026",CHI,Lost 118-125,"Lost /
+ Over",-5.5,231.5
+HOU,"Jan 31, 2026",DAL,Won 111-107,"Lost /
+ Under",-10.5,222.5
+DAL,"Jan 31, 2026",@HOU,Lost 107-111,"Won /
+ Under",10.5,222.5
+MIN,"Jan 31, 2026",@MEM,Won 131-114,"Won /
+ Over",-11.5,229.5
+SAS,"Jan 31, 2026",@CHA,Lost 106-111,"Lost /
+ Under",-3.5,227.5
+NYK,"Feb 01, 2026",LAL,Won 112-100,"Won /
+ Under",-5.5,227.5
+CHI,"Feb 01, 2026",@MIA,Lost 91-134,"Lost /
+ Under",5.5,233.5
+BOS,"Feb 01, 2026",MIL,Won 107-79,"Won /
+ Under",-12.5,217.5
+DET,"Feb 01, 2026",BKN,Won 130-77,"Won /
+ Under",-13.5,214.5
+LAL,"Feb 01, 2026",@NYK,Lost 100-112,"Lost /
+ Under",5.5,227.5
+SAS,"Feb 01, 2026",ORL,Won 112-103,"Won /
+ Under",-4.5,222.5
+LAC,"Feb 01, 2026",@PHX,Won 117-93,"Won /
+ Over",2.5,209.5
+CLE,"Feb 01, 2026",@POR,Won 130-111,"Won /
+ Over",-3.5,228.5
+WAS,"Feb 01, 2026",SAC,Won 116-112,"Won /
+ Over",1.5,226.5
+ORL,"Feb 01, 2026",@SAS,Lost 103-112,"Lost /
+ Under",4.5,222.5
+MIL,"Feb 01, 2026",@BOS,Lost 79-107,"Lost /
+ Under",12.5,217.5
+POR,"Feb 01, 2026",CLE,Lost 111-130,"Lost /
+ Over",3.5,228.5
+MIA,"Feb 01, 2026",CHI,Won 134-91,"Won /
+ Under",-5.5,233.5
+OKC,"Feb 01, 2026",@DEN,Won 121-111,"Won /
+ Over",-7.5,225.5
+PHX,"Feb 01, 2026",LAC,Lost 93-117,"Lost /
+ Over",-2.5,209.5
+DEN,"Feb 01, 2026",OKC,Lost 111-121,"Lost /
+ Over",7.5,225.5
+UTA,"Feb 01, 2026",@TOR,Lost 100-107,"Won /
+ Under",10.5,234.5
+TOR,"Feb 01, 2026",UTA,Won 107-100,"Lost /
+ Under",-10.5,234.5
+SAC,"Feb 01, 2026",@WAS,Lost 112-116,"Lost /
+ Over",-1.5,226.5
+BKN,"Feb 01, 2026",@DET,Lost 77-130,"Lost /
+ Under",13.5,214.5
+MEM,"Feb 02, 2026",MIN,Won 137-128,"Won /
+ Over",7.5,232.5
+HOU,"Feb 02, 2026",@IND,Won 118-114,"Lost /
+ Over",-6.5,218.5
+LAC,"Feb 02, 2026",PHI,Lost 113-128,"Lost /
+ Over",1.5,220.5
+CHA,"Feb 02, 2026",NOP,Won 102-95,"Won /
+ Under",-6.5,230.5
+IND,"Feb 02, 2026",HOU,Lost 114-118,"Won /
+ Over",6.5,218.5
+PHI,"Feb 02, 2026",@LAC,Won 128-113,"Won /
+ Over",-1.5,220.5
+MIN,"Feb 02, 2026",@MEM,Lost 128-137,"Lost /
+ Over",-7.5,232.5
+NOP,"Feb 02, 2026",@CHA,Lost 95-102,"Lost /
+ Under",6.5,230.5
+BKN,"Feb 03, 2026",LAL,Lost 109-125,"Lost /
+ Over",7.5,223.5
+ATL,"Feb 03, 2026",@MIA,Won 127-115,"Won /
+ Over",1.5,235.5
+CHI,"Feb 03, 2026",@MIL,Lost 115-131,"Lost /
+ Over",-1.5,222.5
+LAL,"Feb 03, 2026",@BKN,Won 125-109,"Won /
+ Over",-7.5,223.5
+WAS,"Feb 03, 2026",NYK,Lost 101-132,"Lost /
+ Over",12.5,227.5
+OKC,"Feb 03, 2026",ORL,Won 128-92,"Won /
+ Under",-11.5,222.5
+UTA,"Feb 03, 2026",@IND,Won 131-122,"Won /
+ Over",-2.5,232.5
+GSW,"Feb 03, 2026",PHI,Lost 94-113,"Lost /
+ Under",-4.5,222.5
+POR,"Feb 03, 2026",PHX,Lost 125-130,"Lost /
+ Over",2.5,218.5
+PHX,"Feb 03, 2026",@POR,Won 130-125,"Won /
+ Over",-2.5,218.5
+MIA,"Feb 03, 2026",ATL,Lost 115-127,"Lost /
+ Over",-1.5,235.5
+DAL,"Feb 03, 2026",BOS,Lost 100-110,"Lost /
+ Under",7.5,223.5
+MIL,"Feb 03, 2026",CHI,Won 131-115,"Won /
+ Over",1.5,222.5
+BOS,"Feb 03, 2026",@DAL,Won 110-100,"Won /
+ Under",-7.5,223.5
+DET,"Feb 03, 2026",DEN,Won 124-121,"Lost /
+ Over",-5.5,229.5
+PHI,"Feb 03, 2026",@GSW,Won 113-94,"Won /
+ Under",4.5,222.5
+ORL,"Feb 03, 2026",@OKC,Lost 92-128,"Lost /
+ Under",11.5,222.5
+IND,"Feb 03, 2026",UTA,Lost 122-131,"Lost /
+ Over",2.5,232.5
+NYK,"Feb 03, 2026",@WAS,Won 132-101,"Won /
+ Over",-12.5,227.5
+DEN,"Feb 03, 2026",@DET,Lost 121-124,"Won /
+ Over",5.5,229.5
+NOP,"Feb 04, 2026",@MIL,Lost 137-141,"Lost /
+ Over",-4.5,223.5
+TOR,"Feb 04, 2026",MIN,Lost 126-128,"Won /
+ Over",2.5,228.5
+DEN,"Feb 04, 2026",@NYK,Lost 127-134,"Lost /
+ Over",4.5,228.5
+MEM,"Feb 04, 2026",@SAC,Won 129-125,"Won /
+ Over",2.5,236.5
+OKC,"Feb 04, 2026",@SAS,Lost 106-116,"Lost /
+ Over",9.5,221.5
+HOU,"Feb 04, 2026",BOS,Lost 93-114,"Lost /
+ Under",-8.5,210.5
+LAC,"Feb 04, 2026",CLE,Lost 91-124,"Lost /
+ Under",2.5,221.5
+MIL,"Feb 04, 2026",NOP,Won 141-137,"Won /
+ Over",4.5,223.5
+NYK,"Feb 04, 2026",DEN,Won 134-127,"Won /
+ Over",-4.5,228.5
+BOS,"Feb 04, 2026",@HOU,Won 114-93,"Won /
+ Under",8.5,210.5
+CLE,"Feb 04, 2026",@LAC,Won 124-91,"Won /
+ Under",-2.5,221.5
+SAS,"Feb 04, 2026",OKC,Won 116-106,"Won /
+ Over",-9.5,221.5
+MIN,"Feb 04, 2026",@TOR,Won 128-126,"Lost /
+ Over",-2.5,228.5
+SAC,"Feb 04, 2026",MEM,Lost 125-129,"Lost /
+ Over",-2.5,236.5
+PHI,"Feb 05, 2026",@LAL,Lost 115-119,"Lost /
+ Under",2.5,236.5
+ORL,"Feb 05, 2026",BKN,Won 118-98,"Won /
+ Over",-9.5,214.5
+BKN,"Feb 05, 2026",@ORL,Lost 98-118,"Lost /
+ Over",9.5,214.5
+LAL,"Feb 05, 2026",PHI,Won 119-115,"Won /
+ Under",-2.5,236.5
+GSW,"Feb 05, 2026",@PHX,Won 101-97,"Won /
+ Under",5.5,212.5
+DAL,"Feb 05, 2026",SAS,Lost 123-135,"Lost /
+ Over",7.5,230.5
+UTA,"Feb 05, 2026",@ATL,Lost 119-121,"Won /
+ Under",8.5,245.5
+TOR,"Feb 05, 2026",CHI,Won 123-107,"Won /
+ Over",-7.5,227.5
+SAS,"Feb 05, 2026",@DAL,Won 135-123,"Won /
+ Over",-7.5,230.5
+PHX,"Feb 05, 2026",GSW,Lost 97-101,"Lost /
+ Under",-5.5,212.5
+CHA,"Feb 05, 2026",@HOU,Won 109-99,"Won /
+ Under",4.5,218.5
+CHI,"Feb 05, 2026",@TOR,Lost 107-123,"Lost /
+ Over",7.5,227.5
+ATL,"Feb 05, 2026",UTA,Won 121-119,"Lost /
+ Under",-8.5,245.5
+DET,"Feb 05, 2026",WAS,Lost 117-126,"Lost /
+ Over",-16.5,227.5
+WAS,"Feb 05, 2026",@DET,Won 126-117,"Won /
+ Over",16.5,227.5
+HOU,"Feb 05, 2026",CHA,Lost 99-109,"Lost /
+ Under",-4.5,218.5
+BOS,"Feb 06, 2026",MIA,Won 98-96,"Lost /
+ Under",-5.5,227.5
+IND,"Feb 06, 2026",@MIL,Lost 99-105,"Lost /
+ Under",-1.5,223.5
+NOP,"Feb 06, 2026",@MIN,Won 119-115,"Won /
+ Under",8.5,237.5
+DET,"Feb 06, 2026",NYK,Won 118-80,"Won /
+ Under",-5.5,219.5
+MIL,"Feb 06, 2026",IND,Won 105-99,"Won /
+ Under",1.5,223.5
+MEM,"Feb 06, 2026",@POR,Lost 115-135,"Lost /
+ Over",8.5,235.5
+LAC,"Feb 06, 2026",@SAC,Won 114-111,"Lost /
+ Over",-3.5,221.5
+MIA,"Feb 06, 2026",@BOS,Lost 96-98,"Won /
+ Under",5.5,227.5
+MIN,"Feb 06, 2026",NOP,Lost 115-119,"Lost /
+ Under",-8.5,237.5
+SAC,"Feb 06, 2026",LAC,Lost 111-114,"Won /
+ Over",3.5,221.5
+POR,"Feb 06, 2026",MEM,Won 135-115,"Won /
+ Over",-8.5,235.5
+NYK,"Feb 06, 2026",@DET,Lost 80-118,"Lost /
+ Under",5.5,219.5
+GSW,"Feb 07, 2026",@LAL,Lost 99-105,"Lost /
+ Under",1.5,220.5
+WAS,"Feb 07, 2026",@BKN,Lost 113-127,"Lost /
+ Over",8.5,216.5
+UTA,"Feb 07, 2026",@ORL,Lost 117-120,"Won /
+ Over",7.5,234.5
+PHX,"Feb 07, 2026",PHI,Lost 103-109,"Lost /
+ Under",-2.5,224.5
+PHI,"Feb 07, 2026",@PHX,Won 109-103,"Won /
+ Under",2.5,224.5
+MEM,"Feb 07, 2026",@POR,Lost 115-122,"Won /
+ Over",9.5,228.5
+CLE,"Feb 07, 2026",@SAC,Won 132-126,"Lost /
+ Over",-12.5,229.5
+DAL,"Feb 07, 2026",@SAS,Lost 125-138,"Lost /
+ Over",11.5,234.5
+CHA,"Feb 07, 2026",@ATL,Won 126-119,"Won /
+ Over",-1.5,232.5
+SAC,"Feb 07, 2026",CLE,Lost 126-132,"Won /
+ Over",12.5,229.5
+DEN,"Feb 07, 2026",@CHI,Won 136-120,"Won /
+ Over",-9.5,235.5
+SAS,"Feb 07, 2026",DAL,Won 138-125,"Won /
+ Over",-11.5,234.5
+CHI,"Feb 07, 2026",DEN,Lost 120-136,"Lost /
+ Over",9.5,235.5
+LAL,"Feb 07, 2026",GSW,Won 105-99,"Won /
+ Under",-1.5,220.5
+OKC,"Feb 07, 2026",HOU,Lost 106-112,"Lost /
+ Over",-3.5,213.5
+HOU,"Feb 07, 2026",@OKC,Won 112-106,"Won /
+ Over",3.5,213.5
+ORL,"Feb 07, 2026",UTA,Won 120-117,"Lost /
+ Over",-7.5,234.5
+POR,"Feb 07, 2026",MEM,Won 122-115,"Lost /
+ Over",-9.5,228.5
+BKN,"Feb 07, 2026",WAS,Won 127-113,"Won /
+ Over",-8.5,216.5
+ATL,"Feb 07, 2026",CHA,Lost 119-126,"Lost /
+ Over",1.5,232.5
+WAS,"Feb 08, 2026",MIA,Lost 101-132,"Lost /
+ Under",13.5,235.5
+LAC,"Feb 08, 2026",@MIN,Won 115-96,"Won /
+ Under",8.5,222.5
+BOS,"Feb 08, 2026",NYK,Lost 89-111,"Lost /
+ Under",-3.5,215.5
+TOR,"Feb 08, 2026",IND,Won 122-104,"Won /
+ Under",-7.5,226.5
+NYK,"Feb 08, 2026",@BOS,Won 111-89,"Won /
+ Under",3.5,215.5
+MIN,"Feb 08, 2026",LAC,Lost 96-115,"Lost /
+ Under",-8.5,222.5
+IND,"Feb 08, 2026",@TOR,Lost 104-122,"Lost /
+ Under",7.5,226.5
+MIA,"Feb 08, 2026",@WAS,Won 132-101,"Won /
+ Under",-13.5,235.5
+OKC,"Feb 09, 2026",@LAL,Won 119-110,"Won /
+ Over",-7.5,222.5
+UTA,"Feb 09, 2026",@MIA,Won 115-111,"Won /
+ Under",5.5,234.5
+ORL,"Feb 09, 2026",MIL,Won 118-99,"Won /
+ Under",-9.5,220.5
+ATL,"Feb 09, 2026",@MIN,Lost 116-138,"Lost /
+ Over",8.5,239.5
+CHI,"Feb 09, 2026",@BKN,Lost 115-123,"Lost /
+ Over",-3.5,218.5
+MIL,"Feb 09, 2026",@ORL,Lost 99-118,"Lost /
+ Under",9.5,220.5
+POR,"Feb 09, 2026",PHI,Won 135-118,"Won /
+ Over",-3.5,231.5
+PHI,"Feb 09, 2026",@POR,Lost 118-135,"Lost /
+ Over",3.5,231.5
+NOP,"Feb 09, 2026",SAC,Won 120-94,"Won /
+ Under",-9.5,229.5
+MIN,"Feb 09, 2026",ATL,Won 138-116,"Won /
+ Over",-8.5,239.5
+DEN,"Feb 09, 2026",CLE,Lost 117-119,"Lost /
+ Under",-2.5,242.5
+SAC,"Feb 09, 2026",@NOP,Lost 94-120,"Lost /
+ Under",9.5,229.5
+BKN,"Feb 09, 2026",CHI,Won 123-115,"Won /
+ Over",3.5,218.5
+CLE,"Feb 09, 2026",@DEN,Won 119-117,"Won /
+ Under",2.5,242.5
+MEM,"Feb 09, 2026",@GSW,Lost 113-114,"Won /
+ Over",9.5,218.5
+LAL,"Feb 09, 2026",OKC,Lost 110-119,"Lost /
+ Over",7.5,222.5
+MIA,"Feb 09, 2026",UTA,Lost 111-115,"Lost /
+ Under",-5.5,234.5
+GSW,"Feb 09, 2026",MEM,Won 114-113,"Lost /
+ Over",-9.5,218.5
+CHA,"Feb 09, 2026",DET,Lost 104-110,"Lost /
+ Under",2.5,222.5
+DET,"Feb 09, 2026",@CHA,Won 110-104,"Won /
+ Under",-2.5,222.5
+SAS,"Feb 10, 2026",@LAL,Won 136-108,"Won /
+ Over",-13.5,226.5
+IND,"Feb 10, 2026",@NYK,Won 137-134,"Won /
+ Over",11.5,227.5
+NYK,"Feb 10, 2026",IND,Lost 134-137,"Lost /
+ Over",-11.5,227.5
+DAL,"Feb 10, 2026",@PHX,Lost 111-120,"Lost /
+ Over",8.5,229.5
+LAL,"Feb 10, 2026",SAS,Lost 108-136,"Lost /
+ Over",13.5,226.5
+PHX,"Feb 10, 2026",DAL,Won 120-111,"Won /
+ Over",-8.5,229.5
+LAC,"Feb 10, 2026",@HOU,Lost 95-102,"Won /
+ Under",9.5,213.5
+HOU,"Feb 10, 2026",LAC,Won 102-95,"Lost /
+ Under",-9.5,213.5
+NOP,"Feb 11, 2026",MIA,Lost 111-123,"Lost /
+ Over",-1.5,233.5
+ORL,"Feb 11, 2026",MIL,Lost 108-116,"Lost /
+ Over",-11.5,219.5
+POR,"Feb 11, 2026",@MIN,Lost 109-133,"Lost /
+ Over",7.5,237.5
+IND,"Feb 11, 2026",@BKN,Won 115-110,"Won /
+ Over",6.5,215.5
+PHI,"Feb 11, 2026",NYK,Lost 89-138,"Lost /
+ Over",2.5,224.5
+MIL,"Feb 11, 2026",@ORL,Won 116-108,"Won /
+ Over",11.5,219.5
+BKN,"Feb 11, 2026",IND,Lost 110-115,"Lost /
+ Over",-6.5,215.5
+NYK,"Feb 11, 2026",@PHI,Won 138-89,"Won /
+ Over",-2.5,224.5
+OKC,"Feb 11, 2026",@PHX,Won 136-109,"Won /
+ Over",-7.5,211.5
+MIN,"Feb 11, 2026",POR,Won 133-109,"Won /
+ Over",-7.5,237.5
+UTA,"Feb 11, 2026",SAC,Won 121-93,"Won /
+ Under",-5.5,229.5
+GSW,"Feb 11, 2026",SAS,Lost 113-126,"Lost /
+ Over",7.5,220.5
+CHA,"Feb 11, 2026",ATL,Won 110-107,"Won /
+ Under",-2.5,235.5
+CHI,"Feb 11, 2026",@BOS,Lost 105-124,"Lost /
+ Over",13.5,227.5
+WAS,"Feb 11, 2026",@CLE,Lost 113-138,"Lost /
+ Over",17.5,238.5
+MIA,"Feb 11, 2026",@NOP,Won 123-111,"Won /
+ Over",1.5,233.5
+BOS,"Feb 11, 2026",CHI,Won 124-105,"Won /
+ Over",-13.5,227.5
+MEM,"Feb 11, 2026",@DEN,Lost 116-122,"Won /
+ Under",14.5,239.5
+SAS,"Feb 11, 2026",@GSW,Won 126-113,"Won /
+ Over",-7.5,220.5
+LAC,"Feb 11, 2026",@HOU,Won 105-102,"Won /
+ Under",8.5,212.5
+HOU,"Feb 11, 2026",LAC,Lost 102-105,"Lost /
+ Under",-8.5,212.5
+PHX,"Feb 11, 2026",OKC,Lost 109-136,"Lost /
+ Over",7.5,211.5
+DET,"Feb 11, 2026",@TOR,Won 113-95,"Won /
+ Under",1.5,223.5
+SAC,"Feb 11, 2026",@UTA,Lost 93-121,"Lost /
+ Under",5.5,229.5
+DEN,"Feb 11, 2026",MEM,Won 122-116,"Lost /
+ Under",-14.5,239.5
+CLE,"Feb 11, 2026",WAS,Won 138-113,"Won /
+ Over",-17.5,238.5
+TOR,"Feb 11, 2026",DET,Lost 95-113,"Lost /
+ Under",-1.5,223.5
+ATL,"Feb 11, 2026",@CHA,Lost 107-110,"Lost /
+ Under",2.5,235.5
+DAL,"Feb 12, 2026",@LAL,Lost 104-124,"Lost /
+ Under",6.5,237.5
+OKC,"Feb 12, 2026",MIL,Lost 93-110,"Lost /
+ Under",-13.5,214.5
+UTA,"Feb 12, 2026",POR,Lost 119-135,"Lost /
+ Over",6.5,236.5
+LAL,"Feb 12, 2026",DAL,Won 124-104,"Won /
+ Under",-6.5,237.5
+MIL,"Feb 12, 2026",@OKC,Won 110-93,"Won /
+ Under",13.5,214.5
+POR,"Feb 12, 2026",@UTA,Won 135-119,"Won /
+ Over",-6.5,236.5
+CLE,"Feb 19, 2026",BKN,Won 112-84,"Won /
+ Under",-15.5,229.5
+DET,"Feb 19, 2026",@NYK,Won 126-111,"Won /
+ Over",3.5,218.5
+SAC,"Feb 19, 2026",ORL,Lost 94-131,"Lost /
+ Under",8.5,226.5
+WAS,"Feb 19, 2026",IND,Won 112-105,"Won /
+ Under",2.5,233.5
+ATL,"Feb 19, 2026",@PHI,Won 117-107,"Won /
+ Under",1.5,241.5
+SAS,"Feb 19, 2026",PHX,Won 121-94,"Won /
+ Under",-7.5,229.5
+ORL,"Feb 19, 2026",@SAC,Won 131-94,"Won /
+ Under",-8.5,226.5
+PHX,"Feb 19, 2026",@SAS,Lost 94-121,"Lost /
+ Under",7.5,229.5
+PHI,"Feb 19, 2026",ATL,Lost 107-117,"Lost /
+ Under",-1.5,241.5
+GSW,"Feb 19, 2026",BOS,Lost 110-121,"Lost /
+ Over",5.5,211.5
+BKN,"Feb 19, 2026",@CLE,Lost 84-112,"Lost /
+ Under",15.5,229.5
+TOR,"Feb 19, 2026",@CHI,Won 110-101,"Won /
+ Under",-6.5,234.5
+LAC,"Feb 19, 2026",DEN,Won 115-114,"Won /
+ Over",4.5,226.5
+BOS,"Feb 19, 2026",@GSW,Won 121-110,"Won /
+ Over",-5.5,211.5
+CHA,"Feb 19, 2026",HOU,Lost 101-105,"Won /
+ Under",4.5,218.5
+DEN,"Feb 19, 2026",@LAC,Lost 114-115,"Lost /
+ Over",-4.5,226.5
+CHI,"Feb 19, 2026",TOR,Lost 101-110,"Lost /
+ Under",6.5,234.5
+IND,"Feb 19, 2026",@WAS,Lost 105-112,"Lost /
+ Under",-2.5,233.5
+NYK,"Feb 19, 2026",DET,Lost 111-126,"Lost /
+ Over",-3.5,218.5
+HOU,"Feb 19, 2026",@CHA,Won 105-101,"Lost /
+ Under",-4.5,218.5
+LAC,"Feb 20, 2026",@LAL,Lost 122-125,"Won /
+ Over",7.5,228.5
+ATL,"Feb 20, 2026",MIA,Lost 97-128,"Lost /
+ Under",3.5,243.5
+NOP,"Feb 20, 2026",MIL,Lost 118-139,"Lost /
+ Over",-4.5,224.5
+DAL,"Feb 20, 2026",@MIN,Lost 111-122,"Won /
+ Under",13.5,239.5
+OKC,"Feb 20, 2026",BKN,Won 105-86,"Won /
+ Under",-16.5,215.5
+WAS,"Feb 20, 2026",IND,Won 131-118,"Won /
+ Over",-1.5,230.5
+DEN,"Feb 20, 2026",@POR,Won 157-103,"Won /
+ Over",-1.5,241.5
+MIA,"Feb 20, 2026",@ATL,Won 128-97,"Won /
+ Under",-3.5,243.5
+CHA,"Feb 20, 2026",CLE,Lost 113-118,"Won /
+ Over",5.5,229.5
+MIL,"Feb 20, 2026",@NOP,Won 139-118,"Won /
+ Over",4.5,224.5
+MIN,"Feb 20, 2026",DAL,Won 122-111,"Lost /
+ Under",-13.5,239.5
+POR,"Feb 20, 2026",DEN,Lost 103-157,"Lost /
+ Over",1.5,241.5
+LAL,"Feb 20, 2026",LAC,Won 125-122,"Lost /
+ Over",-7.5,228.5
+BKN,"Feb 20, 2026",@OKC,Lost 86-105,"Lost /
+ Under",16.5,215.5
+MEM,"Feb 20, 2026",UTA,Won 123-114,"Won /
+ Under",-2.5,237.5
+UTA,"Feb 20, 2026",@MEM,Lost 114-123,"Lost /
+ Under",2.5,237.5
+IND,"Feb 20, 2026",@WAS,Lost 118-131,"Lost /
+ Over",1.5,230.5
+CLE,"Feb 20, 2026",@CHA,Won 118-113,"Lost /
+ Over",-5.5,229.5
+MEM,"Feb 21, 2026",@MIA,Lost 120-136,"Lost /
+ Over",11.5,238.5
+HOU,"Feb 21, 2026",@NYK,Lost 106-108,"Won /
+ Under",3.5,220.5
+PHX,"Feb 21, 2026",ORL,Won 113-110,"Lost /
+ Over",-3.5,218.5
+NOP,"Feb 21, 2026",PHI,Won 126-111,"Won /
+ Over",3.5,235.5
+ORL,"Feb 21, 2026",@PHX,Lost 110-113,"Won /
+ Over",3.5,218.5
+SAS,"Feb 21, 2026",SAC,Won 139-122,"Lost /
+ Over",-18.5,230.5
+SAC,"Feb 21, 2026",@SAS,Lost 122-139,"Won /
+ Over",18.5,230.5
+PHI,"Feb 21, 2026",@NOP,Lost 111-126,"Lost /
+ Over",-3.5,235.5
+DET,"Feb 21, 2026",@CHI,Won 126-110,"Won /
+ Over",-10.5,234.5
+NYK,"Feb 21, 2026",HOU,Won 108-106,"Lost /
+ Under",-3.5,220.5
+MIA,"Feb 21, 2026",MEM,Won 136-120,"Won /
+ Over",-11.5,238.5
+CHI,"Feb 21, 2026",DET,Lost 110-126,"Lost /
+ Over",10.5,234.5
+BOS,"Feb 22, 2026",@LAL,Won 111-89,"Won /
+ Under",-1.5,230.5
+TOR,"Feb 22, 2026",@MIL,Won 122-94,"Won /
+ Under",-4.5,219.5
+PHI,"Feb 22, 2026",@MIN,Won 135-108,"Won /
+ Over",9.5,239.5
+ATL,"Feb 22, 2026",BKN,Won 115-104,"Won /
+ Under",-9.5,227.5
+CHI,"Feb 22, 2026",NYK,Lost 99-105,"Won /
+ Under",9.5,234.5
+LAC,"Feb 22, 2026",ORL,Lost 109-111,"Lost /
+ Over",-4.5,215.5
+DAL,"Feb 22, 2026",@IND,Won 134-130,"Won /
+ Over",-1.5,237.5
+MIN,"Feb 22, 2026",PHI,Lost 108-135,"Lost /
+ Over",-9.5,239.5
+POR,"Feb 22, 2026",@PHX,Won 92-77,"Won /
+ Under",-3.5,224.5
+PHX,"Feb 22, 2026",POR,Lost 77-92,"Lost /
+ Under",3.5,224.5
+BKN,"Feb 22, 2026",@ATL,Lost 104-115,"Lost /
+ Under",9.5,227.5
+LAL,"Feb 22, 2026",BOS,Lost 89-111,"Lost /
+ Under",1.5,230.5
+OKC,"Feb 22, 2026",CLE,Won 121-113,"Won /
+ Over",4.5,228.5
+NYK,"Feb 22, 2026",@CHI,Won 105-99,"Lost /
+ Under",-9.5,234.5
+IND,"Feb 22, 2026",DAL,Lost 130-134,"Lost /
+ Over",1.5,237.5
+GSW,"Feb 22, 2026",DEN,Won 128-117,"Won /
+ Over",6.5,228.5
+DEN,"Feb 22, 2026",@GSW,Lost 117-128,"Lost /
+ Over",-6.5,228.5
+ORL,"Feb 22, 2026",@LAC,Won 111-109,"Won /
+ Over",4.5,215.5
+CLE,"Feb 22, 2026",@OKC,Lost 113-121,"Lost /
+ Over",-4.5,228.5
+MIL,"Feb 22, 2026",TOR,Lost 94-122,"Lost /
+ Under",4.5,219.5
+CHA,"Feb 22, 2026",@WAS,Won 129-112,"Won /
+ Over",-10.5,223.5
+WAS,"Feb 22, 2026",CHA,Lost 112-129,"Lost /
+ Over",10.5,223.5
+MEM,"Feb 23, 2026",SAC,Lost 114-123,"Lost /
+ Over",-2.5,233.5
+DET,"Feb 23, 2026",SAS,Lost 103-114,"Lost /
+ Under",-1.5,232.5
+UTA,"Feb 23, 2026",@HOU,Lost 105-125,"Lost /
+ Over",13.5,228.5
+HOU,"Feb 23, 2026",UTA,Won 125-105,"Won /
+ Over",-13.5,228.5
+SAC,"Feb 23, 2026",@MEM,Won 123-114,"Won /
+ Over",2.5,233.5
+SAS,"Feb 23, 2026",@DET,Won 114-103,"Won /
+ Under",1.5,232.5
+ORL,"Feb 24, 2026",@LAL,Won 110-109,"Won /
+ Under",6.5,228.5
+MIL,"Feb 24, 2026",MIA,Won 128-117,"Won /
+ Over",6.5,229.5
+MIA,"Feb 24, 2026",@MIL,Lost 117-128,"Lost /
+ Over",-6.5,229.5
+POR,"Feb 24, 2026",MIN,Lost 121-124,"Won /
+ Over",6.5,234.5
+DAL,"Feb 24, 2026",@BKN,Won 123-114,"Won /
+ Over",-1.5,226.5
+CLE,"Feb 24, 2026",NYK,Won 109-94,"Won /
+ Under",-4.5,231.5
+LAL,"Feb 24, 2026",ORL,Lost 109-110,"Lost /
+ Under",-6.5,228.5
+PHI,"Feb 24, 2026",@IND,Won 135-114,"Won /
+ Over",-10.5,234.5
+IND,"Feb 24, 2026",PHI,Lost 114-135,"Lost /
+ Over",10.5,234.5
+BOS,"Feb 24, 2026",@PHX,Won 97-81,"Won /
+ Under",-5.5,207.5
+MIN,"Feb 24, 2026",@POR,Won 124-121,"Lost /
+ Over",-6.5,234.5
+WAS,"Feb 24, 2026",@ATL,Lost 98-119,"Lost /
+ Under",12.5,236.5
+PHX,"Feb 24, 2026",BOS,Lost 81-97,"Lost /
+ Under",5.5,207.5
+NYK,"Feb 24, 2026",@CLE,Lost 94-109,"Lost /
+ Under",4.5,231.5
+GSW,"Feb 24, 2026",@NOP,Lost 109-113,"Lost /
+ Under",-1.5,229.5
+CHA,"Feb 24, 2026",@CHI,Won 131-99,"Won /
+ Under",-8.5,232.5
+BKN,"Feb 24, 2026",DAL,Lost 114-123,"Lost /
+ Over",1.5,226.5
+NOP,"Feb 24, 2026",GSW,Won 113-109,"Won /
+ Under",1.5,229.5
+TOR,"Feb 24, 2026",OKC,Lost 107-116,"Lost /
+ Over",-1.5,216.5
+OKC,"Feb 24, 2026",@TOR,Won 116-107,"Won /
+ Over",1.5,216.5
+ATL,"Feb 24, 2026",WAS,Won 119-98,"Won /
+ Under",-12.5,236.5
+CHI,"Feb 24, 2026",CHA,Lost 99-131,"Lost /
+ Under",8.5,232.5
+CLE,"Feb 25, 2026",@MIL,Lost 116-118,"Lost /
+ Over",-3.5,220.5
+HOU,"Feb 25, 2026",SAC,Won 128-97,"Won /
+ Over",-13.5,222.5
+TOR,"Feb 25, 2026",SAS,Lost 107-110,"Won /
+ Under",5.5,230.5
+DEN,"Feb 25, 2026",BOS,Won 103-84,"Won /
+ Under",-3.5,228.5
+MIL,"Feb 25, 2026",CLE,Won 118-116,"Won /
+ Over",3.5,220.5
+BOS,"Feb 25, 2026",@DEN,Lost 84-103,"Lost /
+ Under",3.5,228.5
+MEM,"Feb 25, 2026",GSW,Lost 112-133,"Lost /
+ Over",3.5,227.5
+SAC,"Feb 25, 2026",@HOU,Lost 97-128,"Lost /
+ Over",13.5,222.5
+DET,"Feb 25, 2026",OKC,Won 124-116,"Lost /
+ Over",-10.5,220.5
+SAS,"Feb 25, 2026",@TOR,Won 110-107,"Lost /
+ Under",-5.5,230.5
+GSW,"Feb 25, 2026",@MEM,Won 133-112,"Won /
+ Over",-3.5,227.5
+OKC,"Feb 25, 2026",@DET,Lost 116-124,"Won /
+ Over",10.5,220.5
+PHX,"Feb 26, 2026",LAL,Won 113-110,"Won /
+ Under",5.5,223.5
+PHI,"Feb 26, 2026",MIA,Won 124-117,"Won /
+ Over",-2.5,240.5
+LAC,"Feb 26, 2026",MIN,Lost 88-94,"Won /
+ Under",8.5,220.5
+SAS,"Feb 26, 2026",@BKN,Won 126-110,"Won /
+ Over",-10.5,223.5
+HOU,"Feb 26, 2026",@ORL,Won 113-108,"Won /
+ Over",-2.5,214.5
+CHA,"Feb 26, 2026",@IND,Won 133-109,"Won /
+ Over",-12.5,229.5
+MIA,"Feb 26, 2026",@PHI,Lost 117-124,"Lost /
+ Over",2.5,240.5
+LAL,"Feb 26, 2026",@PHX,Lost 110-113,"Lost /
+ Under",-5.5,223.5
+CHI,"Feb 26, 2026",POR,Lost 112-121,"Lost /
+ Under",3.5,235.5
+DAL,"Feb 26, 2026",SAC,Lost 121-130,"Lost /
+ Over",-7.5,236.5
+BKN,"Feb 26, 2026",SAS,Lost 110-126,"Lost /
+ Over",10.5,223.5
+WAS,"Feb 26, 2026",@ATL,Lost 96-126,"Lost /
+ Under",10.5,236.5
+UTA,"Feb 26, 2026",NOP,Lost 118-129,"Lost /
+ Over",6.5,245.5
+POR,"Feb 26, 2026",@CHI,Won 121-112,"Won /
+ Under",-3.5,235.5
+SAC,"Feb 26, 2026",@DAL,Won 130-121,"Won /
+ Over",7.5,236.5
+ORL,"Feb 26, 2026",HOU,Lost 108-113,"Lost /
+ Over",2.5,214.5
+MIN,"Feb 26, 2026",@LAC,Won 94-88,"Lost /
+ Under",-8.5,220.5
+NOP,"Feb 26, 2026",@UTA,Won 129-118,"Won /
+ Over",-6.5,245.5
+ATL,"Feb 26, 2026",WAS,Won 126-96,"Won /
+ Under",-10.5,236.5
+IND,"Feb 26, 2026",CHA,Lost 109-133,"Lost /
+ Over",12.5,229.5
+NYK,"Feb 27, 2026",@MIL,Won 127-98,"Won /
+ Over",-8.5,219.5
+BOS,"Feb 27, 2026",BKN,Won 148-111,"Won /
+ Over",-16.5,208.5
+MIL,"Feb 27, 2026",NYK,Lost 98-127,"Lost /
+ Over",8.5,219.5
+BKN,"Feb 27, 2026",@BOS,Lost 111-148,"Lost /
+ Over",16.5,208.5
+DET,"Feb 27, 2026",CLE,Won 122-119,"Lost /
+ Over",-8.5,227.5
+MEM,"Feb 27, 2026",@DAL,Won 124-105,"Won /
+ Under",4.5,241.5
+OKC,"Feb 27, 2026",DEN,Won 127-121,"Lost /
+ Over",-6.5,234.5
+DEN,"Feb 27, 2026",@OKC,Lost 121-127,"Won /
+ Over",6.5,234.5
+DAL,"Feb 27, 2026",MEM,Lost 105-124,"Lost /
+ Under",-4.5,241.5
+CLE,"Feb 27, 2026",@DET,Lost 119-122,"Won /
+ Over",8.5,227.5
+GSW,"Feb 28, 2026",LAL,Lost 101-129,"Lost /
+ Over",3.5,225.5
+HOU,"Feb 28, 2026",@MIA,Lost 105-115,"Lost /
+ Under",-2.5,226.5
+CHA,"Feb 28, 2026",POR,Won 109-93,"Won /
+ Under",-6.5,228.5
+UTA,"Feb 28, 2026",NOP,Lost 105-115,"Lost /
+ Under",5.5,244.5
+LAL,"Feb 28, 2026",@GSW,Won 129-101,"Won /
+ Over",-3.5,225.5
+MIA,"Feb 28, 2026",HOU,Won 115-105,"Won /
+ Under",2.5,226.5
+WAS,"Feb 28, 2026",TOR,Lost 125-134,"Won /
+ Over",13.5,229.5
+NOP,"Feb 28, 2026",@UTA,Won 115-105,"Won /
+ Under",-5.5,244.5
+TOR,"Feb 28, 2026",@WAS,Won 134-125,"Lost /
+ Over",-13.5,229.5
+POR,"Feb 28, 2026",@CHA,Lost 93-109,"Lost /
+ Under",6.5,228.5
+SAC,"Mar 01, 2026",@LAL,Lost 104-128,"Lost /
+ Under",12.5,235.5
+CHI,"Mar 01, 2026",MIL,Won 120-97,"Won /
+ Under",2.5,231.5
+DEN,"Mar 01, 2026",MIN,Lost 108-117,"Lost /
+ Under",-2.5,240.5
+CLE,"Mar 01, 2026",@BKN,Won 106-102,"Lost /
+ Under",-12.5,224.5
+SAS,"Mar 01, 2026",@NYK,Lost 89-114,"Lost /
+ Under",-1.5,227.5
+DET,"Mar 01, 2026",@ORL,Won 106-92,"Won /
+ Under",-5.5,224.5
+MEM,"Mar 01, 2026",@IND,Won 125-106,"Won /
+ Under",1.5,236.5
+BOS,"Mar 01, 2026",PHI,Won 114-98,"Won /
+ Under",-8.5,219.5
+ATL,"Mar 01, 2026",POR,Won 135-101,"Won /
+ Over",-6.5,235.5
+LAL,"Mar 01, 2026",SAC,Won 128-104,"Won /
+ Under",-12.5,235.5
+NYK,"Mar 01, 2026",SAS,Won 114-89,"Won /
+ Under",1.5,227.5
+POR,"Mar 01, 2026",@ATL,Lost 101-135,"Lost /
+ Over",6.5,235.5
+PHI,"Mar 01, 2026",@BOS,Lost 98-114,"Lost /
+ Under",8.5,219.5
+BKN,"Mar 01, 2026",CLE,Lost 102-106,"Won /
+ Under",12.5,224.5
+LAC,"Mar 01, 2026",NOP,Won 137-117,"Won /
+ Over",-8.5,222.5
+MIL,"Mar 01, 2026",@CHI,Lost 97-120,"Lost /
+ Under",-2.5,231.5
+OKC,"Mar 01, 2026",@DAL,Won 100-87,"Lost /
+ Under",-16.5,236.5
+MIN,"Mar 01, 2026",@DEN,Won 117-108,"Won /
+ Under",2.5,240.5
+NOP,"Mar 01, 2026",@LAC,Lost 117-137,"Lost /
+ Over",8.5,222.5
+DAL,"Mar 01, 2026",OKC,Lost 87-100,"Won /
+ Under",16.5,236.5
+IND,"Mar 01, 2026",MEM,Lost 106-125,"Lost /
+ Under",-1.5,236.5
+ORL,"Mar 01, 2026",DET,Lost 92-106,"Lost /
+ Under",5.5,224.5
+BOS,"Mar 02, 2026",@MIL,Won 108-81,"Won /
+ Under",-2.5,216.5
+MIL,"Mar 02, 2026",BOS,Lost 81-108,"Lost /
+ Under",2.5,216.5
+UTA,"Mar 02, 2026",DEN,Lost 125-128,"Won /
+ Over",11.5,242.5
+LAC,"Mar 02, 2026",@GSW,Won 114-101,"Won /
+ Under",-1.5,216.5
+WAS,"Mar 02, 2026",HOU,Lost 118-123,"Won /
+ Over",14.5,224.5
+GSW,"Mar 02, 2026",LAC,Lost 101-114,"Lost /
+ Under",1.5,216.5
+DEN,"Mar 02, 2026",@UTA,Won 128-125,"Lost /
+ Over",-11.5,242.5
+HOU,"Mar 02, 2026",@WAS,Won 123-118,"Lost /
+ Over",-14.5,224.5
+NOP,"Mar 03, 2026",@LAL,Lost 101-110,"Lost /
+ Under",7.5,242.5
+BKN,"Mar 03, 2026",@MIA,Lost 98-124,"Lost /
+ Under",12.5,225.5
+MEM,"Mar 03, 2026",@MIN,Lost 110-117,"Won /
+ Under",14.5,235.5
+MIA,"Mar 03, 2026",BKN,Won 124-98,"Won /
+ Under",-12.5,225.5
+TOR,"Mar 03, 2026",NYK,Lost 95-111,"Lost /
+ Under",2.5,221.5
+WAS,"Mar 03, 2026",@ORL,Lost 109-126,"Lost /
+ Over",15.5,228.5
+SAS,"Mar 03, 2026",@PHI,Won 131-91,"Won /
+ Under",-7.5,231.5
+SAC,"Mar 03, 2026",PHX,Lost 103-114,"Lost /
+ Under",9.5,224.5
+PHX,"Mar 03, 2026",@SAC,Won 114-103,"Won /
+ Under",-9.5,224.5
+PHI,"Mar 03, 2026",SAS,Lost 91-131,"Lost /
+ Under",7.5,231.5
+DET,"Mar 03, 2026",@CLE,Lost 109-113,"Lost /
+ Under",-2.5,227.5
+LAL,"Mar 03, 2026",NOP,Won 110-101,"Won /
+ Under",-7.5,242.5
+OKC,"Mar 03, 2026",@CHI,Won 116-108,"Lost /
+ Under",-9.5,231.5
+CHA,"Mar 03, 2026",DAL,Won 117-90,"Won /
+ Under",-13.5,226.5
+CHI,"Mar 03, 2026",OKC,Lost 108-116,"Won /
+ Under",9.5,231.5
+NYK,"Mar 03, 2026",@TOR,Won 111-95,"Won /
+ Under",-2.5,221.5
+MIN,"Mar 03, 2026",MEM,Won 117-110,"Lost /
+ Under",-14.5,235.5
+ORL,"Mar 03, 2026",WAS,Won 126-109,"Won /
+ Over",-15.5,228.5
+CLE,"Mar 03, 2026",DET,Won 113-109,"Won /
+ Under",2.5,227.5
+DAL,"Mar 03, 2026",@CHA,Lost 90-117,"Lost /
+ Under",13.5,226.5
+ATL,"Mar 04, 2026",@MIL,Won 131-113,"Won /
+ Over",1.5,232.5
+OKC,"Mar 04, 2026",@NYK,Won 103-100,"Lost /
+ Under",-4.5,221.5
+LAC,"Mar 04, 2026",IND,Won 130-107,"Won /
+ Over",-11.5,230.5
+UTA,"Mar 04, 2026",@PHI,Lost 102-106,"Won /
+ Under",7.5,238.5
+MEM,"Mar 04, 2026",POR,Lost 114-122,"Won /
+ Over",9.5,231.5
+MIL,"Mar 04, 2026",ATL,Lost 113-131,"Lost /
+ Over",-1.5,232.5
+CHA,"Mar 04, 2026",@BOS,Won 118-89,"Won /
+ Under",6.5,214.5
+IND,"Mar 04, 2026",@LAC,Lost 107-130,"Lost /
+ Over",11.5,230.5
+NYK,"Mar 04, 2026",OKC,Lost 100-103,"Won /
+ Under",4.5,221.5
+PHI,"Mar 04, 2026",UTA,Won 106-102,"Lost /
+ Under",-7.5,238.5
+POR,"Mar 04, 2026",@MEM,Won 122-114,"Lost /
+ Over",-9.5,231.5
+BOS,"Mar 04, 2026",CHA,Lost 89-118,"Lost /
+ Under",-6.5,214.5
+DEN,"Mar 05, 2026",LAL,Won 120-113,"Won /
+ Under",-3.5,240.5
+BKN,"Mar 05, 2026",@MIA,Lost 110-126,"Lost /
+ Over",12.5,225.5
+TOR,"Mar 05, 2026",@MIN,Lost 107-115,"Lost /
+ Under",4.5,226.5
+MIA,"Mar 05, 2026",BKN,Won 126-110,"Won /
+ Over",-12.5,225.5
+DAL,"Mar 05, 2026",@ORL,Lost 114-115,"Won /
+ Under",7.5,230.5
+CHI,"Mar 05, 2026",@PHX,Won 105-103,"Won /
+ Under",10.5,224.5
+NOP,"Mar 05, 2026",@SAC,Won 133-123,"Won /
+ Over",-6.5,236.5
+DET,"Mar 05, 2026",@SAS,Lost 106-121,"Lost /
+ Under",2.5,227.5
+SAC,"Mar 05, 2026",NOP,Lost 123-133,"Lost /
+ Over",6.5,236.5
+PHX,"Mar 05, 2026",CHI,Lost 103-105,"Lost /
+ Under",-10.5,224.5
+ORL,"Mar 05, 2026",DAL,Won 115-114,"Lost /
+ Under",-7.5,230.5
+LAL,"Mar 05, 2026",@DEN,Lost 113-120,"Lost /
+ Under",3.5,240.5
+HOU,"Mar 05, 2026",GSW,Lost 113-115,"Lost /
+ Over",-9.5,214.5
+GSW,"Mar 05, 2026",@HOU,Won 115-113,"Won /
+ Over",9.5,214.5
+MIN,"Mar 05, 2026",TOR,Won 115-107,"Won /
+ Under",-4.5,226.5
+WAS,"Mar 05, 2026",UTA,Lost 112-122,"Lost /
+ Under",-3.5,240.5
+UTA,"Mar 05, 2026",@WAS,Won 122-112,"Won /
+ Under",3.5,240.5
+SAS,"Mar 05, 2026",DET,Won 121-106,"Won /
+ Under",-2.5,227.5
+IND,"Mar 06, 2026",@LAL,Lost 117-128,"Lost /
+ Over",9.5,235.5
+CHA,"Mar 06, 2026",MIA,Lost 120-128,"Lost /
+ Over",-7.5,229.5
+DEN,"Mar 06, 2026",NYK,Lost 103-142,"Lost /
+ Over",-1.5,229.5
+LAL,"Mar 06, 2026",IND,Won 128-117,"Won /
+ Over",-9.5,235.5
+NOP,"Mar 06, 2026",@PHX,Lost 116-118,"Won /
+ Over",3.5,228.5
+HOU,"Mar 06, 2026",POR,Won 106-99,"Won /
+ Under",-6.5,220.5
+LAC,"Mar 06, 2026",@SAS,Lost 112-116,"Won /
+ Over",7.5,221.5
+DAL,"Mar 06, 2026",@BOS,Lost 100-120,"Lost /
+ Under",15.5,226.5
+PHX,"Mar 06, 2026",NOP,Won 118-116,"Lost /
+ Over",-3.5,228.5
+BOS,"Mar 06, 2026",DAL,Won 120-100,"Won /
+ Under",-15.5,226.5
+NYK,"Mar 06, 2026",@DEN,Won 142-103,"Won /
+ Over",1.5,229.5
+POR,"Mar 06, 2026",@HOU,Lost 99-106,"Lost /
+ Under",6.5,220.5
+SAS,"Mar 06, 2026",LAC,Won 116-112,"Lost /
+ Over",-7.5,221.5
+MIA,"Mar 06, 2026",@CHA,Won 128-120,"Won /
+ Over",7.5,229.5
+UTA,"Mar 07, 2026",@MIL,Lost 99-113,"Lost /
+ Under",9.5,230.5
+ORL,"Mar 07, 2026",@MIN,Won 119-92,"Won /
+ Under",6.5,224.5
+DET,"Mar 07, 2026",BKN,Lost 105-107,"Lost /
+ Under",-13.5,214.5
+MIN,"Mar 07, 2026",ORL,Lost 92-119,"Lost /
+ Under",-6.5,224.5
+ATL,"Mar 07, 2026",PHI,Won 125-116,"Won /
+ Over",-6.5,234.5
+PHI,"Mar 07, 2026",@ATL,Lost 116-125,"Lost /
+ Over",6.5,234.5
+OKC,"Mar 07, 2026",GSW,Won 104-97,"Lost /
+ Under",-11.5,219.5
+MEM,"Mar 07, 2026",LAC,Lost 120-123,"Won /
+ Over",7.5,229.5
+GSW,"Mar 07, 2026",@OKC,Lost 97-104,"Won /
+ Under",11.5,219.5
+MIL,"Mar 07, 2026",UTA,Won 113-99,"Won /
+ Under",-9.5,230.5
+LAC,"Mar 07, 2026",@MEM,Won 123-120,"Lost /
+ Over",-7.5,229.5
+BKN,"Mar 07, 2026",@DET,Won 107-105,"Won /
+ Under",13.5,214.5
+NYK,"Mar 08, 2026",@LAL,Lost 97-110,"Lost /
+ Under",-5.5,226.5
+DET,"Mar 08, 2026",@MIA,Lost 110-121,"Lost /
+ Over",-1.5,230.5
+ORL,"Mar 08, 2026",@MIL,Won 130-91,"Won /
+ Over",-6.5,216.5
+LAL,"Mar 08, 2026",NYK,Won 110-97,"Won /
+ Under",5.5,226.5
+MIL,"Mar 08, 2026",ORL,Lost 91-130,"Lost /
+ Over",6.5,216.5
+POR,"Mar 08, 2026",IND,Won 131-111,"Won /
+ Over",-9.5,238.5
+CHA,"Mar 08, 2026",@PHX,Lost 99-111,"Lost /
+ Under",-4.5,218.5
+IND,"Mar 08, 2026",@POR,Lost 111-131,"Lost /
+ Over",9.5,238.5
+CHI,"Mar 08, 2026",@SAC,Lost 110-126,"Lost /
+ Under",-4.5,236.5
+HOU,"Mar 08, 2026",@SAS,Lost 120-145,"Lost /
+ Over",5.5,223.5
+CLE,"Mar 08, 2026",BOS,Lost 98-109,"Lost /
+ Under",-1.5,224.5
+BOS,"Mar 08, 2026",@CLE,Won 109-98,"Won /
+ Under",1.5,224.5
+WAS,"Mar 08, 2026",@NOP,Lost 118-138,"Lost /
+ Over",11.5,244.5
+SAC,"Mar 08, 2026",CHI,Won 126-110,"Won /
+ Under",4.5,236.5
+TOR,"Mar 08, 2026",DAL,Won 122-92,"Won /
+ Under",-9.5,233.5
+SAS,"Mar 08, 2026",HOU,Won 145-120,"Won /
+ Over",-5.5,223.5
+DAL,"Mar 08, 2026",@TOR,Lost 92-122,"Lost /
+ Under",9.5,233.5
+NOP,"Mar 08, 2026",WAS,Won 138-118,"Won /
+ Over",-11.5,244.5
+MIA,"Mar 08, 2026",DET,Won 121-110,"Won /
+ Over",1.5,230.5
+PHX,"Mar 08, 2026",CHA,Won 111-99,"Won /
+ Under",4.5,218.5
+MEM,"Mar 09, 2026",@BKN,Lost 115-126,"Lost /
+ Over",1.5,220.5
+LAC,"Mar 09, 2026",NYK,Won 126-118,"Won /
+ Over",1.5,220.5
+CLE,"Mar 09, 2026",PHI,Won 115-101,"Lost /
+ Under",-14.5,226.5
+PHI,"Mar 09, 2026",@CLE,Lost 101-115,"Won /
+ Under",14.5,226.5
+OKC,"Mar 09, 2026",DEN,Won 129-126,"Lost /
+ Over",-3.5,237.5
+UTA,"Mar 09, 2026",GSW,Won 119-116,"Won /
+ Over",6.5,224.5
+NYK,"Mar 09, 2026",@LAC,Lost 118-126,"Lost /
+ Over",-1.5,220.5
+DEN,"Mar 09, 2026",@OKC,Lost 126-129,"Won /
+ Over",3.5,237.5
+GSW,"Mar 09, 2026",@UTA,Lost 116-119,"Lost /
+ Over",-6.5,224.5
+BKN,"Mar 09, 2026",MEM,Won 126-115,"Won /
+ Over",-1.5,220.5
+MIN,"Mar 10, 2026",@LAL,Lost 106-120,"Lost /
+ Under",-2.5,229.5
+WAS,"Mar 10, 2026",@MIA,Lost 129-150,"Lost /
+ Over",15.5,235.5
+PHX,"Mar 10, 2026",@MIL,Won 129-114,"Won /
+ Over",-2.5,219.5
+LAL,"Mar 10, 2026",MIN,Won 120-106,"Won /
+ Under",2.5,229.5
+DET,"Mar 10, 2026",@BKN,Won 138-100,"Won /
+ Over",-15.5,216.5
+SAC,"Mar 10, 2026",IND,Won 114-109,"Won /
+ Under",-3.5,236.5
+MEM,"Mar 10, 2026",@PHI,Lost 129-139,"Lost /
+ Over",4.5,229.5
+MIL,"Mar 10, 2026",PHX,Lost 114-129,"Lost /
+ Over",2.5,219.5
+CHA,"Mar 10, 2026",@POR,Won 103-101,"Lost /
+ Under",-3.5,227.5
+IND,"Mar 10, 2026",@SAC,Lost 109-114,"Lost /
+ Under",3.5,236.5
+BOS,"Mar 10, 2026",@SAS,Lost 116-125,"Lost /
+ Over",3.5,221.5
+DAL,"Mar 10, 2026",@ATL,Lost 112-124,"Lost /
+ Under",9.5,240.5
+SAS,"Mar 10, 2026",BOS,Won 125-116,"Won /
+ Over",-3.5,221.5
+GSW,"Mar 10, 2026",CHI,Lost 124-130,"Lost /
+ Over",-6.5,227.5
+ATL,"Mar 10, 2026",DAL,Won 124-112,"Won /
+ Under",-9.5,240.5
+CHI,"Mar 10, 2026",@GSW,Won 130-124,"Won /
+ Over",6.5,227.5
+TOR,"Mar 10, 2026",@HOU,Lost 99-113,"Lost /
+ Under",4.5,220.5
+HOU,"Mar 10, 2026",TOR,Won 113-99,"Won /
+ Under",-4.5,220.5
+PHI,"Mar 10, 2026",MEM,Won 139-129,"Won /
+ Over",-4.5,229.5
+MIA,"Mar 10, 2026",WAS,Won 150-129,"Won /
+ Over",-15.5,235.5
+BKN,"Mar 10, 2026",DET,Lost 100-138,"Lost /
+ Over",15.5,216.5
+POR,"Mar 10, 2026",CHA,Lost 101-103,"Won /
+ Under",3.5,227.5
+LAC,"Mar 11, 2026",MIN,Won 153-128,"Won /
+ Over",-1.5,226.5
+UTA,"Mar 11, 2026",NYK,Lost 117-134,"Lost /
+ Over",13.5,231.5
+CLE,"Mar 11, 2026",@ORL,Lost 122-128,"Lost /
+ Over",-3.5,226.5
+CHA,"Mar 11, 2026",@SAC,Won 117-109,"Lost /
+ Over",-14.5,224.5
+ORL,"Mar 11, 2026",CLE,Won 128-122,"Won /
+ Over",3.5,226.5
+TOR,"Mar 11, 2026",@NOP,Lost 111-122,"Lost /
+ Under",-2.5,235.5
+HOU,"Mar 11, 2026",@DEN,Lost 93-129,"Lost /
+ Under",6.5,232.5
+DEN,"Mar 11, 2026",HOU,Won 129-93,"Won /
+ Under",-6.5,232.5
+MIN,"Mar 11, 2026",@LAC,Lost 128-153,"Lost /
+ Over",1.5,226.5
+NOP,"Mar 11, 2026",TOR,Won 122-111,"Won /
+ Under",2.5,235.5
+NYK,"Mar 11, 2026",@UTA,Won 134-117,"Won /
+ Over",-13.5,231.5
+SAC,"Mar 11, 2026",CHA,Lost 109-117,"Won /
+ Over",14.5,224.5
+CHI,"Mar 12, 2026",@LAL,Lost 130-142,"Lost /
+ Over",10.5,240.5
+MIL,"Mar 12, 2026",@MIA,Lost 105-112,"Lost /
+ Under",5.5,233.5
+MIA,"Mar 12, 2026",MIL,Won 112-105,"Won /
+ Under",-5.5,233.5
+ATL,"Mar 12, 2026",BKN,Won 108-97,"Lost /
+ Under",-15.5,226.5
+WAS,"Mar 12, 2026",@ORL,Lost 131-136,"Won /
+ Over",14.5,236.5
+PHX,"Mar 12, 2026",@IND,Won 123-108,"Won /
+ Over",-9.5,222.5
+DET,"Mar 12, 2026",PHI,Won 131-109,"Won /
+ Over",-14.5,224.5
+IND,"Mar 12, 2026",PHX,Lost 108-123,"Lost /
+ Over",9.5,222.5
+DEN,"Mar 12, 2026",@SAS,Won 136-131,"Won /
+ Over",3.5,241.5
+BKN,"Mar 12, 2026",@ATL,Lost 97-108,"Won /
+ Under",15.5,226.5
+OKC,"Mar 12, 2026",BOS,Won 104-102,"Lost /
+ Under",-8.5,216.5
+LAL,"Mar 12, 2026",CHI,Won 142-130,"Won /
+ Over",-10.5,240.5
+MEM,"Mar 12, 2026",DAL,Lost 112-120,"Lost /
+ Under",5.5,239.5
+SAS,"Mar 12, 2026",DEN,Lost 131-136,"Lost /
+ Over",-3.5,241.5
+BOS,"Mar 12, 2026",@OKC,Lost 102-104,"Won /
+ Under",8.5,216.5
+DAL,"Mar 12, 2026",@MEM,Won 120-112,"Won /
+ Under",-5.5,239.5
+ORL,"Mar 12, 2026",WAS,Won 136-131,"Lost /
+ Over",-14.5,236.5
+PHI,"Mar 12, 2026",@DET,Lost 109-131,"Lost /
+ Over",14.5,224.5
+GSW,"Mar 13, 2026",MIN,Lost 117-127,"Lost /
+ Over",4.5,224.5
+IND,"Mar 13, 2026",NYK,Lost 92-101,"Won /
+ Under",12.5,228.5
+NYK,"Mar 13, 2026",@IND,Won 101-92,"Lost /
+ Under",-12.5,228.5
+TOR,"Mar 13, 2026",PHX,Won 122-115,"Won /
+ Over",-5.5,221.5
+UTA,"Mar 13, 2026",@POR,Lost 114-124,"Won /
+ Over",15.5,235.5
+DAL,"Mar 13, 2026",CLE,Lost 105-138,"Lost /
+ Over",13.5,236.5
+HOU,"Mar 13, 2026",NOP,Won 107-105,"Lost /
+ Under",-5.5,230.5
+LAC,"Mar 13, 2026",CHI,Won 119-108,"Lost /
+ Under",-13.5,235.5
+CLE,"Mar 13, 2026",@DAL,Won 138-105,"Won /
+ Over",-13.5,236.5
+MIN,"Mar 13, 2026",@GSW,Won 127-117,"Won /
+ Over",-4.5,224.5
+NOP,"Mar 13, 2026",@HOU,Lost 105-107,"Won /
+ Under",5.5,230.5
+CHI,"Mar 13, 2026",@LAC,Lost 108-119,"Won /
+ Under",13.5,235.5
+PHX,"Mar 13, 2026",@TOR,Lost 115-122,"Lost /
+ Over",5.5,221.5
+POR,"Mar 13, 2026",UTA,Won 124-114,"Lost /
+ Over",-15.5,235.5
+DET,"Mar 13, 2026",MEM,Won 126-110,"Lost /
+ Over",-16.5,233.5
+MEM,"Mar 13, 2026",@DET,Lost 110-126,"Won /
+ Over",16.5,233.5
+DEN,"Mar 14, 2026",@LAL,Lost 125-127,"Lost /
+ Over",-1.5,244.5
+ORL,"Mar 14, 2026",@MIA,Won 121-117,"Won /
+ Over",4.5,236.5
+ATL,"Mar 14, 2026",MIL,Won 122-99,"Won /
+ Under",-11.5,228.5
+PHI,"Mar 14, 2026",BKN,Won 104-97,"Lost /
+ Under",-8.5,217.5
+MIA,"Mar 14, 2026",ORL,Lost 117-121,"Lost /
+ Over",-4.5,236.5
+BKN,"Mar 14, 2026",@PHI,Lost 97-104,"Won /
+ Under",8.5,217.5
+LAC,"Mar 14, 2026",SAC,Lost 109-118,"Lost /
+ Under",-13.5,231.5
+CHA,"Mar 14, 2026",@SAS,Lost 102-115,"Lost /
+ Under",6.5,232.5
+MIL,"Mar 14, 2026",@ATL,Lost 99-122,"Lost /
+ Under",11.5,228.5
+WAS,"Mar 14, 2026",@BOS,Lost 100-111,"Won /
+ Under",20.5,232.5
+LAL,"Mar 14, 2026",DEN,Won 127-125,"Won /
+ Over",1.5,244.5
+SAC,"Mar 14, 2026",@LAC,Won 118-109,"Won /
+ Under",13.5,231.5
+BOS,"Mar 14, 2026",WAS,Won 111-100,"Lost /
+ Under",-20.5,232.5
+SAS,"Mar 14, 2026",CHA,Won 115-102,"Won /
+ Under",-6.5,232.5
+IND,"Mar 15, 2026",@MIL,Lost 123-134,"Lost /
+ Over",7.5,227.5
+OKC,"Mar 15, 2026",MIN,Won 116-103,"Won /
+ Under",-8.5,227.5
+GSW,"Mar 15, 2026",@NYK,Lost 107-110,"Won /
+ Under",14.5,218.5
+MIL,"Mar 15, 2026",IND,Won 134-123,"Won /
+ Over",-7.5,227.5
+POR,"Mar 15, 2026",@PHI,Lost 103-109,"Lost /
+ Under",-8.5,228.5
+PHI,"Mar 15, 2026",POR,Won 109-103,"Won /
+ Under",8.5,228.5
+UTA,"Mar 15, 2026",@SAC,Lost 111-116,"Lost /
+ Under",3.5,230.5
+DAL,"Mar 15, 2026",@CLE,Won 130-120,"Won /
+ Over",14.5,233.5
+CLE,"Mar 15, 2026",DAL,Lost 120-130,"Lost /
+ Over",-14.5,233.5
+NYK,"Mar 15, 2026",GSW,Won 110-107,"Lost /
+ Under",-14.5,218.5
+MIN,"Mar 15, 2026",@OKC,Lost 103-116,"Lost /
+ Under",8.5,227.5
+DET,"Mar 15, 2026",@TOR,Lost 108-119,"Lost /
+ Over",-3.5,224.5
+SAC,"Mar 15, 2026",UTA,Won 116-111,"Won /
+ Under",-3.5,230.5
+TOR,"Mar 15, 2026",DET,Won 119-108,"Won /
+ Over",3.5,224.5
+HOU,"Mar 16, 2026",LAL,Lost 92-100,"Lost /
+ Under",1.5,223.5
+POR,"Mar 16, 2026",@BKN,Won 114-95,"Won /
+ Under",-10.5,221.5
+ATL,"Mar 16, 2026",ORL,Won 124-112,"Won /
+ Over",-3.5,232.5
+BOS,"Mar 16, 2026",PHX,Won 120-112,"Lost /
+ Over",-8.5,216.5
+BKN,"Mar 16, 2026",POR,Lost 95-114,"Lost /
+ Under",10.5,221.5
+LAC,"Mar 16, 2026",SAS,Lost 115-119,"Won /
+ Under",8.5,234.5
+ORL,"Mar 16, 2026",@ATL,Lost 112-124,"Lost /
+ Over",3.5,232.5
+PHX,"Mar 16, 2026",@BOS,Lost 112-120,"Won /
+ Over",8.5,216.5
+DAL,"Mar 16, 2026",@NOP,Lost 111-129,"Lost /
+ Under",8.5,240.5
+MEM,"Mar 16, 2026",@CHI,Lost 107-132,"Lost /
+ Under",7.5,243.5
+NOP,"Mar 16, 2026",DAL,Won 129-111,"Won /
+ Under",-8.5,240.5
+WAS,"Mar 16, 2026",GSW,Lost 117-125,"Lost /
+ Over",7.5,234.5
+LAL,"Mar 16, 2026",@HOU,Won 100-92,"Won /
+ Under",-1.5,223.5
+SAS,"Mar 16, 2026",@LAC,Won 119-115,"Lost /
+ Under",-8.5,234.5
+CHI,"Mar 16, 2026",MEM,Won 132-107,"Won /
+ Under",-7.5,243.5
+GSW,"Mar 16, 2026",@WAS,Won 125-117,"Won /
+ Over",-7.5,234.5
+CHA,"Mar 17, 2026",MIA,Won 136-106,"Won /
+ Over",-5.5,236.5
+CLE,"Mar 17, 2026",@MIL,Won 123-116,"Lost /
+ Over",-12.5,226.5
+PHX,"Mar 17, 2026",@MIN,Lost 104-116,"Lost /
+ Under",3.5,221.5
+IND,"Mar 17, 2026",@NYK,Lost 110-136,"Lost /
+ Over",13.5,222.5
+OKC,"Mar 17, 2026",@ORL,Won 113-108,"Lost /
+ Under",-9.5,224.5
+NYK,"Mar 17, 2026",IND,Won 136-110,"Won /
+ Over",-13.5,222.5
+DEN,"Mar 17, 2026",PHI,Won 124-96,"Won /
+ Under",-15.5,235.5
+MIN,"Mar 17, 2026",PHX,Won 116-104,"Won /
+ Under",-3.5,221.5
+SAS,"Mar 17, 2026",@SAC,Won 132-104,"Won /
+ Over",-13.5,233.5
+SAC,"Mar 17, 2026",SAS,Lost 104-132,"Lost /
+ Over",13.5,233.5
+MIL,"Mar 17, 2026",CLE,Lost 116-123,"Won /
+ Over",12.5,226.5
+PHI,"Mar 17, 2026",@DEN,Lost 96-124,"Lost /
+ Under",15.5,235.5
+ORL,"Mar 17, 2026",OKC,Lost 108-113,"Won /
+ Under",9.5,224.5
+DET,"Mar 17, 2026",@WAS,Won 130-117,"Lost /
+ Over",-19.5,233.5
+WAS,"Mar 17, 2026",DET,Lost 117-130,"Won /
+ Over",19.5,233.5
+MIA,"Mar 17, 2026",@CHA,Lost 106-136,"Lost /
+ Over",5.5,236.5
+HOU,"Mar 18, 2026",LAL,Lost 116-124,"Lost /
+ Over",-1.5,223.5
+UTA,"Mar 18, 2026",@MIN,Lost 111-147,"Lost /
+ Over",12.5,231.5
+OKC,"Mar 18, 2026",@BKN,Won 121-92,"Won /
+ Under",-19.5,216.5
+POR,"Mar 18, 2026",@IND,Won 127-119,"Lost /
+ Over",-11.5,233.5
+IND,"Mar 18, 2026",POR,Lost 119-127,"Won /
+ Over",11.5,233.5
+DAL,"Mar 18, 2026",ATL,Lost 120-135,"Lost /
+ Over",8.5,239.5
+GSW,"Mar 18, 2026",@BOS,Lost 99-120,"Lost /
+ Over",11.5,216.5
+LAC,"Mar 18, 2026",@NOP,Lost 109-124,"Lost /
+ Under",-2.5,236.5
+TOR,"Mar 18, 2026",@CHI,Won 139-109,"Won /
+ Over",-7.5,237.5
+ATL,"Mar 18, 2026",@DAL,Won 135-120,"Won /
+ Over",-8.5,239.5
+MEM,"Mar 18, 2026",DEN,Won 125-118,"Won /
+ Under",12.5,246.5
+BOS,"Mar 18, 2026",GSW,Won 120-99,"Won /
+ Over",-11.5,216.5
+LAL,"Mar 18, 2026",@HOU,Won 124-116,"Won /
+ Over",1.5,223.5
+NOP,"Mar 18, 2026",LAC,Won 124-109,"Won /
+ Under",2.5,236.5
+BKN,"Mar 18, 2026",OKC,Lost 92-121,"Lost /
+ Under",19.5,216.5
+CHI,"Mar 18, 2026",TOR,Lost 109-139,"Lost /
+ Over",7.5,237.5
+MIN,"Mar 18, 2026",UTA,Won 147-111,"Won /
+ Over",-12.5,231.5
+DEN,"Mar 18, 2026",@MEM,Lost 118-125,"Lost /
+ Under",-12.5,246.5
+MIA,"Mar 19, 2026",LAL,Lost 126-134,"Lost /
+ Over",-3.5,242.5
+LAL,"Mar 19, 2026",@MIA,Won 134-126,"Won /
+ Over",3.5,242.5
+UTA,"Mar 19, 2026",MIL,Won 128-96,"Won /
+ Under",5.5,227.5
+CHA,"Mar 19, 2026",ORL,Won 130-111,"Won /
+ Over",-5.5,225.5
+SAC,"Mar 19, 2026",PHI,Lost 118-139,"Lost /
+ Over",2.5,228.5
+SAS,"Mar 19, 2026",PHX,Won 101-100,"Lost /
+ Under",-9.5,228.5
+PHI,"Mar 19, 2026",@SAC,Won 139-118,"Won /
+ Over",-2.5,228.5
+PHX,"Mar 19, 2026",@SAS,Lost 100-101,"Won /
+ Under",9.5,228.5
+CHI,"Mar 19, 2026",CLE,Lost 110-115,"Won /
+ Under",9.5,236.5
+LAC,"Mar 19, 2026",@NOP,Lost 99-105,"Lost /
+ Under",4.5,228.5
+CLE,"Mar 19, 2026",@CHI,Won 115-110,"Lost /
+ Under",-9.5,236.5
+NOP,"Mar 19, 2026",LAC,Won 105-99,"Won /
+ Under",-4.5,228.5
+MIL,"Mar 19, 2026",@UTA,Lost 96-128,"Lost /
+ Under",-5.5,227.5
+DET,"Mar 19, 2026",@WAS,Won 117-95,"Won /
+ Under",-14.5,231.5
+WAS,"Mar 19, 2026",DET,Lost 95-117,"Lost /
+ Under",14.5,231.5
+ORL,"Mar 19, 2026",@CHA,Lost 111-130,"Lost /
+ Over",5.5,225.5
+POR,"Mar 20, 2026",@MIN,Won 108-104,"Won /
+ Under",1.5,231.5
+NYK,"Mar 20, 2026",@BKN,Won 93-92,"Lost /
+ Under",-18.5,214.5
+BKN,"Mar 20, 2026",NYK,Lost 92-93,"Won /
+ Under",18.5,214.5
+MIN,"Mar 20, 2026",POR,Lost 104-108,"Lost /
+ Under",-1.5,231.5
+HOU,"Mar 20, 2026",ATL,Won 117-95,"Won /
+ Under",-2.5,227.5
+MEM,"Mar 20, 2026",BOS,Lost 112-117,"Won /
+ Under",15.5,230.5
+TOR,"Mar 20, 2026",@DEN,Lost 115-121,"Won /
+ Under",6.5,239.5
+DET,"Mar 20, 2026",GSW,Won 115-101,"Won /
+ Under",-6.5,219.5
+ATL,"Mar 20, 2026",@HOU,Lost 95-117,"Lost /
+ Under",2.5,227.5
+DEN,"Mar 20, 2026",TOR,Won 121-115,"Lost /
+ Under",-6.5,239.5
+BOS,"Mar 20, 2026",@MEM,Won 117-112,"Lost /
+ Under",-15.5,230.5
+GSW,"Mar 20, 2026",@DET,Lost 101-115,"Lost /
+ Under",6.5,219.5
+ORL,"Mar 21, 2026",LAL,Lost 104-105,"Won /
+ Under",2.5,234.5
+HOU,"Mar 21, 2026",MIA,Won 123-122,"Lost /
+ Over",-2.5,228.5
+PHX,"Mar 21, 2026",MIL,Lost 105-108,"Lost /
+ Under",-11.5,218.5
+LAL,"Mar 21, 2026",@ORL,Won 105-104,"Lost /
+ Under",-2.5,234.5
+SAS,"Mar 21, 2026",IND,Won 134-119,"Lost /
+ Over",-16.5,235.5
+UTA,"Mar 21, 2026",PHI,Lost 116-126,"Lost /
+ Over",5.5,228.5
+MIL,"Mar 21, 2026",@PHX,Won 108-105,"Won /
+ Under",11.5,218.5
+IND,"Mar 21, 2026",@SAS,Lost 119-134,"Won /
+ Over",16.5,235.5
+GSW,"Mar 21, 2026",@ATL,Lost 110-126,"Lost /
+ Over",7.5,228.5
+NOP,"Mar 21, 2026",CLE,Lost 106-111,"Lost /
+ Under",4.5,237.5
+CLE,"Mar 21, 2026",@NOP,Won 111-106,"Won /
+ Under",-4.5,237.5
+LAC,"Mar 21, 2026",@DAL,Won 138-131,"Lost /
+ Over",-7.5,233.5
+ATL,"Mar 21, 2026",GSW,Won 126-110,"Won /
+ Over",-7.5,228.5
+MIA,"Mar 21, 2026",@HOU,Lost 122-123,"Won /
+ Over",2.5,228.5
+DAL,"Mar 21, 2026",LAC,Lost 131-138,"Won /
+ Over",7.5,233.5
+WAS,"Mar 21, 2026",OKC,Lost 111-132,"Won /
+ Over",21.5,230.5
+PHI,"Mar 21, 2026",@UTA,Won 126-116,"Won /
+ Over",-5.5,228.5
+CHA,"Mar 21, 2026",MEM,Won 124-101,"Won /
+ Under",-18.5,233.5
+OKC,"Mar 21, 2026",@WAS,Won 132-111,"Lost /
+ Over",-21.5,230.5
+MEM,"Mar 21, 2026",@CHA,Lost 101-124,"Lost /
+ Under",18.5,233.5
+BOS,"Mar 22, 2026",MIN,Lost 92-102,"Lost /
+ Under",-10.5,222.5
+SAC,"Mar 22, 2026",BKN,Won 126-122,"Lost /
+ Over",-6.5,218.5
+WAS,"Mar 22, 2026",@NYK,Lost 113-145,"Lost /
+ Over",22.5,229.5
+TOR,"Mar 22, 2026",@PHX,Lost 98-120,"Lost /
+ Under",-4.5,219.5
+DEN,"Mar 22, 2026",POR,Won 128-112,"Won /
+ Over",-8.5,237.5
+BKN,"Mar 22, 2026",@SAC,Lost 122-126,"Won /
+ Over",6.5,218.5
+MIN,"Mar 22, 2026",@BOS,Won 102-92,"Won /
+ Under",10.5,222.5
+POR,"Mar 22, 2026",@DEN,Lost 112-128,"Lost /
+ Over",8.5,237.5
+PHX,"Mar 22, 2026",TOR,Won 120-98,"Won /
+ Under",4.5,219.5
+NYK,"Mar 22, 2026",WAS,Won 145-113,"Won /
+ Over",-22.5,229.5
+DET,"Mar 23, 2026",LAL,Won 113-110,"Won /
+ Under",1.5,224.5
+SAS,"Mar 23, 2026",@MIA,Won 136-111,"Won /
+ Over",-3.5,244.5
+LAC,"Mar 23, 2026",MIL,Won 129-96,"Won /
+ Over",-13.5,221.5
+POR,"Mar 23, 2026",BKN,Won 134-99,"Won /
+ Over",-15.5,218.5
+IND,"Mar 23, 2026",@ORL,Won 128-126,"Won /
+ Over",10.5,233.5
+ORL,"Mar 23, 2026",IND,Lost 126-128,"Lost /
+ Over",-10.5,233.5
+OKC,"Mar 23, 2026",@PHI,Won 123-103,"Won /
+ Under",-16.5,226.5
+BKN,"Mar 23, 2026",@POR,Lost 99-134,"Lost /
+ Over",15.5,218.5
+MIA,"Mar 23, 2026",SAS,Lost 111-136,"Lost /
+ Over",3.5,244.5
+MEM,"Mar 23, 2026",@ATL,Lost 107-146,"Lost /
+ Over",13.5,238.5
+HOU,"Mar 23, 2026",@CHI,Lost 124-132,"Lost /
+ Over",-8.5,233.5
+GSW,"Mar 23, 2026",@DAL,Won 137-131,"Won /
+ Over",-3.5,230.5
+DAL,"Mar 23, 2026",GSW,Lost 131-137,"Lost /
+ Over",3.5,230.5
+CHI,"Mar 23, 2026",HOU,Won 132-124,"Won /
+ Over",8.5,233.5
+MIL,"Mar 23, 2026",@LAC,Lost 96-129,"Lost /
+ Over",13.5,221.5
+PHI,"Mar 23, 2026",OKC,Lost 103-123,"Lost /
+ Under",16.5,226.5
+UTA,"Mar 23, 2026",TOR,Lost 127-143,"Lost /
+ Over",8.5,230.5
+TOR,"Mar 23, 2026",@UTA,Won 143-127,"Won /
+ Over",-8.5,230.5
+ATL,"Mar 23, 2026",MEM,Won 146-107,"Won /
+ Over",-13.5,238.5
+LAL,"Mar 23, 2026",@DET,Lost 110-113,"Lost /
+ Under",-1.5,224.5
+NOP,"Mar 24, 2026",@NYK,Lost 116-121,"Won /
+ Over",8.5,229.5
+CLE,"Mar 24, 2026",ORL,Won 136-131,"Lost /
+ Over",-10.5,230.5
+DEN,"Mar 24, 2026",@PHX,Won 125-123,"Lost /
+ Over",-5.5,233.5
+CHA,"Mar 24, 2026",SAC,Won 134-90,"Won /
+ Under",-18.5,233.5
+ORL,"Mar 24, 2026",@CLE,Lost 131-136,"Won /
+ Over",10.5,230.5
+NYK,"Mar 24, 2026",NOP,Won 121-116,"Lost /
+ Over",-8.5,229.5
+PHX,"Mar 24, 2026",DEN,Lost 123-125,"Won /
+ Over",5.5,233.5
+SAC,"Mar 24, 2026",@CHA,Lost 90-134,"Lost /
+ Under",18.5,233.5
+IND,"Mar 25, 2026",LAL,Lost 130-137,"Won /
+ Over",8.5,241.5
+CLE,"Mar 25, 2026",MIA,Lost 103-120,"Lost /
+ Under",-2.5,243.5
+POR,"Mar 25, 2026",MIL,Won 130-99,"Won /
+ Over",-15.5,226.5
+HOU,"Mar 25, 2026",@MIN,Lost 108-110,"Lost /
+ Under",-1.5,223.5
+GSW,"Mar 25, 2026",BKN,Won 109-106,"Lost /
+ Under",-12.5,217.5
+LAL,"Mar 25, 2026",@IND,Won 137-130,"Lost /
+ Over",-8.5,241.5
+CHI,"Mar 25, 2026",@PHI,Lost 137-157,"Lost /
+ Over",6.5,241.5
+MIL,"Mar 25, 2026",@POR,Lost 99-130,"Lost /
+ Over",15.5,226.5
+MEM,"Mar 25, 2026",SAS,Lost 98-123,"Lost /
+ Under",16.5,234.5
+DET,"Mar 25, 2026",ATL,Lost 129-130,"Lost /
+ Over",-2.5,229.5
+OKC,"Mar 25, 2026",@BOS,Lost 109-119,"Lost /
+ Over",-2.5,222.5
+MIA,"Mar 25, 2026",@CLE,Won 120-103,"Won /
+ Under",2.5,243.5
+PHI,"Mar 25, 2026",CHI,Won 157-137,"Won /
+ Over",-6.5,241.5
+DEN,"Mar 25, 2026",DAL,Won 142-135,"Lost /
+ Over",-10.5,246.5
+DAL,"Mar 25, 2026",@DEN,Lost 135-142,"Won /
+ Over",10.5,246.5
+BKN,"Mar 25, 2026",@GSW,Lost 106-109,"Won /
+ Under",12.5,217.5
+MIN,"Mar 25, 2026",HOU,Won 110-108,"Won /
+ Under",1.5,223.5
+TOR,"Mar 25, 2026",@LAC,Lost 94-119,"Lost /
+ Under",3.5,226.5
+BOS,"Mar 25, 2026",OKC,Won 119-109,"Won /
+ Over",2.5,222.5
+LAC,"Mar 25, 2026",TOR,Won 119-94,"Won /
+ Under",-3.5,226.5
+WAS,"Mar 25, 2026",@UTA,Won 133-110,"Won /
+ Over",3.5,239.5
+SAS,"Mar 25, 2026",@MEM,Won 123-98,"Won /
+ Under",-16.5,234.5
+UTA,"Mar 25, 2026",WAS,Lost 110-133,"Lost /
+ Over",-3.5,239.5
+ATL,"Mar 25, 2026",@DET,Won 130-129,"Won /
+ Over",2.5,229.5
+CHA,"Mar 26, 2026",NYK,Won 114-103,"Won /
+ Under",-2.5,224.5
+SAC,"Mar 26, 2026",@ORL,Lost 117-121,"Won /
+ Over",15.5,230.5
+ORL,"Mar 26, 2026",SAC,Won 121-117,"Lost /
+ Over",-15.5,230.5
+DET,"Mar 26, 2026",NOP,Won 129-108,"Won /
+ Over",-4.5,225.5
+NOP,"Mar 26, 2026",@DET,Lost 108-129,"Lost /
+ Over",4.5,225.5
+NYK,"Mar 26, 2026",@CHA,Lost 103-114,"Lost /
+ Under",2.5,224.5
+BKN,"Mar 27, 2026",@LAL,Lost 99-116,"Won /
+ Under",18.5,224.5
+CLE,"Mar 27, 2026",MIA,Won 149-128,"Won /
+ Over",-5.5,240.5
+LAL,"Mar 27, 2026",BKN,Won 116-99,"Lost /
+ Under",-18.5,224.5
+LAC,"Mar 27, 2026",@IND,Won 114-113,"Lost /
+ Under",-8.5,235.5
+DAL,"Mar 27, 2026",@POR,Won 100-93,"Won /
+ Under",10.5,240.5
+BOS,"Mar 27, 2026",ATL,Won 109-102,"Won /
+ Under",-4.5,223.5
+ATL,"Mar 27, 2026",@BOS,Lost 102-109,"Lost /
+ Under",4.5,223.5
+MIA,"Mar 27, 2026",@CLE,Lost 128-149,"Lost /
+ Over",5.5,240.5
+TOR,"Mar 27, 2026",NOP,Won 119-106,"Won /
+ Under",-8.5,229.5
+OKC,"Mar 27, 2026",CHI,Won 131-113,"Lost /
+ Over",-18.5,241.5
+POR,"Mar 27, 2026",DAL,Lost 93-100,"Lost /
+ Under",-10.5,240.5
+UTA,"Mar 27, 2026",@DEN,Lost 129-135,"Won /
+ Over",19.5,247.5
+WAS,"Mar 27, 2026",@GSW,Lost 126-131,"Won /
+ Over",12.5,230.5
+MEM,"Mar 27, 2026",HOU,Lost 109-119,"Won /
+ Over",13.5,227.5
+IND,"Mar 27, 2026",LAC,Lost 113-114,"Won /
+ Under",8.5,235.5
+CHI,"Mar 27, 2026",@OKC,Lost 113-131,"Won /
+ Over",18.5,241.5
+NOP,"Mar 27, 2026",@TOR,Lost 106-119,"Lost /
+ Under",8.5,229.5
+DEN,"Mar 27, 2026",UTA,Won 135-129,"Lost /
+ Over",-19.5,247.5
+HOU,"Mar 27, 2026",@MEM,Won 119-109,"Lost /
+ Over",-13.5,227.5
+GSW,"Mar 27, 2026",WAS,Won 131-126,"Lost /
+ Over",-12.5,230.5
+SAS,"Mar 28, 2026",@MIL,Won 127-95,"Won /
+ Under",-17.5,227.5
+DET,"Mar 28, 2026",@MIN,Won 109-87,"Won /
+ Under",-2.5,221.5
+CHA,"Mar 28, 2026",PHI,Lost 114-118,"Lost /
+ Over",-6.5,231.5
+UTA,"Mar 28, 2026",@PHX,Lost 109-134,"Lost /
+ Over",17.5,232.5
+ATL,"Mar 28, 2026",SAC,Won 123-113,"Lost /
+ Over",-13.5,234.5
+MIL,"Mar 28, 2026",SAS,Lost 95-127,"Lost /
+ Under",17.5,227.5
+SAC,"Mar 28, 2026",@ATL,Lost 113-123,"Won /
+ Over",13.5,234.5
+MEM,"Mar 28, 2026",CHI,Won 125-124,"Won /
+ Over",5.5,247.5
+PHX,"Mar 28, 2026",UTA,Won 134-109,"Won /
+ Over",-17.5,232.5
+CHI,"Mar 28, 2026",@MEM,Lost 124-125,"Lost /
+ Over",-5.5,247.5
+MIN,"Mar 28, 2026",DET,Lost 87-109,"Lost /
+ Under",2.5,221.5
+PHI,"Mar 28, 2026",@CHA,Won 118-114,"Won /
+ Over",6.5,231.5
+IND,"Mar 29, 2026",MIA,Won 135-118,"Won /
+ Over",8.5,245.5
+LAC,"Mar 29, 2026",@MIL,Won 127-113,"Lost /
+ Over",-17.5,219.5
+SAC,"Mar 29, 2026",@BKN,Lost 99-116,"Lost /
+ Under",1.5,216.5
+OKC,"Mar 29, 2026",NYK,Won 111-100,"Won /
+ Under",-7.5,223.5
+TOR,"Mar 29, 2026",ORL,Won 139-87,"Won /
+ Under",-1.5,226.5
+MIA,"Mar 29, 2026",@IND,Lost 118-135,"Lost /
+ Over",-8.5,245.5
+WAS,"Mar 29, 2026",@POR,Lost 88-123,"Lost /
+ Under",16.5,235.5
+BKN,"Mar 29, 2026",SAC,Won 116-99,"Won /
+ Under",-1.5,216.5
+CHA,"Mar 29, 2026",BOS,Lost 99-114,"Lost /
+ Under",-2.5,216.5
+HOU,"Mar 29, 2026",@NOP,Won 134-102,"Won /
+ Over",-5.5,226.5
+GSW,"Mar 29, 2026",@DEN,Lost 93-116,"Lost /
+ Under",11.5,238.5
+DEN,"Mar 29, 2026",GSW,Won 116-93,"Won /
+ Under",-11.5,238.5
+NOP,"Mar 29, 2026",HOU,Lost 102-134,"Lost /
+ Over",5.5,226.5
+MIL,"Mar 29, 2026",LAC,Lost 113-127,"Won /
+ Over",17.5,219.5
+NYK,"Mar 29, 2026",@OKC,Lost 100-111,"Lost /
+ Under",7.5,223.5
+ORL,"Mar 29, 2026",@TOR,Lost 87-139,"Lost /
+ Under",1.5,226.5
+POR,"Mar 29, 2026",WAS,Won 123-88,"Won /
+ Under",-16.5,235.5
+BOS,"Mar 29, 2026",@CHA,Won 114-99,"Won /
+ Under",2.5,216.5
+WAS,"Mar 30, 2026",@LAL,Lost 101-120,"Lost /
+ Under",15.5,237.5
+PHI,"Mar 30, 2026",@MIA,Lost 109-119,"Lost /
+ Under",-2.5,242.5
+DAL,"Mar 30, 2026",MIN,Lost 94-124,"Lost /
+ Under",8.5,236.5
+MIA,"Mar 30, 2026",PHI,Won 119-109,"Won /
+ Under",2.5,242.5
+MEM,"Mar 30, 2026",PHX,Lost 105-131,"Lost /
+ Over",12.5,228.5
+CHI,"Mar 30, 2026",@SAS,Lost 114-129,"Won /
+ Under",17.5,246.5
+BOS,"Mar 30, 2026",@ATL,Lost 102-112,"Lost /
+ Under",2.5,225.5
+ATL,"Mar 30, 2026",BOS,Won 112-102,"Won /
+ Under",-2.5,225.5
+UTA,"Mar 30, 2026",CLE,Lost 113-122,"Won /
+ Under",16.5,242.5
+SAS,"Mar 30, 2026",CHI,Won 129-114,"Lost /
+ Under",-17.5,246.5
+MIN,"Mar 30, 2026",@DAL,Won 124-94,"Won /
+ Under",-8.5,236.5
+DET,"Mar 30, 2026",@OKC,Lost 110-114,"Won /
+ Over",11.5,217.5
+CLE,"Mar 30, 2026",@UTA,Won 122-113,"Lost /
+ Under",-16.5,242.5
+PHX,"Mar 30, 2026",@MEM,Won 131-105,"Won /
+ Over",-12.5,228.5
+LAL,"Mar 30, 2026",WAS,Won 120-101,"Won /
+ Under",-15.5,237.5
+OKC,"Mar 30, 2026",DET,Won 114-110,"Lost /
+ Over",-11.5,217.5
+CLE,"Mar 31, 2026",@LAL,Lost 113-127,"Lost /
+ Over",2.5,236.5
+DAL,"Mar 31, 2026",@MIL,Lost 99-123,"Lost /
+ Under",-2.5,231.5
+CHA,"Mar 31, 2026",@BKN,Won 117-86,"Won /
+ Under",-18.5,219.5
+HOU,"Mar 31, 2026",NYK,Won 111-94,"Won /
+ Under",1.5,218.5
+PHX,"Mar 31, 2026",@ORL,Lost 111-115,"Lost /
+ Over",2.5,225.5
+ORL,"Mar 31, 2026",PHX,Won 115-111,"Won /
+ Over",-2.5,225.5
+LAC,"Mar 31, 2026",POR,Lost 104-114,"Lost /
+ Under",-4.5,225.5
+LAL,"Mar 31, 2026",CLE,Won 127-113,"Won /
+ Over",-2.5,236.5
+MIL,"Mar 31, 2026",DAL,Won 123-99,"Won /
+ Under",2.5,231.5
+NYK,"Mar 31, 2026",@HOU,Lost 94-111,"Lost /
+ Under",-1.5,218.5
+POR,"Mar 31, 2026",@LAC,Won 114-104,"Won /
+ Under",4.5,225.5
+DET,"Mar 31, 2026",TOR,Won 127-116,"Won /
+ Over",-3.5,219.5
+TOR,"Mar 31, 2026",@DET,Lost 116-127,"Lost /
+ Over",3.5,219.5
+BKN,"Mar 31, 2026",CHA,Lost 86-117,"Lost /
+ Under",18.5,219.5
+BOS,"Apr 01, 2026",@MIA,Won 147-129,"Won /
+ Over",-4.5,229.5
+HOU,"Apr 01, 2026",MIL,Won 119-113,"Lost /
+ Over",-19.5,216.5
+MEM,"Apr 01, 2026",NYK,Lost 119-130,"Won /
+ Over",13.5,224.5
+ATL,"Apr 01, 2026",@ORL,Won 130-101,"Won /
+ Under",-2.5,235.5
+CHI,"Apr 01, 2026",IND,Lost 126-145,"Lost /
+ Over",-3.5,246.5
+WAS,"Apr 01, 2026",PHI,Lost 131-153,"Lost /
+ Over",14.5,239.5
+TOR,"Apr 01, 2026",SAC,Lost 115-123,"Lost /
+ Over",-12.5,227.5
+GSW,"Apr 01, 2026",SAS,Lost 113-127,"Won /
+ Over",14.5,228.5
+ORL,"Apr 01, 2026",ATL,Lost 101-130,"Lost /
+ Under",2.5,235.5
+MIA,"Apr 01, 2026",BOS,Lost 129-147,"Lost /
+ Over",4.5,229.5
+IND,"Apr 01, 2026",@CHI,Won 145-126,"Won /
+ Over",3.5,246.5
+UTA,"Apr 01, 2026",DEN,Lost 117-130,"Won /
+ Under",17.5,249.5
+SAS,"Apr 01, 2026",@GSW,Won 127-113,"Lost /
+ Over",-14.5,228.5
+MIL,"Apr 01, 2026",@HOU,Lost 113-119,"Won /
+ Over",19.5,216.5
+SAC,"Apr 01, 2026",@TOR,Won 123-115,"Won /
+ Over",12.5,227.5
+DEN,"Apr 01, 2026",@UTA,Won 130-117,"Lost /
+ Under",-17.5,249.5
+NYK,"Apr 01, 2026",@MEM,Won 130-119,"Lost /
+ Over",-13.5,224.5
+PHI,"Apr 01, 2026",@WAS,Won 153-131,"Won /
+ Over",-14.5,239.5
+OKC,"Apr 02, 2026",LAL,Won 139-96,"Won /
+ Over",-9.5,233.5
+DET,"Apr 02, 2026",MIN,Won 113-108,"Lost /
+ Over",-5.5,220.5
+CHA,"Apr 02, 2026",PHX,Won 127-107,"Won /
+ Over",-5.5,227.5
+NOP,"Apr 02, 2026",@POR,Lost 106-118,"Lost /
+ Under",5.5,235.5
+LAC,"Apr 02, 2026",SAS,Lost 99-118,"Lost /
+ Under",-2.5,231.5
+GSW,"Apr 02, 2026",CLE,Lost 111-118,"Won /
+ Under",10.5,230.5
+POR,"Apr 02, 2026",NOP,Won 118-106,"Won /
+ Under",-5.5,235.5
+CLE,"Apr 02, 2026",@GSW,Won 118-111,"Lost /
+ Under",-10.5,230.5
+SAS,"Apr 02, 2026",@LAC,Won 118-99,"Won /
+ Under",2.5,231.5
+LAL,"Apr 02, 2026",@OKC,Lost 96-139,"Lost /
+ Over",9.5,233.5
+MIN,"Apr 02, 2026",@DET,Lost 108-113,"Won /
+ Over",5.5,220.5
+PHX,"Apr 02, 2026",@CHA,Lost 107-127,"Lost /
+ Over",5.5,227.5
+BOS,"Apr 03, 2026",@MIL,Won 133-101,"Won /
+ Over",-17.5,217.5
+PHI,"Apr 03, 2026",MIN,Won 115-103,"Won /
+ Under",-3.5,233.5
+ATL,"Apr 03, 2026",@BKN,Won 141-107,"Won /
+ Over",-16.5,225.5
+CHI,"Apr 03, 2026",@NYK,Lost 96-136,"Lost /
+ Under",13.5,236.5
+DAL,"Apr 03, 2026",ORL,Lost 127-138,"Lost /
+ Over",6.5,239.5
+CHA,"Apr 03, 2026",IND,Won 129-108,"Won /
+ Over",-15.5,234.5
+MIN,"Apr 03, 2026",@PHI,Lost 103-115,"Lost /
+ Under",3.5,233.5
+NOP,"Apr 03, 2026",@SAC,Lost 113-117,"Lost /
+ Under",-6.5,232.5
+BKN,"Apr 03, 2026",ATL,Lost 107-141,"Lost /
+ Over",16.5,225.5
+MIL,"Apr 03, 2026",BOS,Lost 101-133,"Lost /
+ Over",17.5,217.5
+SAC,"Apr 03, 2026",NOP,Won 117-113,"Won /
+ Under",6.5,232.5
+NYK,"Apr 03, 2026",CHI,Won 136-96,"Won /
+ Under",-13.5,236.5
+ORL,"Apr 03, 2026",@DAL,Won 138-127,"Won /
+ Over",-6.5,239.5
+UTA,"Apr 03, 2026",@HOU,Lost 106-140,"Lost /
+ Over",18.5,231.5
+MEM,"Apr 03, 2026",TOR,Lost 96-128,"Lost /
+ Under",14.5,233.5
+HOU,"Apr 03, 2026",UTA,Won 140-106,"Won /
+ Over",-18.5,231.5
+TOR,"Apr 03, 2026",@MEM,Won 128-96,"Won /
+ Under",-14.5,233.5
+IND,"Apr 03, 2026",@CHA,Lost 108-129,"Lost /
+ Over",15.5,234.5
+WAS,"Apr 04, 2026",@MIA,Lost 136-152,"Won /
+ Over",18.5,245.5
+DET,"Apr 04, 2026",@PHI,Won 116-93,"Won /
+ Under",-3.5,225.5
+DEN,"Apr 04, 2026",SAS,Won 136-134,"Won /
+ Over",1.5,244.5
+SAS,"Apr 04, 2026",@DEN,Lost 134-136,"Lost /
+ Over",-1.5,244.5
+MIA,"Apr 04, 2026",WAS,Won 152-136,"Lost /
+ Over",-18.5,245.5
+PHI,"Apr 04, 2026",DET,Lost 93-116,"Lost /
+ Under",3.5,225.5
+DAL,"Apr 05, 2026",LAL,Won 134-128,"Won /
+ Over",1.5,234.5
+MEM,"Apr 05, 2026",@MIL,Lost 115-131,"Lost /
+ Over",7.5,230.5
+CHA,"Apr 05, 2026",@MIN,Won 122-108,"Won /
+ Over",-4.5,226.5
+WAS,"Apr 05, 2026",@BKN,Lost 115-121,"Lost /
+ Over",3.5,230.5
+NOP,"Apr 05, 2026",ORL,Lost 108-112,"Won /
+ Under",6.5,236.5
+CLE,"Apr 05, 2026",IND,Won 117-108,"Lost /
+ Under",-16.5,240.5
+CHI,"Apr 05, 2026",PHX,Lost 110-120,"Won /
+ Under",11.5,243.5
+LAC,"Apr 05, 2026",@SAC,Won 138-109,"Won /
+ Over",-13.5,228.5
+TOR,"Apr 05, 2026",@BOS,Lost 101-115,"Lost /
+ Under",9.5,221.5
+IND,"Apr 05, 2026",@CLE,Lost 108-117,"Won /
+ Under",16.5,240.5
+ORL,"Apr 05, 2026",@NOP,Won 112-108,"Lost /
+ Under",-6.5,236.5
+PHX,"Apr 05, 2026",@CHI,Won 120-110,"Lost /
+ Under",-11.5,243.5
+LAL,"Apr 05, 2026",@DAL,Lost 128-134,"Lost /
+ Over",-1.5,234.5
+HOU,"Apr 05, 2026",@GSW,Won 117-116,"Lost /
+ Over",-3.5,227.5
+GSW,"Apr 05, 2026",HOU,Lost 116-117,"Won /
+ Over",3.5,227.5
+SAC,"Apr 05, 2026",LAC,Lost 109-138,"Lost /
+ Over",13.5,228.5
+UTA,"Apr 05, 2026",@OKC,Lost 111-146,"Lost /
+ Over",24.5,239.5
+BOS,"Apr 05, 2026",TOR,Won 115-101,"Won /
+ Under",-9.5,221.5
+OKC,"Apr 05, 2026",UTA,Won 146-111,"Won /
+ Over",-24.5,239.5
+MIL,"Apr 05, 2026",MEM,Won 131-115,"Won /
+ Over",-7.5,230.5
+BKN,"Apr 05, 2026",WAS,Won 121-115,"Won /
+ Over",-3.5,230.5
+MIN,"Apr 05, 2026",CHA,Lost 108-122,"Lost /
+ Over",4.5,226.5
+ATL,"Apr 06, 2026",NYK,Lost 105-108,"Lost /
+ Under",-1.5,226.5
+DET,"Apr 06, 2026",@ORL,Lost 107-123,"Lost /
+ Over",-1.5,222.5
+SAS,"Apr 06, 2026",PHI,Won 115-102,"Won /
+ Under",-8.5,237.5
+DEN,"Apr 06, 2026",POR,Won 137-132,"Lost /
+ Over",-6.5,235.5
+PHI,"Apr 06, 2026",@SAS,Lost 102-115,"Lost /
+ Under",8.5,237.5
+NYK,"Apr 06, 2026",@ATL,Won 108-105,"Won /
+ Under",1.5,226.5
+MEM,"Apr 06, 2026",CLE,Lost 126-142,"Lost /
+ Over",13.5,231.5
+POR,"Apr 06, 2026",@DEN,Lost 132-137,"Won /
+ Over",6.5,235.5
+CLE,"Apr 06, 2026",@MEM,Won 142-126,"Won /
+ Over",-13.5,231.5
+ORL,"Apr 06, 2026",DET,Won 123-107,"Won /
+ Over",1.5,222.5
+OKC,"Apr 07, 2026",@LAL,Won 123-87,"Won /
+ Under",-17.5,221.5
+TOR,"Apr 07, 2026",MIA,Won 121-95,"Won /
+ Under",-2.5,240.5
+BKN,"Apr 07, 2026",MIL,Won 96-90,"Won /
+ Under",1.5,218.5
+IND,"Apr 07, 2026",MIN,Lost 104-124,"Lost /
+ Under",12.5,234.5
+MIL,"Apr 07, 2026",@BKN,Lost 90-96,"Lost /
+ Under",-1.5,218.5
+MIN,"Apr 07, 2026",@IND,Won 124-104,"Won /
+ Under",-12.5,234.5
+HOU,"Apr 07, 2026",@PHX,Won 119-105,"Won /
+ Over",-1.5,221.5
+GSW,"Apr 07, 2026",SAC,Won 110-105,"Lost /
+ Under",-14.5,233.5
+CHA,"Apr 07, 2026",@BOS,Lost 102-113,"Lost /
+ Under",4.5,221.5
+UTA,"Apr 07, 2026",@NOP,Lost 137-156,"Lost /
+ Over",6.5,242.5
+WAS,"Apr 07, 2026",CHI,Lost 98-129,"Lost /
+ Under",5.5,249.5
+LAC,"Apr 07, 2026",DAL,Won 116-103,"Won /
+ Under",-11.5,235.5
+SAC,"Apr 07, 2026",@GSW,Lost 105-110,"Won /
+ Under",14.5,233.5
+PHX,"Apr 07, 2026",HOU,Lost 105-119,"Lost /
+ Over",1.5,221.5
+DAL,"Apr 07, 2026",@LAC,Lost 103-116,"Lost /
+ Under",11.5,235.5
+LAL,"Apr 07, 2026",OKC,Lost 87-123,"Lost /
+ Under",17.5,221.5
+MIA,"Apr 07, 2026",@TOR,Lost 95-121,"Lost /
+ Under",2.5,240.5
+NOP,"Apr 07, 2026",UTA,Won 156-137,"Won /
+ Over",-6.5,242.5
+CHI,"Apr 07, 2026",@WAS,Won 129-98,"Won /
+ Under",-5.5,249.5
+BOS,"Apr 07, 2026",CHA,Won 113-102,"Won /
+ Under",-4.5,221.5
+DET,"Apr 08, 2026",MIL,Won 137-111,"Won /
+ Over",-22.5,222.5
+ORL,"Apr 08, 2026",MIN,Won 132-120,"Won /
+ Over",-11.5,233.5
+MIN,"Apr 08, 2026",@ORL,Lost 120-132,"Lost /
+ Over",11.5,233.5
+DAL,"Apr 08, 2026",@PHX,Lost 107-112,"Won /
+ Under",12.5,234.5
+SAS,"Apr 08, 2026",POR,Won 112-101,"Won /
+ Under",-2.5,229.5
+POR,"Apr 08, 2026",@SAS,Lost 101-112,"Lost /
+ Under",2.5,229.5
+CLE,"Apr 08, 2026",ATL,Won 122-116,"Won /
+ Over",-4.5,237.5
+ATL,"Apr 08, 2026",@CLE,Lost 116-122,"Lost /
+ Over",4.5,237.5
+PHX,"Apr 08, 2026",DAL,Won 112-107,"Lost /
+ Under",-12.5,234.5
+MEM,"Apr 08, 2026",@DEN,Lost 119-136,"Won /
+ Over",23.5,247.5
+OKC,"Apr 08, 2026",@LAC,Won 128-110,"Won /
+ Over",-8.5,223.5
+LAC,"Apr 08, 2026",OKC,Lost 110-128,"Lost /
+ Over",8.5,223.5
+DEN,"Apr 08, 2026",MEM,Won 136-119,"Lost /
+ Over",-23.5,247.5
+MIL,"Apr 08, 2026",@DET,Lost 111-137,"Lost /
+ Over",22.5,222.5
+GSW,"Apr 09, 2026",LAL,Lost 103-119,"Lost /
+ Under",-1.5,222.5
+TOR,"Apr 09, 2026",MIA,Won 128-114,"Won /
+ Over",-4.5,236.5
+IND,"Apr 09, 2026",@BKN,Won 123-94,"Won /
+ Under",-3.5,224.5
+BOS,"Apr 09, 2026",@NYK,Lost 106-112,"Lost /
+ Over",3.5,210.5
+BKN,"Apr 09, 2026",IND,Lost 94-123,"Lost /
+ Under",3.5,224.5
+HOU,"Apr 09, 2026",PHI,Won 113-102,"Won /
+ Under",-6.5,226.5
+NYK,"Apr 09, 2026",BOS,Won 112-106,"Won /
+ Over",-3.5,210.5
+WAS,"Apr 09, 2026",CHI,Lost 108-119,"Lost /
+ Under",6.5,249.5
+LAL,"Apr 09, 2026",@GSW,Won 119-103,"Won /
+ Under",1.5,222.5
+PHI,"Apr 09, 2026",@HOU,Lost 102-113,"Lost /
+ Under",6.5,226.5
+MIA,"Apr 09, 2026",@TOR,Lost 114-128,"Lost /
+ Over",4.5,236.5
+CHI,"Apr 09, 2026",@WAS,Won 119-108,"Won /
+ Under",-6.5,249.5
+PHX,"Apr 10, 2026",@LAL,Lost 73-101,"Lost /
+ Under",-2.5,217.5
+WAS,"Apr 10, 2026",MIA,Lost 117-140,"Lost /
+ Over",15.5,243.5
+BKN,"Apr 10, 2026",@MIL,Lost 108-125,"Lost /
+ Over",10.5,218.5
+HOU,"Apr 10, 2026",MIN,Lost 132-136,"Lost /
+ Over",-9.5,227.5
+MIL,"Apr 10, 2026",BKN,Won 125-108,"Won /
+ Over",-10.5,218.5
+TOR,"Apr 10, 2026",@NYK,Lost 95-112,"Lost /
+ Under",6.5,218.5
+CHI,"Apr 10, 2026",ORL,Lost 103-127,"Lost /
+ Under",16.5,246.5
+PHI,"Apr 10, 2026",@IND,Won 105-94,"Lost /
+ Under",-14.5,234.5
+IND,"Apr 10, 2026",PHI,Lost 94-105,"Won /
+ Under",14.5,234.5
+LAL,"Apr 10, 2026",PHX,Won 101-73,"Won /
+ Under",2.5,217.5
+LAC,"Apr 10, 2026",@POR,Lost 97-116,"Lost /
+ Under",1.5,226.5
+GSW,"Apr 10, 2026",@SAC,Lost 118-124,"Lost /
+ Over",-10.5,228.5
+DAL,"Apr 10, 2026",@SAS,Lost 120-139,"Lost /
+ Over",18.5,236.5
+CLE,"Apr 10, 2026",@ATL,Lost 102-124,"Lost /
+ Under",8.5,233.5
+NOP,"Apr 10, 2026",@BOS,Lost 118-144,"Lost /
+ Over",18.5,227.5
+ATL,"Apr 10, 2026",CLE,Won 124-102,"Won /
+ Under",-8.5,233.5
+BOS,"Apr 10, 2026",NOP,Won 144-118,"Won /
+ Over",-18.5,227.5
+ORL,"Apr 10, 2026",@CHI,Won 127-103,"Won /
+ Under",-16.5,246.5
+SAS,"Apr 10, 2026",DAL,Won 139-120,"Won /
+ Over",-18.5,236.5
+OKC,"Apr 10, 2026",@DEN,Lost 107-127,"Lost /
+ Over",2.5,223.5
+SAC,"Apr 10, 2026",GSW,Won 124-118,"Won /
+ Over",10.5,228.5
+MIN,"Apr 10, 2026",@HOU,Won 136-132,"Won /
+ Over",9.5,227.5
+POR,"Apr 10, 2026",LAC,Won 116-97,"Won /
+ Under",-1.5,226.5
+DEN,"Apr 10, 2026",OKC,Won 127-107,"Won /
+ Over",-2.5,223.5
+NYK,"Apr 10, 2026",TOR,Won 112-95,"Won /
+ Under",-6.5,218.5
+MEM,"Apr 10, 2026",@UTA,Lost 101-147,"Lost /
+ Over",4.5,247.5
+UTA,"Apr 10, 2026",MEM,Won 147-101,"Won /
+ Over",-4.5,247.5
+MIA,"Apr 10, 2026",@WAS,Won 140-117,"Won /
+ Over",-15.5,243.5
+CHA,"Apr 10, 2026",DET,Lost 100-118,"Lost /
+ Under",-6.5,225.5
+DET,"Apr 10, 2026",@CHA,Won 118-100,"Won /
+ Under",6.5,225.5
+UTA,"Apr 12, 2026",@LAL,Lost 107-131,"Lost /
+ Under",14.5,239.5
+ATL,"Apr 12, 2026",@MIA,Lost 117-143,"Lost /
+ Over",10.5,239.5
+PHI,"Apr 12, 2026",MIL,Won 126-106,"Won /
+ Over",-16.5,225.5
+NOP,"Apr 12, 2026",@MIN,Lost 126-132,"Lost /
+ Over",3.5,239.5
+TOR,"Apr 12, 2026",BKN,Won 136-101,"Won /
+ Over",-23.5,218.5
+CHA,"Apr 12, 2026",@NYK,Won 110-96,"Lost /
+ Under",-14.5,217.5
+BOS,"Apr 12, 2026",ORL,Won 113-108,"Won /
+ Under",12.5,222.5
+DET,"Apr 12, 2026",@IND,Won 133-121,"Lost /
+ Over",-16.5,232.5
+MIL,"Apr 12, 2026",@PHI,Lost 106-126,"Lost /
+ Over",16.5,225.5
+OKC,"Apr 12, 2026",PHX,Lost 103-135,"Lost /
+ Over",-7.5,213.5
+SAC,"Apr 12, 2026",@POR,Lost 110-122,"Won /
+ Over",18.5,226.5
+POR,"Apr 12, 2026",SAC,Won 122-110,"Lost /
+ Over",-18.5,226.5
+DEN,"Apr 12, 2026",@SAS,Won 128-118,"Won /
+ Over",9.5,235.5
+MIA,"Apr 12, 2026",ATL,Won 143-117,"Won /
+ Over",-10.5,239.5
+ORL,"Apr 12, 2026",@BOS,Lost 108-113,"Lost /
+ Under",-12.5,222.5
+WAS,"Apr 12, 2026",@CLE,Lost 117-130,"Lost /
+ Over",10.5,234.5
+MIN,"Apr 12, 2026",NOP,Won 132-126,"Won /
+ Over",-3.5,239.5
+DAL,"Apr 12, 2026",CHI,Won 149-128,"Won /
+ Over",-5.5,249.5
+CHI,"Apr 12, 2026",@DAL,Lost 128-149,"Lost /
+ Over",5.5,249.5
+SAS,"Apr 12, 2026",DEN,Lost 118-128,"Lost /
+ Over",-9.5,235.5
+LAC,"Apr 12, 2026",GSW,Won 115-110,"Won /
+ Under",-3.5,229.5
+MEM,"Apr 12, 2026",@HOU,Lost 101-132,"Lost /
+ Over",14.5,230.5
+GSW,"Apr 12, 2026",@LAC,Lost 110-115,"Lost /
+ Under",3.5,229.5
+PHX,"Apr 12, 2026",@OKC,Won 135-103,"Won /
+ Over",7.5,213.5
+BKN,"Apr 12, 2026",@TOR,Lost 101-136,"Lost /
+ Over",23.5,218.5
+LAL,"Apr 12, 2026",UTA,Won 131-107,"Won /
+ Under",-14.5,239.5
+HOU,"Apr 12, 2026",MEM,Won 132-101,"Won /
+ Over",-14.5,230.5
+CLE,"Apr 12, 2026",WAS,Won 130-117,"Won /
+ Over",-10.5,234.5
+IND,"Apr 12, 2026",DET,Lost 121-133,"Won /
+ Over",16.5,232.5
+NYK,"Apr 12, 2026",CHA,Lost 96-110,"Won /
+ Under",14.5,217.5

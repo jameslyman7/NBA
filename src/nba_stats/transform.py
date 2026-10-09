@@ -10,6 +10,7 @@ from nba_stats.teams import team_tricode
 
 PLAYER_BOXSCORE_COLUMNS = [
     "Player",
+    "Player ID",
     "Pos",
     "Team",
     "Match up",
@@ -70,6 +71,8 @@ INJURY_COLUMNS = ["Identifier", "Pos", "Player", "Status"]
 
 LEAGUE_RESULTS_COLUMNS = ["Identifier", "Date", "OPP", "RESULT", "ATS/OU", "Spread", "Total"]
 
+SCHEDULE_COLUMNS = ["Identifier", "Date", "OPP", "Time", "Location", "Game Type"]
+
 
 def _format_boxscore_date(value) -> str:
     if value is None or (isinstance(value, float) and pd.isna(value)):
@@ -79,7 +82,7 @@ def _format_boxscore_date(value) -> str:
     text = str(value).strip()
     if "T" in text:
         text = text.split("T", maxsplit=1)[0]
-    for fmt in ("%Y-%m-%d", "%m/%d/%Y"):
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%m/%d/%Y %H:%M:%S"):
         try:
             return datetime.strptime(text, fmt).strftime("%m/%d/%Y")
         except ValueError:
@@ -95,7 +98,7 @@ def _format_league_date(value) -> str:
     text = str(value).strip()
     if "T" in text:
         text = text.split("T", maxsplit=1)[0]
-    for fmt in ("%Y-%m-%d", "%m/%d/%Y"):
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%m/%d/%Y %H:%M:%S"):
         try:
             return datetime.strptime(text, fmt).strftime("%b %d, %Y")
         except ValueError:
@@ -141,10 +144,16 @@ def player_logs_to_boxscores(df: pd.DataFrame) -> pd.DataFrame:
         if "POSITION" in df.columns
         else pd.Series([""] * len(df), index=df.index)
     )
+    player_ids = (
+        df["PLAYER_ID"]
+        if "PLAYER_ID" in df.columns
+        else pd.Series([""] * len(df), index=df.index)
+    )
 
     out = pd.DataFrame(
         {
             "Player": df.get("PLAYER_NAME", ""),
+            "Player ID": player_ids,
             "Pos": positions,
             "Team": df.get("TEAM_ABBREVIATION", ""),
             "Match up": df.get("MATCHUP", "").map(_matchup_label),
@@ -359,3 +368,62 @@ def schedule_rows_to_league_results(df: pd.DataFrame) -> pd.DataFrame:
         )
 
     return pd.DataFrame(rows, columns=LEAGUE_RESULTS_COLUMNS)
+
+
+def season_schedule_to_team_rows(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Expand ScheduleLeagueV2 games into one row per team (home + away).
+
+    Output schema matches a concatenated team-schedule file:
+    Identifier, Date, OPP, Time, Location, Game Type
+    """
+    if df.empty:
+        return pd.DataFrame(columns=SCHEDULE_COLUMNS)
+
+    working = df.copy()
+    if "gameDate" in working.columns:
+        working["_sort_date"] = pd.to_datetime(working["gameDate"], errors="coerce")
+        working = working.sort_values("_sort_date", kind="stable")
+
+    rows: list[dict] = []
+    for _, game in working.iterrows():
+        home = game.get("homeTeam_teamTricode")
+        away = game.get("awayTeam_teamTricode")
+        if home is None or away is None or (isinstance(home, float) and pd.isna(home)):
+            continue
+        if isinstance(away, float) and pd.isna(away):
+            continue
+
+        home = str(home).strip()
+        away = str(away).strip()
+        if not home or not away:
+            continue
+
+        game_date = _format_league_date(game.get("gameDate") or game.get("gameDateEst"))
+        tip_time = str(game.get("gameStatusText") or "").strip()
+        if tip_time.lower() in {"final", "ppd", "postponed"}:
+            tip_time = ""
+        game_type = str(game.get("gameLabel") or "").strip() or "Regular Season"
+
+        rows.append(
+            {
+                "Identifier": home,
+                "Date": game_date,
+                "OPP": away,
+                "Time": tip_time,
+                "Location": "Home",
+                "Game Type": game_type,
+            }
+        )
+        rows.append(
+            {
+                "Identifier": away,
+                "Date": game_date,
+                "OPP": f"@{home}",
+                "Time": tip_time,
+                "Location": "Away",
+                "Game Type": game_type,
+            }
+        )
+
+    return pd.DataFrame(rows, columns=SCHEDULE_COLUMNS)
